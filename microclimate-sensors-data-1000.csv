@@ -1,0 +1,1001 @@
+Device_id,Time,SensorLocation,LatLong,MinimumWindDirection,AverageWindDirection,MaximumWindDirection,MinimumWindSpeed,AverageWindSpeed,GustWindSpeed,AirTemperature,RelativeHumidity,AtmosphericPressure,PM25,PM10,Noise
+ICTMicroclimate-08,2025-02-09T11:54:37+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,153.0,358.0,0.0,3.9,7.9,23.9,57.3,1009.7,0.0,0.0,80.5
+ICTMicroclimate-11,2025-02-09T12:02:11+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,144.0,356.0,0.0,2.0,7.8,24.5,56.2,1005.3,0.0,0.0,62.9
+ICTMicroclimate-05,2025-02-09T12:03:24+11:00,Enterprize Park - Pole ID: COM1667,"-37.8204083, 144.9591192",0.0,45.0,133.0,0.0,1.5,2.7,25.0,60.0,1009.6,1.0,3.0,68.5
+ICTMicroclimate-01,2025-02-09T12:02:43+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,150.0,,,1.6,,23.1,61.099998,1009.0,0.0,5.0,51.700001
+ICTMicroclimate-09,2025-02-09T12:17:37+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,241.0,359.0,0.0,0.9,4.4,25.6,53.7,1007.9,0.0,0.0,60.2
+ICTMicroclimate-05,2025-02-09T12:18:26+11:00,Enterprize Park - Pole ID: COM1667,"-37.8204083, 144.9591192",0.0,357.0,32.0,1.6,1.9,2.2,24.5,58.7,1009.3,1.0,3.0,68.7
+ICTMicroclimate-02,2025-02-09T12:26:51+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,357.0,359.0,0.0,0.5,1.4,26.6,51.8,1004.7,1.0,3.0,69.2
+ICTMicroclimate-07,2025-02-09T12:35:39+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,91.0,356.0,0.0,0.9,4.4,26.6,49.2,1011.3,0.0,0.0,64.5
+ICTMicroclimate-01,2025-02-09T12:32:44+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,143.0,,,1.9,,23.9,59.599998,1008.5,0.0,5.0,53.200001
+ICTMicroclimate-04,2025-02-09T12:38:22+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,10.0,356.0,0.0,1.5,6.9,26.5,51.8,1011.9,0.0,0.0,72.3
+ICTMicroclimate-09,2025-02-09T12:47:40+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,232.0,359.0,0.0,2.2,5.0,26.2,50.4,1007.5,0.0,0.0,63.8
+ICTMicroclimate-11,2025-02-09T12:47:14+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,192.0,353.0,0.0,5.5,7.2,25.2,52.7,1004.3,0.0,0.0,68.3
+ICTMicroclimate-07,2025-02-09T12:50:40+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,121.0,354.0,0.0,1.2,5.5,27.1,48.4,1011.1,0.0,0.0,73.9
+ICTMicroclimate-06,2025-02-09T12:52:35+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,166.0,358.0,0.0,2.3,7.4,26.2,50.6,1009.3,0.0,0.0,70.5
+ICTMicroclimate-08,2025-02-09T12:54:40+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,147.0,302.0,0.0,3.1,8.3,25.4,53.0,1008.7,0.0,0.0,77.6
+ICTMicroclimate-08,2025-02-09T12:09:37+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,168.0,314.0,0.0,3.4,7.8,24.5,55.3,1009.5,0.0,0.0,80.0
+aws5-0999,2025-02-09T12:09:47+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,2.0,347.0,0.3,0.0,0.8,24.1,60.6,1006.6,,,
+ICTMicroclimate-11,2025-02-09T12:32:12+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,120.0,354.0,0.0,1.6,8.1,25.6,54.7,1004.7,0.0,2.0,85.7
+ICTMicroclimate-11,2025-02-09T13:02:15+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,170.0,353.0,0.0,2.2,6.9,26.3,51.6,1004.1,0.0,0.0,63.4
+ICTMicroclimate-05,2025-02-09T13:03:31+11:00,Enterprize Park - Pole ID: COM1667,"-37.8204083, 144.9591192",0.0,359.0,356.0,1.1,1.6,1.7,26.4,53.0,1008.6,2.0,4.0,68.9
+ICTMicroclimate-01,2025-02-09T13:17:46+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,142.0,,,2.6,,24.700001,56.400002,1007.799988,0.0,5.0,57.900002
+ICTMicroclimate-04,2025-02-09T13:23:27+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,358.0,356.0,0.0,0.8,4.3,27.0,49.9,1011.3,0.0,0.0,72.5
+ICTMicroclimate-03,2025-02-09T13:20:29+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,165.0,263.0,0.0,1.1,2.2,26.2,52.9,1002.9,1.0,3.0,74.5
+ICTMicroclimate-08,2025-02-09T13:24:46+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,105.0,354.0,0.1,1.6,8.5,26.9,49.0,1008.5,0.0,0.0,75.4
+ICTMicroclimate-09,2025-02-09T13:32:45+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,260.0,358.0,0.0,1.0,4.7,27.5,48.4,1006.9,0.0,0.0,63.3
+ICTMicroclimate-07,2025-02-09T13:35:47+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,148.0,352.0,0.0,1.1,5.9,28.5,45.5,1010.5,0.0,0.0,63.8
+ICTMicroclimate-05,2025-02-09T13:33:36+11:00,Enterprize Park - Pole ID: COM1667,"-37.8204083, 144.9591192",0.0,349.0,357.0,0.7,1.7,3.4,27.1,51.1,1008.3,1.0,3.0,70.5
+ICTMicroclimate-03,2025-02-09T13:35:32+11:00,CH1 rooftop,"-37.8140348, 144.96728",177.0,213.0,246.0,0.8,2.4,3.9,26.6,51.8,1002.7,1.0,3.0,86.0
+ICTMicroclimate-09,2025-02-09T13:47:47+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,208.0,356.0,0.0,1.5,4.2,27.9,46.9,1006.7,0.0,0.0,59.3
+ICTMicroclimate-08,2025-02-09T13:54:47+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,120.0,352.0,0.0,2.6,7.9,27.3,48.7,1007.9,0.0,0.0,88.7
+ICTMicroclimate-02,2025-02-09T13:57:03+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,284.0,312.0,0.0,1.4,3.0,27.3,50.1,1003.3,2.0,4.0,74.5
+ICTMicroclimate-11,2025-02-09T14:02:19+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,170.0,355.0,0.0,2.7,7.9,27.2,49.3,1003.5,0.0,0.0,64.9
+ICTMicroclimate-08,2025-02-09T14:24:52+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,166.0,345.0,0.0,3.2,8.0,27.8,46.7,1007.7,0.0,0.0,75.4
+ICTMicroclimate-06,2025-02-09T14:22:47+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,102.0,357.0,0.1,2.8,7.8,28.6,44.9,1008.3,0.0,0.0,75.5
+ICTMicroclimate-05,2025-02-09T14:18:41+11:00,Enterprize Park - Pole ID: COM1667,"-37.8204083, 144.9591192",0.0,97.0,45.0,0.0,0.5,0.1,27.9,50.4,1007.6,2.0,4.0,68.7
+ICTMicroclimate-02,2025-02-09T14:27:07+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,347.0,354.0,0.0,1.0,1.8,28.7,46.2,1003.1,1.0,3.0,68.4
+ICTMicroclimate-09,2025-02-09T14:32:51+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,279.0,359.0,0.0,0.9,7.3,28.1,45.5,1006.1,0.0,0.0,60.0
+ICTMicroclimate-01,2025-02-09T14:32:48+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,149.0,,,2.2,,26.6,51.099998,1007.099976,0.0,4.0,54.599998
+ICTMicroclimate-09,2025-02-09T14:02:49+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,356.0,356.0,0.0,1.1,6.3,27.9,47.4,1006.5,0.0,0.0,61.0
+ICTMicroclimate-05,2025-02-09T14:03:39+11:00,Enterprize Park - Pole ID: COM1667,"-37.8204083, 144.9591192",0.0,68.0,148.0,0.0,0.4,2.0,27.6,51.1,1007.8,1.0,3.0,76.5
+ICTMicroclimate-06,2025-02-09T14:07:44+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,131.0,349.0,0.0,2.4,14.7,27.9,46.2,1008.5,0.0,0.0,76.7
+ICTMicroclimate-07,2025-02-09T14:05:51+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,89.0,353.0,0.0,0.6,7.6,28.8,44.9,1010.1,0.0,0.0,73.5
+ICTMicroclimate-05,2025-02-09T14:33:43+11:00,Enterprize Park - Pole ID: COM1667,"-37.8204083, 144.9591192",26.0,8.0,26.0,1.2,1.7,1.2,27.6,49.2,1007.5,1.0,3.0,69.5
+ICTMicroclimate-02,2025-02-09T14:42:09+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,245.0,340.0,0.0,2.4,5.3,27.8,47.1,1002.5,1.0,3.0,72.1
+ICTMicroclimate-06,2025-02-09T14:52:52+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,144.0,359.0,0.0,3.0,13.4,28.5,43.7,1007.9,0.0,0.0,60.6
+ICTMicroclimate-04,2025-02-09T14:53:40+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,143.0,356.0,0.0,1.0,5.5,27.3,47.5,1010.1,0.0,0.0,61.1
+ICTMicroclimate-11,2025-02-09T15:02:23+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,106.0,355.0,0.0,1.5,10.0,27.2,47.5,1002.7,0.0,0.0,61.0
+ICTMicroclimate-09,2025-02-09T15:02:55+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,13.0,359.0,0.0,0.9,7.0,28.2,45.0,1005.9,0.0,0.0,60.1
+ICTMicroclimate-10,2024-11-03T13:17:17+11:00,1 Treasury Place,"-37.8128595, 144.9745395",87.0,186.0,251.0,0.5,2.9,6.0,19.0,48.9,1003.9,1.0,10.0,109.4
+ICTMicroclimate-08,2024-11-03T12:56:45+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,194.0,350.0,0.0,2.4,7.7,19.2,46.6,1008.3,1.0,1.0,91.9
+ICTMicroclimate-06,2024-11-03T13:06:04+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,148.0,355.0,0.0,2.3,7.7,20.9,42.1,1008.5,0.0,0.0,78.4
+ICTMicroclimate-02,2024-11-03T12:59:01+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",297.0,359.0,353.0,0.6,0.7,2.3,21.3,41.3,1003.4,2.0,6.0,68.6
+ICTMicroclimate-11,2024-11-03T12:55:37+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,130.0,356.0,0.0,1.6,6.5,20.3,44.8,1003.5,0.0,0.0,57.2
+ICTMicroclimate-03,2024-11-03T12:52:32+11:00,CH1 rooftop,"-37.8140348, 144.96728",153.0,168.0,170.0,2.7,3.6,3.2,18.5,49.9,1002.6,2.0,4.0,82.4
+ICTMicroclimate-07,2024-11-03T13:07:48+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,184.0,355.0,0.0,1.7,4.3,22.0,38.9,1010.3,1.0,2.0,72.1
+ICTMicroclimate-08,2024-11-03T13:11:48+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,139.0,352.0,0.0,2.1,7.4,19.7,46.8,1008.1,1.0,1.0,74.1
+ICTMicroclimate-08,2024-11-03T13:26:54+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,130.0,350.0,0.0,2.7,8.0,20.1,43.5,1008.1,1.0,1.0,82.7
+ICTMicroclimate-06,2024-11-03T13:36:08+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,192.0,356.0,0.0,3.2,8.2,21.2,41.5,1008.3,0.0,0.0,93.4
+ICTMicroclimate-11,2024-11-03T13:40:40+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,132.0,351.0,0.0,1.7,7.0,19.9,45.4,1003.5,1.0,1.0,49.5
+ICTMicroclimate-04,2024-11-03T13:40:36+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,18.0,341.0,0.0,0.6,6.1,20.1,46.9,1010.9,2.0,3.0,65.6
+ICTMicroclimate-09,2024-11-03T13:49:51+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,91.0,359.0,0.0,1.1,7.1,21.1,46.2,1006.9,1.0,3.0,69.3
+ICTMicroclimate-09,2024-11-03T12:34:41+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,169.0,357.0,0.0,1.5,6.7,20.0,49.5,1007.1,1.0,3.0,60.3
+ICTMicroclimate-06,2024-11-03T12:51:02+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,192.0,356.0,0.0,3.2,8.6,20.6,43.8,1008.5,0.0,0.0,62.7
+ICTMicroclimate-08,2024-11-03T12:41:46+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,155.0,357.0,0.0,1.6,6.8,19.5,47.7,1008.3,1.0,1.0,69.4
+ICTMicroclimate-02,2024-11-03T12:43:59+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,45.0,356.0,0.0,1.0,2.6,20.5,45.5,1003.6,5.0,7.0,68.7
+ICTMicroclimate-11,2024-11-03T12:40:36+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,131.0,357.0,0.0,1.7,7.9,19.4,48.4,1003.7,1.0,3.0,49.5
+ICTMicroclimate-11,2024-11-03T12:25:35+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,182.0,357.0,0.0,3.7,7.2,19.3,51.3,1003.7,0.0,2.0,89.0
+ICTMicroclimate-04,2024-11-03T12:25:26+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,215.0,359.0,0.0,2.5,7.1,19.3,50.1,1011.3,2.0,3.0,76.6
+ICTMicroclimate-07,2024-11-03T12:07:40+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,105.0,351.0,0.0,1.0,7.2,20.1,48.5,1010.5,1.0,2.0,61.8
+ICTMicroclimate-06,2024-11-03T12:05:56+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,157.0,352.0,0.0,4.5,9.7,19.4,49.8,1008.5,0.0,0.0,77.2
+ICTMicroclimate-01,2024-11-03T12:02:38+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,10.0,,,0.3,,19.5,54.200001,1007.799988,0.0,4.0,57.900002
+ICTMicroclimate-08,2024-11-03T12:11:40+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,161.0,348.0,0.0,1.0,8.3,19.1,51.4,1008.3,1.0,1.0,71.9
+ICTMicroclimate-07,2024-11-03T12:52:47+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,169.0,354.0,0.0,1.2,5.0,21.6,41.3,1010.3,1.0,2.0,61.5
+ICTMicroclimate-03,2024-11-03T13:52:39+11:00,CH1 rooftop,"-37.8140348, 144.96728",161.0,182.0,203.0,0.7,2.0,2.7,18.6,50.4,1002.4,3.0,5.0,76.8
+ICTMicroclimate-02,2024-11-03T13:59:10+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,14.0,347.0,0.0,1.1,1.9,21.8,42.0,1003.1,3.0,5.0,69.2
+ICTMicroclimate-08,2024-11-03T14:12:00+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,207.0,346.0,0.0,1.9,7.5,20.9,44.5,1007.9,1.0,1.0,65.3
+ICTMicroclimate-07,2024-11-03T14:07:57+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,93.0,356.0,0.0,0.8,5.5,21.6,42.6,1009.9,1.0,2.0,76.6
+ICTMicroclimate-04,2024-11-03T14:10:41+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,358.0,352.0,0.0,0.5,7.6,19.9,45.1,1010.9,2.0,3.0,64.6
+ICTMicroclimate-02,2024-11-03T14:14:12+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,335.0,355.0,0.0,1.0,1.9,21.8,42.0,1003.0,3.0,5.0,71.0
+ICTMicroclimate-09,2024-11-03T14:19:56+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,253.0,354.0,0.0,1.4,8.1,21.1,43.3,1006.5,1.0,3.0,59.2
+ICTMicroclimate-03,2024-11-03T14:22:42+11:00,CH1 rooftop,"-37.8140348, 144.96728",171.0,179.0,221.0,0.8,1.6,1.8,19.7,46.5,1002.3,3.0,7.0,72.0
+ICTMicroclimate-01,2024-11-03T14:25:41+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,34.0,,,0.4,,21.200001,41.400002,1007.400024,1.0,5.0,61.099998
+ICTMicroclimate-06,2024-11-03T14:36:17+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,183.0,359.0,0.0,3.2,9.7,21.3,41.8,1007.9,0.0,0.0,58.2
+ICTMicroclimate-02,2024-11-03T14:29:13+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,296.0,355.0,0.0,1.2,3.0,21.2,42.3,1003.1,2.0,5.0,68.8
+ICTMicroclimate-10,2024-11-03T14:32:23+11:00,1 Treasury Place,"-37.8128595, 144.9745395",126.0,166.0,284.0,0.5,3.2,5.2,19.8,45.3,1003.5,1.0,7.0,92.0
+ICTMicroclimate-02,2024-11-03T14:44:15+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,27.0,90.0,0.4,0.9,1.8,21.5,40.6,1003.0,6.0,12.0,69.1
+ICTMicroclimate-04,2024-11-03T14:55:45+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,144.0,341.0,0.0,1.2,5.7,20.3,44.7,1010.7,2.0,3.0,70.6
+ICTMicroclimate-06,2024-11-03T14:51:19+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,213.0,359.0,0.0,2.9,7.7,21.2,40.7,1007.9,0.0,0.0,77.7
+ICTMicroclimate-07,2024-11-03T14:53:02+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,157.0,333.0,0.0,0.9,5.7,22.2,37.8,1009.7,1.0,2.0,66.0
+ICTMicroclimate-04,2024-10-27T15:03:25+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,1.0,355.0,0.0,1.2,4.4,25.5,32.0,1015.3,1.0,1.0,72.2
+ICTMicroclimate-01,2024-10-27T15:05:07+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,357.0,,,0.3,,26.299999,25.799999,1011.799988,0.0,5.0,55.0
+ICTMicroclimate-06,2024-10-20T13:51:28+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,198.0,354.0,0.0,4.6,8.2,17.8,65.8,1023.1,1.0,2.0,64.5
+ICTMicroclimate-02,2024-10-20T13:59:27+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,339.0,351.0,0.0,0.8,1.5,17.9,72.7,1018.2,3.0,7.0,71.0
+ICTMicroclimate-02,2024-10-20T13:59:28+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,313.0,352.0,0.0,2.0,4.6,18.5,69.3,1018.1,2.0,4.0,90.4
+ICTMicroclimate-06,2024-10-20T14:06:30+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,231.0,357.0,0.0,2.6,8.2,18.3,65.6,1022.9,1.0,2.0,85.8
+ICTMicroclimate-08,2024-10-20T14:12:23+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,197.0,355.0,0.0,1.6,7.9,17.3,66.6,1022.7,2.0,2.0,80.4
+ICTMicroclimate-06,2024-10-20T14:21:32+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,149.0,359.0,0.0,2.6,8.6,17.9,65.6,1022.9,1.0,2.0,90.1
+ICTMicroclimate-08,2024-10-20T14:27:17+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,185.0,353.0,0.0,4.4,8.2,17.1,64.9,1022.7,2.0,2.0,83.1
+ICTMicroclimate-10,2024-10-20T14:25:00+11:00,1 Treasury Place,"-37.8128595, 144.9745395",82.0,138.0,212.0,0.9,3.0,5.9,16.3,78.6,1018.3,3.0,5.0,94.2
+ICTMicroclimate-02,2024-10-20T14:29:32+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",339.0,305.0,339.0,1.5,2.0,1.5,17.8,69.8,1018.1,2.0,5.0,74.5
+ICTMicroclimate-04,2024-10-20T14:41:03+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,155.0,352.0,0.0,3.5,7.5,17.3,69.2,1025.5,3.0,7.0,73.3
+ICTMicroclimate-08,2024-10-20T14:42:30+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",34.0,181.0,269.0,0.3,4.7,8.3,17.5,65.6,1022.5,2.0,2.0,82.3
+ICTMicroclimate-07,2024-10-20T14:53:20+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,208.0,358.0,0.0,0.9,4.9,19.1,62.3,1024.5,3.0,3.0,82.3
+ICTMicroclimate-08,2024-10-20T14:57:20+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,163.0,350.0,0.0,2.4,7.3,17.5,66.9,1022.5,2.0,2.0,95.8
+ICTMicroclimate-02,2024-10-20T14:59:35+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",3.0,291.0,358.0,0.4,1.7,3.6,17.4,74.4,1018.0,2.0,4.0,77.6
+ICTMicroclimate-09,2024-10-20T15:05:20+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,203.0,358.0,0.0,2.0,6.8,17.0,68.6,1021.5,1.0,4.0,62.0
+ICTMicroclimate-07,2024-10-20T15:08:23+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,330.0,356.0,0.0,0.7,4.8,18.8,63.5,1024.7,3.0,3.0,62.4
+ICTMicroclimate-06,2024-10-20T15:06:38+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,240.0,357.0,0.0,1.4,7.2,17.6,67.0,1022.9,1.0,2.0,59.0
+ICTMicroclimate-05,2025-02-09T03:47:18+11:00,Enterprize Park - Pole ID: COM1667,"-37.8204083, 144.9591192",0.0,3.0,357.0,1.0,2.0,2.7,18.0,84.1,1008.6,3.0,5.0,66.8
+ICTMicroclimate-03,2025-02-09T03:49:14+11:00,CH1 rooftop,"-37.8140348, 144.96728",74.0,174.0,225.0,2.0,3.3,5.8,17.7,84.0,1003.0,2.0,4.0,94.3
+ICTMicroclimate-01,2025-02-09T03:47:27+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,117.0,,,1.7,,17.5,82.199997,1007.900024,3.0,8.0,51.299999
+ICTMicroclimate-06,2025-02-09T03:51:22+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,103.0,345.0,0.0,2.7,6.7,18.0,73.7,1008.7,0.0,0.0,55.5
+ICTMicroclimate-09,2025-02-09T03:46:26+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,74.0,358.0,0.0,1.3,4.9,18.1,73.5,1007.3,0.0,0.0,60.8
+ICTMicroclimate-08,2025-02-09T04:08:29+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,169.0,345.0,0.0,2.7,8.1,17.8,74.5,1008.5,1.0,2.0,58.3
+ICTMicroclimate-06,2025-02-09T04:06:24+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,115.0,232.0,0.0,3.1,7.8,17.9,74.1,1008.7,0.0,0.0,57.0
+ICTMicroclimate-07,2025-02-09T04:04:31+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,75.0,355.0,0.0,1.3,4.5,17.9,74.2,1010.7,1.0,1.0,80.7
+ICTMicroclimate-02,2025-02-09T04:10:45+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,7.0,352.0,0.0,0.6,1.6,17.9,83.2,1003.9,1.0,3.0,68.3
+ICTMicroclimate-11,2025-02-09T04:16:40+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,115.0,354.0,0.0,1.7,7.9,17.3,77.1,1004.3,0.0,0.0,56.8
+ICTMicroclimate-07,2025-02-09T04:19:32+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,100.0,314.0,0.0,0.7,4.0,17.8,74.9,1010.7,1.0,1.0,58.3
+ICTMicroclimate-03,2025-02-09T04:19:18+11:00,CH1 rooftop,"-37.8140348, 144.96728",84.0,142.0,200.0,0.3,1.8,3.8,17.4,85.4,1003.0,1.0,3.0,70.2
+ICTMicroclimate-09,2025-02-09T04:31:33+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,344.0,359.0,0.0,0.5,4.6,17.9,74.7,1007.3,0.0,0.0,57.7
+ICTMicroclimate-05,2025-02-09T04:32:23+11:00,Enterprize Park - Pole ID: COM1667,"-37.8204083, 144.9591192",0.0,4.0,357.0,0.6,2.2,4.1,17.6,86.4,1008.5,2.0,4.0,67.6
+ICTMicroclimate-06,2025-02-09T04:36:28+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,81.0,346.0,0.0,2.0,6.9,17.8,74.9,1008.7,0.0,0.0,56.7
+ICTMicroclimate-02,2025-02-09T04:40:49+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,17.0,125.0,0.3,1.1,1.9,17.9,83.8,1003.9,1.0,3.0,68.2
+ICTMicroclimate-09,2025-02-09T04:46:36+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,6.0,356.0,0.0,0.5,3.1,17.9,74.6,1007.3,0.0,0.0,56.2
+ICTMicroclimate-11,2025-02-09T04:46:42+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,108.0,337.0,0.0,1.8,6.5,17.4,77.4,1004.3,0.0,1.0,58.2
+ICTMicroclimate-09,2025-02-09T05:01:35+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,333.0,359.0,0.0,0.4,3.1,18.0,74.7,1007.3,0.0,0.0,55.9
+ICTMicroclimate-11,2025-02-09T05:01:43+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,91.0,353.0,0.0,0.8,6.2,17.4,77.6,1004.5,0.0,0.0,48.6
+ICTMicroclimate-01,2025-02-09T05:02:30+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,125.0,,,2.2,,17.1,84.5,1008.200012,0.0,3.0,48.0
+ICTMicroclimate-07,2025-02-09T05:04:38+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,116.0,357.0,0.0,1.1,4.0,17.9,75.0,1010.9,1.0,1.0,54.4
+ICTMicroclimate-01,2025-02-09T05:17:30+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,131.0,,,1.8,,17.200001,84.599998,1008.200012,0.0,3.0,46.599998
+ICTMicroclimate-07,2025-02-09T05:19:45+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,118.0,343.0,0.0,0.6,2.8,17.9,75.3,1010.9,1.0,1.0,57.0
+ICTMicroclimate-08,2025-02-09T05:23:39+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,171.0,356.0,0.0,2.6,7.6,17.9,75.5,1008.7,1.0,2.0,72.5
+ICTMicroclimate-02,2025-02-09T05:25:55+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,6.0,358.0,0.3,0.4,1.5,18.0,84.3,1004.3,1.0,3.0,68.4
+ICTMicroclimate-01,2025-02-09T05:32:31+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,126.0,,,1.9,,17.200001,85.0,1008.299988,0.0,5.0,51.599998
+ICTMicroclimate-03,2025-02-09T05:34:27+11:00,CH1 rooftop,"-37.8140348, 144.96728",83.0,167.0,214.0,0.3,2.2,4.4,17.5,86.1,1003.2,1.0,3.0,79.4
+ICTMicroclimate-06,2025-02-09T05:36:36+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,64.0,349.0,0.0,0.5,3.6,18.1,74.7,1008.9,0.0,0.0,53.4
+ICTMicroclimate-09,2025-02-09T05:46:42+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,10.0,359.0,0.0,1.2,4.1,18.2,74.5,1007.5,0.0,0.0,57.1
+ICTMicroclimate-11,2025-02-09T05:46:45+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,99.0,354.0,0.0,1.0,5.1,17.7,77.1,1004.7,0.0,0.0,47.7
+ICTMicroclimate-01,2025-02-09T05:47:31+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,120.0,,,1.6,,17.4,84.5,1008.299988,0.0,5.0,49.5
+ICTMicroclimate-03,2025-02-09T05:49:29+11:00,CH1 rooftop,"-37.8140348, 144.96728",138.0,185.0,200.0,1.6,2.2,3.2,17.7,85.4,1003.4,1.0,3.0,73.5
+ICTMicroclimate-08,2025-02-09T05:53:43+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,95.0,357.0,0.0,1.4,5.9,18.2,74.2,1008.9,1.0,2.0,65.5
+ICTMicroclimate-05,2025-02-09T06:02:34+11:00,Enterprize Park - Pole ID: COM1667,"-37.8204083, 144.9591192",0.0,25.0,71.0,0.1,1.2,2.1,18.2,84.5,1009.0,1.0,3.0,69.0
+ICTMicroclimate-04,2025-02-09T05:52:28+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,9.0,357.0,0.0,1.5,3.7,18.4,74.8,1011.7,2.0,2.0,59.0
+ICTMicroclimate-04,2025-02-09T06:07:30+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,319.0,357.0,0.0,0.6,4.5,18.5,74.4,1011.7,2.0,2.0,58.4
+ICTMicroclimate-09,2025-02-09T06:16:46+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,346.0,359.0,0.0,0.4,3.6,18.4,74.0,1007.7,0.0,0.0,59.4
+ICTMicroclimate-08,2025-02-09T06:23:47+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,156.0,358.0,0.0,1.7,7.3,18.0,75.3,1008.9,1.0,2.0,85.2
+ICTMicroclimate-06,2025-02-09T06:36:44+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,98.0,339.0,0.0,2.1,12.1,17.9,75.5,1009.3,0.0,0.0,86.0
+ICTMicroclimate-04,2025-02-09T06:37:33+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,5.0,357.0,0.0,1.4,4.5,18.1,75.3,1012.1,2.0,2.0,70.4
+ICTMicroclimate-05,2025-02-09T06:32:39+11:00,Enterprize Park - Pole ID: COM1667,"-37.8204083, 144.9591192",0.0,355.0,350.0,0.6,2.9,1.5,17.9,87.2,1009.1,1.0,3.0,68.2
+ICTMicroclimate-02,2025-02-09T06:41:05+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,7.0,354.0,0.1,1.0,2.8,17.9,85.1,1004.6,1.0,3.0,68.9
+ICTMicroclimate-09,2025-02-09T06:46:49+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,6.0,358.0,0.0,0.4,2.3,18.1,74.9,1007.9,0.0,0.0,59.8
+ICTMicroclimate-01,2025-02-09T06:47:33+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,64.0,,,1.1,,17.200001,85.5,1008.799988,0.0,3.0,50.900002
+ICTMicroclimate-05,2025-02-09T07:02:43+11:00,Enterprize Park - Pole ID: COM1667,"-37.8204083, 144.9591192",0.0,9.0,357.0,0.8,1.5,3.0,17.7,85.2,1009.3,1.0,3.0,68.6
+ICTMicroclimate-01,2025-02-09T07:02:34+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,119.0,,,2.2,,17.200001,84.699997,1008.700012,0.0,3.0,49.099998
+ICTMicroclimate-08,2025-02-09T06:53:51+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,170.0,355.0,0.0,1.4,7.9,17.9,75.0,1009.3,1.0,2.0,62.8
+ICTMicroclimate-08,2025-02-09T07:08:54+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,153.0,341.0,0.0,1.9,7.2,17.9,74.0,1009.3,1.0,2.0,61.8
+ICTMicroclimate-02,2025-02-09T07:11:10+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",359.0,5.0,359.0,3.0,1.2,3.0,17.8,84.1,1004.7,1.0,3.0,70.4
+ICTMicroclimate-05,2025-02-09T07:17:45+11:00,Enterprize Park - Pole ID: COM1667,"-37.8204083, 144.9591192",0.0,6.0,350.0,1.1,2.1,5.3,17.9,84.2,1009.4,1.0,5.0,68.0
+ICTMicroclimate-03,2025-02-09T07:19:40+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,203.0,288.0,0.0,2.0,5.5,17.5,84.2,1003.7,1.0,3.0,83.4
+ICTMicroclimate-02,2025-02-09T07:26:11+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,357.0,358.0,0.0,0.5,1.2,18.0,81.9,1004.9,1.0,3.0,70.0
+ICTMicroclimate-04,2025-02-09T07:22:39+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,306.0,355.0,0.0,0.8,3.0,18.3,73.6,1012.3,2.0,2.0,59.6
+ICTMicroclimate-08,2025-02-09T07:23:56+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,252.0,358.0,0.0,0.8,7.7,18.1,73.4,1009.5,1.0,2.0,65.7
+ICTMicroclimate-05,2025-02-09T07:32:47+11:00,Enterprize Park - Pole ID: COM1667,"-37.8204083, 144.9591192",0.0,3.0,358.0,0.8,2.0,3.2,17.9,83.6,1009.5,1.0,3.0,72.8
+ICTMicroclimate-06,2025-02-09T07:36:52+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,138.0,358.0,0.0,2.2,6.5,18.4,72.3,1009.5,0.0,0.0,68.5
+ICTMicroclimate-09,2025-02-09T07:46:58+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,30.0,358.0,0.0,0.7,4.9,18.5,71.8,1008.1,0.0,0.0,56.6
+ICTMicroclimate-03,2025-02-09T07:49:45+11:00,CH1 rooftop,"-37.8140348, 144.96728",90.0,147.0,179.0,0.9,1.6,2.5,17.7,82.5,1004.0,1.0,3.0,70.2
+ICTMicroclimate-01,2025-02-09T08:02:36+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,113.0,,,1.5,,18.0,79.300003,1009.099976,0.0,3.0,50.599998
+ICTMicroclimate-07,2025-02-09T07:50:00+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,70.0,358.0,0.0,1.5,3.5,18.3,71.7,1011.7,1.0,1.0,70.1
+ICTMicroclimate-02,2025-02-09T07:56:16+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,3.0,355.0,0.9,1.3,2.3,18.2,80.5,1005.0,1.0,3.0,68.9
+ICTMicroclimate-06,2025-02-09T08:06:57+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,127.0,350.0,0.0,2.2,7.3,19.0,69.3,1009.7,0.0,0.0,75.5
+ICTMicroclimate-05,2025-02-09T08:02:52+11:00,Enterprize Park - Pole ID: COM1667,"-37.8204083, 144.9591192",0.0,14.0,349.0,0.9,1.8,2.1,18.5,81.2,1009.6,1.0,3.0,67.9
+ICTMicroclimate-02,2025-02-09T08:11:18+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,14.0,79.0,0.0,0.8,1.7,18.2,80.2,1005.2,1.0,3.0,69.3
+ICTMicroclimate-09,2025-02-09T08:17:02+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,18.0,359.0,0.0,0.8,4.2,19.5,68.3,1008.3,0.0,0.0,67.6
+ICTMicroclimate-01,2025-02-09T08:17:36+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,132.0,,,1.3,,18.1,78.0,1009.099976,0.0,3.0,54.299999
+ICTMicroclimate-02,2025-02-09T08:26:20+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,3.0,356.0,0.0,0.9,1.7,18.4,79.4,1005.2,1.0,3.0,69.2
+ICTMicroclimate-08,2025-02-09T08:39:06+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,160.0,352.0,0.0,1.9,7.6,19.4,68.7,1009.7,1.0,2.0,62.1
+ICTMicroclimate-07,2025-02-09T08:35:06+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,116.0,224.0,0.0,0.8,3.9,19.3,68.4,1011.9,0.0,0.0,68.2
+ICTMicroclimate-02,2025-02-09T08:41:23+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",29.0,29.0,75.0,0.6,0.8,1.9,18.5,78.7,1005.3,1.0,3.0,69.1
+ICTMicroclimate-09,2025-02-09T09:32:12+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,342.0,359.0,0.0,0.9,6.0,22.5,59.7,1008.7,0.0,0.0,67.7
+ICTMicroclimate-07,2025-02-09T09:35:15+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,92.0,321.0,0.0,1.1,4.4,21.5,62.2,1012.3,0.0,0.0,70.0
+ICTMicroclimate-09,2025-02-09T09:02:09+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,113.0,359.0,0.0,0.9,2.8,21.3,62.4,1008.7,0.0,0.0,58.1
+ICTMicroclimate-07,2025-02-09T09:05:11+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,87.0,341.0,0.0,1.0,3.8,20.3,66.1,1012.3,0.0,0.0,60.8
+ICTMicroclimate-08,2025-02-09T09:09:11+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",50.0,167.0,282.0,0.3,3.6,7.5,19.9,67.3,1010.1,1.0,2.0,94.1
+ICTMicroclimate-08,2025-02-09T09:24:12+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,149.0,347.0,0.0,2.2,7.8,20.8,64.9,1010.1,1.0,2.0,66.0
+ICTMicroclimate-03,2025-02-09T09:50:01+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,173.0,314.0,0.0,1.2,2.6,19.8,74.7,1004.7,1.0,3.0,70.9
+ICTMicroclimate-06,2025-02-09T09:52:10+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,94.0,348.0,0.0,2.9,7.3,21.6,61.7,1010.5,0.0,1.0,82.7
+ICTMicroclimate-09,2025-02-09T10:02:18+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,19.0,359.0,0.0,0.4,4.8,22.2,60.9,1008.7,0.0,0.0,63.6
+ICTMicroclimate-05,2025-02-09T10:03:07+11:00,Enterprize Park - Pole ID: COM1667,"-37.8204083, 144.9591192",0.0,23.0,109.0,0.0,1.5,2.9,21.3,69.2,1010.2,1.0,3.0,74.4
+ICTMicroclimate-06,2025-02-09T10:07:13+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,117.0,326.0,0.0,2.6,15.4,22.3,59.7,1010.5,0.0,1.0,87.7
+ICTMicroclimate-07,2025-02-09T10:05:18+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,118.0,314.0,0.0,1.4,3.9,22.2,60.4,1012.3,0.0,0.0,75.2
+ICTMicroclimate-02,2025-02-09T10:11:33+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,10.0,352.0,0.0,0.7,2.3,20.7,71.4,1005.7,1.0,3.0,68.8
+ICTMicroclimate-09,2025-02-09T10:17:21+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,280.0,358.0,0.0,0.7,5.3,22.9,60.0,1008.9,0.0,0.0,60.8
+ICTMicroclimate-02,2025-02-09T10:26:35+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",4.0,345.0,37.0,1.0,0.9,1.3,21.0,69.9,1005.8,1.0,3.0,69.5
+ICTMicroclimate-06,2025-02-09T10:37:16+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,105.0,347.0,0.0,3.1,8.1,22.9,58.0,1010.5,0.0,1.0,60.6
+ICTMicroclimate-03,2025-02-09T10:35:07+11:00,CH1 rooftop,"-37.8140348, 144.96728",121.0,170.0,225.0,0.6,1.5,2.6,21.3,68.5,1004.8,1.0,3.0,81.5
+ICTMicroclimate-11,2025-02-09T10:47:06+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,109.0,354.0,0.0,1.5,8.1,22.7,60.7,1005.9,0.0,0.0,53.7
+ICTMicroclimate-03,2025-02-09T10:50:09+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,155.0,205.0,0.3,0.9,2.1,22.0,66.0,1004.8,1.0,3.0,76.7
+ICTMicroclimate-06,2025-02-09T10:52:17+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,119.0,326.0,0.0,2.9,6.6,23.6,57.1,1010.7,0.0,1.0,59.9
+ICTMicroclimate-09,2025-02-09T11:02:24+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,40.0,359.0,0.0,0.8,4.1,24.1,56.7,1008.9,0.0,0.0,61.2
+ICTMicroclimate-03,2025-02-09T11:05:11+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,196.0,354.0,0.0,1.1,2.3,22.7,63.7,1004.8,1.0,4.0,70.8
+ICTMicroclimate-08,2025-02-09T10:54:28+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,152.0,353.0,0.0,2.9,8.4,22.7,60.3,1010.3,0.0,0.0,88.2
+ICTMicroclimate-02,2025-02-09T10:56:40+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,12.0,351.0,0.0,0.4,1.0,21.3,68.8,1005.8,1.0,3.0,69.4
+ICTMicroclimate-06,2025-02-09T11:07:20+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,107.0,314.0,0.0,4.0,12.1,23.8,56.2,1010.7,0.0,1.0,73.3
+ICTMicroclimate-02,2025-02-09T11:11:41+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,1.0,358.0,0.3,2.2,3.5,23.6,61.6,1005.8,1.0,3.0,67.7
+ICTMicroclimate-11,2025-02-09T11:17:08+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,95.0,348.0,0.0,0.8,7.8,23.7,59.0,1005.7,0.0,0.0,65.9
+ICTMicroclimate-04,2025-02-09T11:23:12+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,318.0,358.0,0.0,0.2,5.2,23.9,58.4,1012.9,2.0,2.0,63.2
+aws5-0999,2025-02-09T11:24:56+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,328.0,352.0,0.6,0.0,1.9,23.0,64.3,1007.2,,,
+ICTMicroclimate-05,2025-02-09T11:33:20+11:00,Enterprize Park - Pole ID: COM1667,"-37.8204083, 144.9591192",0.0,1.0,357.0,0.3,1.3,1.9,24.5,59.7,1010.0,1.0,3.0,68.6
+ICTMicroclimate-01,2025-02-09T11:32:42+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,110.0,,,2.8,,22.9,61.900002,1009.5,0.0,5.0,53.299999
+ICTMicroclimate-07,2025-02-09T11:35:31+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,111.0,225.0,0.0,1.0,4.0,24.6,53.8,1012.1,0.0,0.0,69.5
+ICTMicroclimate-08,2025-02-09T11:39:31+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,179.0,358.0,0.0,2.6,6.7,24.0,57.1,1009.9,0.0,0.0,79.9
+ICTMicroclimate-09,2025-02-09T11:47:32+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,69.0,358.0,0.0,0.9,4.3,24.6,54.7,1008.5,0.0,0.0,61.1
+ICTMicroclimate-02,2024-11-03T11:58:54+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",150.0,207.0,233.0,0.5,0.7,0.8,20.8,50.1,1003.5,1.0,3.0,69.6
+ICTMicroclimate-09,2024-11-03T12:04:37+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,227.0,358.0,0.0,1.5,6.9,19.0,52.7,1007.1,1.0,3.0,66.4
+ICTMicroclimate-10,2024-11-03T12:02:12+11:00,1 Treasury Place,"-37.8128595, 144.9745395",155.0,173.0,229.0,1.2,4.0,2.2,17.7,59.7,1004.1,2.0,5.0,107.1
+ICTMicroclimate-02,2024-11-03T12:13:55+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,298.0,355.0,0.1,1.3,2.8,21.0,48.8,1003.5,1.0,5.0,67.7
+ICTMicroclimate-11,2024-11-03T12:10:33+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,137.0,349.0,0.0,2.0,7.9,19.2,52.8,1003.7,0.0,2.0,51.7
+ICTMicroclimate-03,2024-11-03T12:07:25+11:00,CH1 rooftop,"-37.8140348, 144.96728",160.0,205.0,226.0,1.2,2.2,3.4,18.5,58.0,1002.5,3.0,6.0,89.4
+ICTMicroclimate-01,2024-11-03T12:10:37+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,131.0,,,1.0,,19.4,52.5,1007.799988,0.0,4.0,53.599998
+aws5-0999,2024-11-03T12:14:39+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,16.0,341.0,1.1,0.0,2.9,19.4,51.8,1004.8,,,
+ICTMicroclimate-06,2024-11-03T12:20:58+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,122.0,356.0,0.0,1.9,7.6,19.7,49.6,1008.7,0.0,0.0,84.0
+ICTMicroclimate-07,2024-11-03T12:22:42+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,246.0,341.0,0.0,1.1,5.2,20.5,46.3,1010.5,1.0,2.0,69.4
+ICTMicroclimate-10,2024-11-03T12:32:15+11:00,1 Treasury Place,"-37.8128595, 144.9745395",76.0,144.0,335.0,0.5,3.9,8.2,18.2,53.9,1004.1,2.0,4.0,96.8
+ICTMicroclimate-04,2024-11-03T12:40:28+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,320.0,351.0,0.0,0.5,7.1,19.2,50.7,1011.3,2.0,3.0,70.0
+ICTMicroclimate-01,2024-11-03T12:40:37+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,33.0,,,0.5,,19.4,48.599998,1007.799988,0.0,4.0,53.0
+ICTMicroclimate-09,2024-11-03T12:49:43+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,233.0,359.0,0.0,2.1,6.6,19.7,46.6,1006.9,1.0,3.0,68.3
+ICTMicroclimate-10,2024-11-03T12:47:15+11:00,1 Treasury Place,"-37.8128595, 144.9745395",100.0,111.0,139.0,1.2,1.4,1.9,18.4,52.3,1004.0,2.0,4.0,94.2
+ICTMicroclimate-01,2024-11-03T12:55:38+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,353.0,,,0.2,,19.4,48.200001,1007.5,0.0,4.0,54.0
+ICTMicroclimate-10,2024-11-03T13:02:16+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,147.0,214.0,0.0,2.7,5.4,18.9,48.4,1003.9,3.0,7.0,93.7
+ICTMicroclimate-02,2024-11-03T13:14:03+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,9.0,346.0,0.0,0.8,2.0,22.1,41.5,1003.3,5.0,9.0,69.0
+ICTMicroclimate-04,2024-11-03T13:10:32+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,180.0,352.0,0.0,2.0,6.4,19.9,49.0,1011.1,2.0,3.0,63.1
+ICTMicroclimate-07,2024-11-03T13:22:50+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,164.0,353.0,0.0,0.9,4.1,21.8,39.6,1010.1,1.0,2.0,60.3
+ICTMicroclimate-10,2024-11-03T13:32:19+11:00,1 Treasury Place,"-37.8128595, 144.9745395",116.0,162.0,234.0,1.5,3.3,4.9,18.9,47.7,1003.8,2.0,4.0,95.3
+ICTMicroclimate-11,2024-11-03T13:25:39+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,130.0,357.0,0.0,1.8,7.0,20.9,42.2,1003.3,0.0,0.0,66.3
+ICTMicroclimate-04,2024-11-03T13:25:34+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,349.0,351.0,0.0,0.4,6.8,20.4,44.6,1011.1,2.0,3.0,65.8
+ICTMicroclimate-07,2024-11-03T13:37:53+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,188.0,354.0,0.0,1.8,4.6,21.8,39.4,1010.1,1.0,2.0,65.2
+ICTMicroclimate-03,2024-11-03T13:37:39+11:00,CH1 rooftop,"-37.8140348, 144.96728",163.0,190.0,222.0,2.1,3.5,4.4,19.4,46.9,1002.5,4.0,6.0,90.8
+ICTMicroclimate-01,2024-11-03T13:40:39+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,334.0,,,0.5,,20.5,42.900002,1007.5,0.0,4.0,57.799999
+aws5-0999,2024-11-03T13:44:29+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",341.0,334.0,341.0,0.7,0.4,0.4,20.5,46.0,1004.6,,,
+ICTMicroclimate-02,2024-11-03T13:44:07+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",9.0,358.0,43.0,0.6,1.1,0.9,23.1,38.2,1003.3,2.0,4.0,68.7
+ICTMicroclimate-07,2024-11-03T13:52:54+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,213.0,358.0,0.0,1.2,6.0,21.7,41.9,1010.1,1.0,2.0,61.2
+ICTMicroclimate-08,2024-11-03T13:57:01+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,162.0,353.0,0.0,3.1,7.5,19.3,47.8,1008.1,1.0,1.0,74.2
+ICTMicroclimate-10,2024-11-03T14:02:21+11:00,1 Treasury Place,"-37.8128595, 144.9745395",71.0,165.0,220.0,0.3,2.0,3.7,19.0,50.2,1003.7,2.0,4.0,91.6
+ICTMicroclimate-01,2024-11-03T14:02:41+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,145.0,,,1.1,,20.5,43.599998,1007.5,0.0,4.0,53.400002
+ICTMicroclimate-06,2024-11-03T14:06:12+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,185.0,358.0,0.0,2.5,6.3,21.4,43.0,1008.1,0.0,0.0,84.7
+ICTMicroclimate-11,2024-11-03T14:10:42+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,79.0,350.0,0.0,1.5,6.3,21.4,42.7,1003.1,1.0,7.0,69.5
+ICTMicroclimate-10,2024-11-03T14:17:22+11:00,1 Treasury Place,"-37.8128595, 144.9745395",101.0,160.0,207.0,0.7,2.3,3.2,19.4,46.3,1003.5,2.0,5.0,92.5
+ICTMicroclimate-06,2024-11-03T14:21:15+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,194.0,358.0,0.0,2.2,8.1,21.2,42.1,1008.1,0.0,0.0,82.0
+ICTMicroclimate-07,2024-11-03T14:22:59+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,161.0,356.0,0.0,1.3,4.2,22.0,39.9,1009.9,1.0,2.0,60.7
+ICTMicroclimate-11,2024-11-03T14:25:43+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,156.0,352.0,0.0,1.5,5.0,21.1,43.4,1003.1,1.0,7.0,54.4
+ICTMicroclimate-07,2024-11-03T14:38:01+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,99.0,357.0,0.0,0.7,4.6,22.9,37.1,1009.9,1.0,2.0,65.7
+ICTMicroclimate-03,2024-11-03T14:37:45+11:00,CH1 rooftop,"-37.8140348, 144.96728",133.0,160.0,186.0,0.9,2.1,3.5,19.8,43.9,1002.2,3.0,5.0,72.7
+ICTMicroclimate-01,2024-11-03T14:40:41+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,141.0,,,0.8,,21.5,41.299999,1007.099976,1.0,5.0,53.5
+ICTMicroclimate-08,2024-11-03T14:42:00+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,295.0,348.0,0.0,1.5,8.0,20.9,41.9,1007.7,1.0,1.0,76.6
+ICTMicroclimate-04,2024-11-03T14:40:45+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,163.0,357.0,0.0,1.4,6.6,20.0,45.4,1010.7,2.0,3.0,66.2
+ICTMicroclimate-10,2024-11-03T14:47:24+11:00,1 Treasury Place,"-37.8128595, 144.9745395",181.0,164.0,181.0,4.5,3.3,4.5,19.8,43.4,1003.4,3.0,6.0,93.9
+ICTMicroclimate-08,2024-10-20T02:55:44+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,175.0,358.0,0.0,2.2,7.9,14.2,73.8,1021.1,2.0,2.0,69.6
+ICTMicroclimate-04,2024-10-20T02:24:24+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,152.0,341.0,0.0,1.5,4.9,14.5,76.1,1024.1,3.0,7.0,65.5
+ICTMicroclimate-02,2024-10-20T02:57:59+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",6.0,326.0,358.0,0.2,1.1,2.6,14.2,84.4,1016.4,2.0,7.0,68.3
+ICTMicroclimate-10,2024-10-20T03:09:15+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,179.0,283.0,0.0,2.3,3.8,12.9,84.6,1016.8,1.0,5.0,90.5
+ICTMicroclimate-03,2024-10-20T03:06:30+11:00,CH1 rooftop,"-37.8140348, 144.96728",136.0,163.0,202.0,1.8,5.0,7.9,13.6,82.3,1015.6,2.0,4.0,96.2
+ICTMicroclimate-04,2024-10-20T03:09:29+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,203.0,355.0,0.0,1.4,7.8,14.3,71.6,1024.1,3.0,7.0,83.0
+ICTMicroclimate-06,2024-10-20T03:20:04+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,210.0,357.0,0.0,3.9,7.1,14.3,70.2,1021.3,1.0,1.0,75.3
+ICTMicroclimate-11,2024-10-20T03:17:35+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,184.0,359.0,0.0,2.4,7.0,13.9,72.3,1016.7,0.0,1.0,52.6
+ICTMicroclimate-06,2024-10-20T03:35:06+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,187.0,355.0,0.0,1.9,6.5,14.3,68.5,1021.3,1.0,1.0,78.0
+ICTMicroclimate-01,2024-10-20T03:44:05+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,55.0,,,0.7,,13.6,78.300003,1020.700012,1.0,6.0,72.599998
+ICTMicroclimate-09,2024-10-20T03:48:50+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,45.0,353.0,0.0,1.3,4.8,14.1,70.9,1020.1,1.0,1.0,64.7
+ICTMicroclimate-11,2024-10-20T03:47:37+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,124.0,353.0,0.0,1.2,7.3,13.9,71.5,1016.9,0.0,5.0,57.0
+ICTMicroclimate-08,2024-10-20T03:55:51+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",10.0,183.0,356.0,0.1,2.0,6.5,14.2,70.3,1021.3,2.0,2.0,66.6
+ICTMicroclimate-10,2024-10-20T03:54:18+11:00,1 Treasury Place,"-37.8128595, 144.9745395",62.0,187.0,257.0,0.7,3.1,5.4,12.9,83.3,1017.0,2.0,4.0,84.5
+ICTMicroclimate-01,2024-10-20T03:59:06+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,59.0,,,0.7,,13.7,77.699997,1020.799988,1.0,6.0,46.599998
+ICTMicroclimate-06,2024-10-20T04:05:11+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,168.0,354.0,0.0,1.5,5.9,14.2,70.0,1021.3,1.0,1.0,79.8
+ICTMicroclimate-11,2024-10-20T04:02:39+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,168.0,359.0,0.0,3.4,7.9,13.8,72.2,1016.7,0.0,3.0,52.6
+aws5-0999,2024-10-20T04:08:01+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,9.0,355.0,0.5,0.0,0.9,13.4,84.2,1019.3,,,
+ICTMicroclimate-03,2024-10-20T04:06:39+11:00,CH1 rooftop,"-37.8140348, 144.96728",162.0,168.0,197.0,1.0,2.0,2.9,13.6,80.5,1015.9,2.0,4.0,73.6
+ICTMicroclimate-09,2024-10-20T04:18:54+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,10.0,359.0,0.0,0.8,3.0,14.2,69.4,1020.3,1.0,1.0,56.1
+ICTMicroclimate-10,2024-10-20T04:24:20+11:00,1 Treasury Place,"-37.8128595, 144.9745395",156.0,186.0,233.0,0.8,3.9,8.0,12.9,83.4,1017.1,1.0,4.0,91.3
+ICTMicroclimate-03,2024-10-20T04:21:41+11:00,CH1 rooftop,"-37.8140348, 144.96728",121.0,179.0,215.0,1.3,2.9,6.6,13.6,79.5,1016.0,3.0,5.0,100.6
+ICTMicroclimate-08,2024-10-20T04:25:58+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,188.0,353.0,0.0,2.3,7.5,14.2,69.4,1021.5,2.0,2.0,65.3
+ICTMicroclimate-01,2024-10-20T04:29:07+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,62.0,,,0.6,,13.6,79.300003,1021.0,1.0,6.0,46.799999
+ICTMicroclimate-09,2024-10-20T04:34:00+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,41.0,359.0,0.0,0.8,4.5,14.2,68.7,1020.5,1.0,1.0,55.3
+ICTMicroclimate-06,2024-10-20T04:35:14+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,170.0,354.0,0.0,1.5,6.9,14.3,68.9,1021.7,1.0,1.0,65.2
+ICTMicroclimate-10,2024-10-20T04:39:21+11:00,1 Treasury Place,"-37.8128595, 144.9745395",111.0,151.0,245.0,1.1,3.1,4.9,12.9,81.8,1017.2,2.0,7.0,90.8
+ICTMicroclimate-03,2024-10-20T04:36:43+11:00,CH1 rooftop,"-37.8140348, 144.96728",158.0,169.0,201.0,1.4,2.5,3.0,13.6,78.4,1016.2,1.0,3.0,89.4
+ICTMicroclimate-04,2024-10-20T04:39:41+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,217.0,351.0,0.0,1.0,3.7,14.4,68.9,1024.5,3.0,7.0,60.6
+ICTMicroclimate-08,2024-10-20T04:40:58+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,199.0,330.0,0.0,1.2,5.3,14.3,68.4,1021.5,2.0,2.0,64.7
+ICTMicroclimate-02,2024-10-20T04:43:14+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,343.0,341.0,0.0,0.4,1.2,14.2,76.5,1016.9,2.0,5.0,68.5
+ICTMicroclimate-01,2024-10-20T04:44:08+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,132.0,,,0.6,,13.6,78.400002,1021.0,1.0,6.0,50.0
+ICTMicroclimate-09,2024-10-20T04:48:57+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,16.0,356.0,0.0,0.5,4.0,14.3,68.9,1020.3,1.0,1.0,55.5
+ICTMicroclimate-07,2024-10-20T04:52:00+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,124.0,355.0,0.0,0.5,2.2,14.4,68.4,1023.5,3.0,3.0,55.9
+ICTMicroclimate-02,2024-10-20T04:58:16+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",301.0,345.0,334.0,2.4,1.4,4.5,14.1,78.0,1016.9,2.0,4.0,87.0
+ICTMicroclimate-04,2024-10-20T04:54:44+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,359.0,349.0,0.0,0.2,3.4,14.4,69.1,1024.5,3.0,7.0,57.2
+ICTMicroclimate-11,2024-10-20T05:02:43+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,141.0,349.0,0.0,1.6,7.8,13.6,73.5,1017.1,0.0,4.0,48.2
+ICTMicroclimate-03,2024-10-20T05:06:47+11:00,CH1 rooftop,"-37.8140348, 144.96728",176.0,183.0,179.0,2.2,2.0,2.9,13.6,81.3,1016.1,2.0,4.0,85.8
+ICTMicroclimate-09,2024-10-20T05:19:01+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,223.0,358.0,0.0,0.9,2.3,14.2,71.4,1020.5,1.0,1.0,54.4
+ICTMicroclimate-02,2024-10-20T05:28:19+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",4.0,277.0,315.0,0.3,0.9,1.7,14.2,80.3,1017.1,2.0,4.0,68.7
+ICTMicroclimate-01,2024-10-20T05:29:09+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,101.0,,,0.8,,13.4,81.099998,1021.099976,1.0,6.0,48.900002
+ICTMicroclimate-11,2024-10-20T05:32:45+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,161.0,354.0,0.0,1.3,3.7,13.8,72.8,1017.3,0.0,1.0,49.5
+ICTMicroclimate-10,2024-10-20T05:39:24+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,130.0,137.0,0.0,0.9,1.7,12.9,84.5,1017.4,1.0,3.0,80.2
+ICTMicroclimate-03,2024-10-20T05:51:53+11:00,CH1 rooftop,"-37.8140348, 144.96728",130.0,169.0,183.0,1.9,1.7,2.8,13.7,81.3,1016.3,2.0,5.0,75.6
+ICTMicroclimate-07,2024-10-20T05:52:08+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,0.0,341.0,0.0,0.0,1.8,14.5,70.6,1023.9,3.0,3.0,54.5
+aws5-0999,2024-10-20T05:52:21+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,26.0,355.0,0.5,0.0,1.7,13.4,83.7,1019.7,,,
+ICTMicroclimate-02,2024-10-20T05:58:23+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",56.0,276.0,287.0,0.6,1.4,2.2,14.4,79.7,1017.1,3.0,6.0,72.5
+ICTMicroclimate-02,2024-10-20T05:58:24+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",275.0,351.0,275.0,0.4,0.1,0.4,14.3,79.5,1017.1,2.0,4.0,68.6
+ICTMicroclimate-03,2024-10-20T06:06:55+11:00,CH1 rooftop,"-37.8140348, 144.96728",121.0,193.0,231.0,1.0,2.1,3.0,13.7,82.7,1016.4,2.0,4.0,73.0
+ICTMicroclimate-03,2024-10-20T06:21:57+11:00,CH1 rooftop,"-37.8140348, 144.96728",179.0,173.0,213.0,1.3,1.0,2.2,13.7,81.0,1016.4,1.0,3.0,73.2
+ICTMicroclimate-06,2024-10-20T06:20:28+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,148.0,350.0,0.0,1.6,3.6,14.3,70.8,1021.9,1.0,1.0,58.9
+ICTMicroclimate-01,2024-10-20T06:29:11+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,40.0,,,0.1,,13.6,82.099998,1021.5,0.0,5.0,48.599998
+ICTMicroclimate-09,2024-10-20T06:34:11+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,298.0,357.0,0.0,0.7,2.8,14.4,70.3,1020.9,1.0,1.0,58.4
+ICTMicroclimate-02,2024-10-20T06:43:29+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",347.0,275.0,347.0,2.6,1.3,2.6,14.1,81.1,1017.7,2.0,5.0,81.9
+ICTMicroclimate-06,2024-10-20T06:50:32+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,146.0,354.0,0.0,1.5,6.4,14.2,72.3,1022.5,1.0,1.0,74.0
+ICTMicroclimate-11,2024-10-20T06:47:50+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,165.0,355.0,0.0,1.2,7.9,13.7,74.9,1017.9,1.0,4.0,56.0
+ICTMicroclimate-03,2024-10-20T06:52:01+11:00,CH1 rooftop,"-37.8140348, 144.96728",155.0,182.0,214.0,1.1,2.0,2.6,13.6,83.8,1017.0,1.0,4.0,80.3
+ICTMicroclimate-10,2024-10-20T06:54:30+11:00,1 Treasury Place,"-37.8128595, 144.9745395",162.0,155.0,246.0,0.4,1.0,2.0,12.8,87.3,1018.2,1.0,3.0,88.8
+ICTMicroclimate-01,2024-10-20T06:59:12+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,92.0,,,0.5,,13.4,82.699997,1021.900024,0.0,5.0,53.700001
+ICTMicroclimate-09,2024-10-20T07:04:15+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,295.0,359.0,0.0,0.5,3.1,14.3,74.6,1021.3,1.0,1.0,59.5
+ICTMicroclimate-01,2024-10-20T07:14:13+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,140.0,,,1.0,,13.4,83.699997,1022.200012,0.0,5.0,62.0
+ICTMicroclimate-09,2024-10-20T07:19:17+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,325.0,358.0,0.0,0.5,1.9,14.3,73.9,1021.5,1.0,1.0,61.7
+ICTMicroclimate-02,2024-10-20T07:28:35+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",71.0,70.0,172.0,0.1,0.7,1.2,14.0,84.7,1018.1,1.0,3.0,68.4
+ICTMicroclimate-09,2024-10-20T07:34:19+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,355.0,359.0,0.0,0.3,3.1,14.1,76.9,1021.7,1.0,1.0,62.5
+ICTMicroclimate-07,2024-10-20T07:37:22+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,165.0,341.0,0.0,0.9,3.3,14.3,77.0,1024.9,3.0,3.0,62.1
+ICTMicroclimate-08,2024-10-20T07:41:25+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,128.0,314.0,0.0,1.4,4.0,13.9,76.5,1022.9,2.0,2.0,71.2
+ICTMicroclimate-04,2024-10-20T07:40:06+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,203.0,341.0,0.0,1.6,4.2,14.2,75.9,1025.9,3.0,7.0,61.9
+ICTMicroclimate-03,2024-10-20T07:52:10+11:00,CH1 rooftop,"-37.8140348, 144.96728",163.0,188.0,227.0,0.7,1.4,2.1,13.4,90.0,1017.5,3.0,5.0,77.2
+ICTMicroclimate-02,2024-10-20T07:58:39+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,19.0,352.0,0.0,0.4,1.0,13.9,88.3,1018.4,1.0,3.0,74.3
+ICTMicroclimate-06,2024-10-20T08:05:42+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,145.0,341.0,0.0,1.4,6.8,14.9,74.7,1023.1,1.0,1.0,79.1
+ICTMicroclimate-07,2024-10-20T08:07:26+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,95.0,314.0,0.0,0.3,1.9,14.4,76.9,1025.1,3.0,3.0,57.4
+ICTMicroclimate-07,2024-10-20T08:22:28+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,43.0,224.0,0.0,0.2,2.0,14.6,75.7,1025.3,3.0,3.0,56.8
+ICTMicroclimate-03,2024-10-20T08:22:13+11:00,CH1 rooftop,"-37.8140348, 144.96728",166.0,192.0,179.0,1.4,2.2,2.0,13.7,89.9,1017.7,2.0,5.0,72.6
+ICTMicroclimate-01,2024-10-20T08:29:15+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,55.0,,,0.3,,14.7,83.199997,1022.599976,1.0,7.0,48.299999
+ICTMicroclimate-06,2024-10-20T08:35:46+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,16.0,359.0,0.0,0.5,4.4,15.4,72.7,1023.3,1.0,1.0,52.8
+ICTMicroclimate-09,2024-10-20T08:34:27+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,235.0,359.0,0.0,1.6,4.0,15.6,73.1,1021.9,1.0,2.0,70.3
+ICTMicroclimate-08,2024-10-20T08:41:30+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,171.0,331.0,0.0,2.4,5.2,14.8,73.3,1023.1,2.0,2.0,80.2
+ICTMicroclimate-04,2024-10-20T08:40:13+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,154.0,349.0,0.0,0.8,4.1,15.1,75.3,1026.1,3.0,7.0,71.8
+ICTMicroclimate-06,2024-10-20T02:19:55+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,106.0,358.0,0.0,0.7,7.2,14.4,77.9,1021.3,1.0,1.0,79.9
+ICTMicroclimate-11,2024-10-20T02:32:33+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,147.0,359.0,0.0,1.7,7.5,13.9,78.4,1016.5,1.0,4.0,65.1
+ICTMicroclimate-04,2024-10-20T02:39:26+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,187.0,347.0,0.0,0.9,7.5,14.3,75.6,1024.1,3.0,7.0,59.0
+ICTMicroclimate-06,2024-10-20T02:50:00+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,42.0,357.0,0.0,0.3,4.2,14.4,74.7,1021.1,1.0,1.0,52.3
+ICTMicroclimate-10,2024-10-20T02:54:14+11:00,1 Treasury Place,"-37.8128595, 144.9745395",151.0,161.0,215.0,1.1,2.4,6.7,12.9,89.9,1016.8,2.0,6.0,89.6
+ICTMicroclimate-09,2024-10-21T02:06:47+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,237.0,353.0,0.0,1.0,3.6,13.6,81.2,1020.7,2.0,2.0,54.8
+ICTMicroclimate-03,2024-10-21T02:09:35+11:00,CH1 rooftop,"-37.8140348, 144.96728",144.0,173.0,198.0,1.1,2.1,4.3,13.2,94.5,1016.2,5.0,7.0,77.8
+ICTMicroclimate-07,2024-10-21T02:09:50+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,328.0,351.0,0.0,0.3,1.4,13.1,83.3,1023.7,4.0,4.0,55.8
+ICTMicroclimate-03,2024-10-20T13:52:57+11:00,CH1 rooftop,"-37.8140348, 144.96728",158.0,175.0,220.0,4.8,3.4,7.6,16.4,77.6,1017.5,3.0,7.0,98.5
+ICTMicroclimate-10,2024-10-20T13:54:58+11:00,1 Treasury Place,"-37.8128595, 144.9745395",153.0,157.0,199.0,0.6,3.1,3.1,16.2,78.7,1018.4,1.0,3.0,104.2
+ICTMicroclimate-04,2024-10-20T13:55:55+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,3.0,357.0,0.0,1.2,6.0,17.1,70.0,1025.9,3.0,7.0,68.4
+ICTMicroclimate-01,2024-10-20T13:59:24+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,25.0,,,0.5,,18.4,67.0,1022.400024,1.0,6.0,51.700001
+ICTMicroclimate-11,2024-10-20T14:03:18+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,168.0,321.0,0.0,1.6,7.2,17.7,65.4,1018.1,0.0,0.0,57.7
+ICTMicroclimate-09,2024-10-20T14:05:11+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,225.0,359.0,0.0,1.8,7.9,17.1,69.4,1021.5,1.0,4.0,73.0
+ICTMicroclimate-10,2024-10-20T14:09:59+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,176.0,321.0,0.0,2.9,5.1,16.2,78.1,1018.3,3.0,8.0,93.9
+ICTMicroclimate-04,2024-10-20T14:10:57+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,168.0,351.0,0.0,1.6,5.9,17.2,69.2,1025.7,3.0,7.0,71.1
+ICTMicroclimate-03,2024-10-20T14:07:59+11:00,CH1 rooftop,"-37.8140348, 144.96728",129.0,165.0,196.0,1.9,4.5,7.0,16.9,72.9,1017.3,3.0,5.0,93.7
+ICTMicroclimate-02,2024-10-20T14:14:29+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,350.0,359.0,0.0,1.5,3.8,17.9,70.0,1018.0,3.0,5.0,68.5
+ICTMicroclimate-01,2024-10-20T14:14:25+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,49.0,,,0.8,,18.4,69.0,1022.200012,1.0,6.0,51.700001
+ICTMicroclimate-04,2024-10-20T14:25:59+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,204.0,350.0,0.0,2.1,7.3,17.3,69.6,1025.7,3.0,7.0,65.2
+ICTMicroclimate-09,2024-10-20T14:35:15+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,235.0,358.0,0.0,1.6,4.7,18.2,64.8,1021.3,1.0,4.0,65.6
+ICTMicroclimate-07,2024-10-20T14:38:18+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,43.0,356.0,0.0,0.3,5.3,19.3,61.1,1024.7,3.0,3.0,71.2
+ICTMicroclimate-06,2024-10-20T14:36:34+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,177.0,359.0,0.0,2.7,9.1,17.8,65.1,1022.9,1.0,2.0,61.8
+aws5-0999,2024-10-20T14:37:53+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,350.0,355.0,0.7,0.0,1.0,17.5,71.2,1020.6,,,
+ICTMicroclimate-02,2024-10-20T14:44:34+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,292.0,350.0,0.1,3.5,6.4,17.2,72.7,1017.9,2.0,4.0,77.0
+ICTMicroclimate-09,2024-10-20T14:50:17+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,217.0,358.0,0.0,2.6,6.4,17.6,65.8,1021.3,1.0,4.0,65.1
+ICTMicroclimate-11,2024-10-20T14:48:20+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,113.0,354.0,0.0,1.1,6.6,19.0,63.8,1017.9,0.0,2.0,52.3
+ICTMicroclimate-04,2024-10-20T14:56:03+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,325.0,351.0,0.0,0.4,7.5,17.2,70.1,1025.5,3.0,7.0,63.4
+ICTMicroclimate-01,2024-10-20T14:59:26+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,53.0,,,0.4,,18.200001,70.099998,1022.099976,0.0,3.0,66.400002
+ICTMicroclimate-11,2024-10-20T15:03:23+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,152.0,351.0,0.0,2.4,7.1,18.0,65.1,1017.9,1.0,1.0,59.3
+ICTMicroclimate-10,2024-10-17T02:04:23+11:00,1 Treasury Place,"-37.8128595, 144.9745395",296.0,321.0,343.0,0.3,1.2,2.4,18.4,72.0,1008.0,4.0,6.0,66.3
+aws5-0999,2024-10-17T02:06:48+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,0.0,0.0,0.0,0.0,0.0,17.5,79.4,1009.5,,,
+ICTMicroclimate-11,2024-10-15T15:10:24+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,21.0,359.0,0.0,1.0,4.7,27.0,37.6,1010.5,2.0,2.0,51.7
+ICTMicroclimate-06,2024-10-15T15:05:40+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,44.0,357.0,0.2,2.8,6.1,26.7,37.8,1015.7,2.0,3.0,72.7
+ICTMicroclimate-03,2024-10-15T15:07:09+11:00,CH1 rooftop,"-37.8140348, 144.96728",137.0,167.0,179.0,0.8,1.0,1.5,26.8,37.6,1009.8,3.0,5.0,71.3
+ICTMicroclimate-06,2024-10-15T14:50:38+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,50.0,359.0,0.0,3.5,6.9,26.2,39.1,1016.1,2.0,3.0,60.9
+ICTMicroclimate-01,2024-10-15T14:55:22+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,55.0,,,0.8,,26.200001,38.700001,1015.0,1.0,4.0,54.5
+ICTMicroclimate-11,2024-10-15T14:55:23+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,129.0,356.0,0.0,1.6,4.1,27.0,38.2,1010.7,0.0,2.0,67.1
+ICTMicroclimate-10,2024-10-15T15:02:03+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,119.0,168.0,0.0,1.3,2.3,25.4,42.7,1011.0,2.0,4.0,90.5
+ICTMicroclimate-06,2024-10-15T15:35:45+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,130.0,358.0,0.0,4.4,7.3,27.2,37.2,1015.3,2.0,3.0,75.9
+ICTMicroclimate-03,2024-10-15T15:22:10+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,10.0,81.0,0.0,0.3,0.9,27.1,37.0,1009.5,3.0,5.0,73.0
+ICTMicroclimate-03,2024-10-15T15:37:13+11:00,CH1 rooftop,"-37.8140348, 144.96728",129.0,155.0,182.0,1.7,2.8,4.2,26.3,38.2,1009.3,2.0,4.0,79.0
+ICTMicroclimate-08,2024-10-15T15:41:28+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,115.0,359.0,0.0,1.4,5.3,27.6,36.9,1014.9,5.0,5.0,69.5
+ICTMicroclimate-08,2024-10-15T15:56:42+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,116.0,357.0,0.0,2.0,4.4,27.5,37.6,1014.5,5.0,5.0,73.5
+ICTMicroclimate-06,2024-10-15T15:50:46+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,88.0,359.0,0.0,2.5,6.2,27.3,37.4,1015.1,2.0,3.0,64.1
+ICTMicroclimate-02,2024-10-15T15:58:44+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,343.0,358.0,0.0,1.4,2.7,26.4,40.2,1009.9,2.0,4.0,72.2
+ICTMicroclimate-11,2024-10-15T15:55:27+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,64.0,358.0,0.0,0.9,4.8,27.0,37.0,1009.9,2.0,3.0,52.0
+ICTMicroclimate-03,2024-10-15T15:52:15+11:00,CH1 rooftop,"-37.8140348, 144.96728",179.0,201.0,228.0,0.9,1.1,1.5,27.8,35.9,1009.1,3.0,5.0,71.9
+ICTMicroclimate-04,2024-10-15T15:55:13+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,24.0,359.0,0.0,1.2,4.0,27.1,38.6,1017.3,2.0,2.0,72.5
+ICTMicroclimate-04,2024-10-15T16:10:16+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,4.0,357.0,0.0,1.1,3.8,26.9,38.5,1017.3,2.0,2.0,69.6
+ICTMicroclimate-07,2024-10-15T16:07:32+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,49.0,356.0,0.0,1.2,3.3,27.6,36.4,1016.5,9.0,10.0,70.6
+aws5-0999,2024-10-15T16:06:13+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,16.0,306.0,0.1,0.0,0.7,27.9,35.5,1011.5,,,
+ICTMicroclimate-10,2024-10-15T16:17:08+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,65.0,357.0,0.0,1.2,2.6,25.5,40.9,1010.0,3.0,7.0,92.5
+ICTMicroclimate-02,2024-10-15T16:13:47+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",3.0,2.0,17.0,1.1,1.1,1.6,26.4,40.8,1009.7,4.0,6.0,69.5
+ICTMicroclimate-04,2024-10-15T16:25:18+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,8.0,357.0,0.0,0.5,2.9,27.4,38.1,1017.1,2.0,2.0,71.3
+ICTMicroclimate-03,2024-10-15T16:22:19+11:00,CH1 rooftop,"-37.8140348, 144.96728",52.0,48.0,90.0,0.5,0.6,1.3,27.3,36.8,1008.7,3.0,5.0,71.1
+ICTMicroclimate-02,2024-10-15T16:28:49+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,352.0,359.0,0.0,1.2,1.1,26.9,38.6,1009.6,4.0,6.0,71.2
+ICTMicroclimate-11,2024-10-15T16:40:30+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,168.0,350.0,0.0,3.1,6.8,25.3,43.9,1009.5,1.0,2.0,73.6
+ICTMicroclimate-04,2024-10-15T16:40:20+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,5.0,357.0,0.0,0.6,3.3,26.8,42.5,1017.1,2.0,2.0,71.1
+ICTMicroclimate-09,2024-10-15T16:49:36+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,59.0,358.0,0.0,0.4,4.6,26.0,43.3,1012.7,5.0,9.0,61.3
+ICTMicroclimate-06,2024-10-15T16:50:55+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,114.0,350.0,0.0,1.9,7.9,25.8,43.6,1014.5,2.0,3.0,64.8
+ICTMicroclimate-10,2024-10-15T17:02:11+11:00,1 Treasury Place,"-37.8128595, 144.9745395",98.0,116.0,168.0,0.9,2.3,2.8,24.1,47.5,1009.9,2.0,4.0,96.6
+ICTMicroclimate-06,2024-10-15T17:05:56+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,119.0,269.0,0.0,1.8,7.9,25.4,44.6,1014.5,2.0,3.0,79.9
+ICTMicroclimate-03,2024-10-15T17:07:25+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,150.0,324.0,0.3,0.9,1.2,25.1,45.9,1008.8,3.0,6.0,70.7
+ICTMicroclimate-04,2024-10-15T17:10:24+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,8.0,354.0,0.0,0.2,4.5,25.5,45.6,1016.9,4.0,4.0,70.1
+ICTMicroclimate-08,2024-10-15T17:11:58+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",6.0,165.0,350.0,0.2,2.0,7.4,25.8,44.1,1014.3,5.0,5.0,71.3
+ICTMicroclimate-10,2024-10-15T17:17:11+11:00,1 Treasury Place,"-37.8128595, 144.9745395",124.0,153.0,178.0,1.7,3.8,6.3,23.6,50.4,1009.9,2.0,5.0,92.5
+ICTMicroclimate-09,2024-10-15T17:19:39+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,48.0,358.0,0.0,0.5,4.8,25.1,45.7,1012.7,5.0,9.0,62.0
+ICTMicroclimate-07,2024-10-15T17:22:43+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,78.0,346.0,0.0,0.7,3.3,25.6,44.1,1016.3,9.0,10.0,61.4
+ICTMicroclimate-06,2024-10-15T17:20:58+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,92.0,215.0,0.0,1.9,16.0,25.2,45.4,1014.5,2.0,3.0,67.0
+ICTMicroclimate-02,2024-10-15T17:28:58+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,350.0,354.0,0.5,1.3,2.0,25.0,47.9,1009.5,2.0,4.0,70.1
+ICTMicroclimate-01,2024-10-15T17:25:28+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,137.0,,,2.1,,24.1,47.400002,1013.599976,2.0,5.0,62.700001
+ICTMicroclimate-11,2024-10-15T17:40:33+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,135.0,353.0,0.0,1.5,4.7,24.2,47.7,1009.5,0.0,2.0,61.0
+ICTMicroclimate-07,2024-10-15T17:37:44+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,103.0,357.0,0.0,1.1,4.6,25.3,44.5,1016.3,9.0,10.0,61.6
+ICTMicroclimate-03,2024-10-15T17:37:29+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,14.0,269.0,0.0,0.2,0.8,24.3,49.0,1008.7,5.0,7.0,70.6
+ICTMicroclimate-03,2024-10-15T17:52:31+11:00,CH1 rooftop,"-37.8140348, 144.96728",143.0,155.0,187.0,0.5,1.1,1.8,23.8,50.2,1008.7,6.0,10.0,71.1
+ICTMicroclimate-01,2024-10-15T17:55:30+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,65.0,,,1.0,,23.799999,48.799999,1013.799988,2.0,5.0,58.099998
+ICTMicroclimate-09,2024-10-15T17:49:43+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,59.0,356.0,0.0,0.9,3.7,24.4,47.0,1012.7,5.0,9.0,62.4
+ICTMicroclimate-09,2024-10-15T18:04:50+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,14.0,358.0,0.0,0.6,3.1,23.7,50.4,1012.9,5.0,9.0,65.8
+ICTMicroclimate-09,2024-10-15T20:50:08+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,6.0,359.0,0.0,0.5,3.3,20.0,56.3,1013.7,5.0,9.0,58.2
+ICTMicroclimate-08,2024-10-15T19:57:08+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,43.0,355.0,0.0,0.3,3.2,21.1,54.0,1014.7,2.0,2.0,70.0
+ICTMicroclimate-03,2024-10-15T19:52:47+11:00,CH1 rooftop,"-37.8140348, 144.96728",45.0,157.0,251.0,0.1,1.0,1.5,20.2,60.2,1009.2,9.0,11.0,70.3
+ICTMicroclimate-04,2024-10-15T19:55:45+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,2.0,354.0,0.0,0.3,2.4,21.0,55.5,1017.5,9.0,9.0,64.2
+ICTMicroclimate-11,2024-10-15T20:55:46+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,152.0,322.0,0.0,1.2,2.8,19.3,57.6,1010.7,2.0,3.0,49.9
+ICTMicroclimate-01,2024-10-15T20:55:35+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,123.0,,,1.3,,19.200001,61.0,1014.799988,0.0,3.0,49.299999
+ICTMicroclimate-10,2024-10-15T20:02:22+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,127.0,358.0,0.0,0.5,2.4,19.2,62.9,1010.5,4.0,9.0,89.1
+ICTMicroclimate-02,2024-10-16T15:46:55+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,353.0,358.0,1.3,1.8,3.6,24.5,47.2,1008.3,2.0,4.0,89.4
+ICTMicroclimate-10,2024-10-16T15:48:42+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,346.0,359.0,1.0,2.5,6.1,23.6,47.6,1008.5,1.0,3.0,96.5
+ICTMicroclimate-07,2024-10-15T20:08:05+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,135.0,314.0,0.0,0.5,2.1,20.8,53.8,1016.9,2.0,4.0,56.9
+ICTMicroclimate-06,2024-10-15T20:06:20+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,92.0,314.0,0.0,0.5,3.8,20.8,54.7,1014.9,2.0,3.0,61.4
+ICTMicroclimate-10,2024-10-15T20:17:23+11:00,1 Treasury Place,"-37.8128595, 144.9745395",103.0,150.0,193.0,1.0,2.9,4.4,18.9,63.0,1010.6,3.0,6.0,87.1
+ICTMicroclimate-04,2024-10-15T20:10:48+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,358.0,358.0,0.0,0.4,2.2,20.8,56.2,1017.5,9.0,9.0,68.6
+ICTMicroclimate-02,2024-10-15T20:29:22+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,3.0,354.0,0.0,0.8,2.2,20.2,60.0,1010.3,6.0,10.0,69.3
+ICTMicroclimate-04,2024-10-15T20:25:50+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,7.0,357.0,0.0,1.3,2.3,20.4,56.4,1017.7,9.0,9.0,59.7
+ICTMicroclimate-01,2024-10-15T20:25:34+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,119.0,,,0.6,,19.700001,59.799999,1014.400024,0.0,3.0,50.700001
+ICTMicroclimate-09,2024-10-15T20:35:06+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,323.0,359.0,0.0,0.5,3.0,20.2,56.0,1013.7,5.0,9.0,60.9
+ICTMicroclimate-08,2024-10-16T15:59:44+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,320.0,359.0,0.0,1.3,4.3,25.5,43.1,1012.7,8.0,8.0,70.4
+ICTMicroclimate-07,2024-10-15T20:38:08+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,54.0,224.0,0.0,0.4,2.3,20.4,54.6,1017.1,4.0,4.0,58.7
+ICTMicroclimate-02,2024-10-16T16:01:57+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,346.0,356.0,0.0,1.7,3.0,24.0,48.9,1008.0,3.0,5.0,74.6
+ICTMicroclimate-03,2024-10-15T20:37:55+11:00,CH1 rooftop,"-37.8140348, 144.96728",145.0,159.0,145.0,1.4,1.2,1.4,20.2,60.2,1009.1,6.0,11.0,74.4
+ICTMicroclimate-10,2024-10-16T16:03:42+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,346.0,355.0,0.0,2.4,6.1,23.6,47.0,1008.3,1.0,3.0,92.3
+ICTMicroclimate-01,2024-10-16T15:56:14+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,14.0,,,0.5,,24.700001,44.5,1012.200012,2.0,5.0,65.800003
+ICTMicroclimate-03,2024-10-16T14:55:20+11:00,CH1 rooftop,"-37.8140348, 144.96728",288.0,324.0,352.0,1.4,3.1,5.4,25.1,43.9,1008.0,1.0,3.0,84.5
+ICTMicroclimate-11,2024-10-15T20:40:45+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,50.0,359.0,0.0,0.2,2.5,19.5,57.5,1010.5,0.0,5.0,50.6
+ICTMicroclimate-04,2024-10-15T20:40:52+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,2.0,357.0,0.0,0.4,3.1,20.1,57.0,1017.9,9.0,9.0,66.1
+ICTMicroclimate-10,2024-10-16T15:03:39+11:00,1 Treasury Place,"-37.8128595, 144.9745395",1.0,21.0,358.0,0.6,1.9,2.9,24.8,44.7,1009.0,2.0,4.0,88.6
+ICTMicroclimate-04,2024-10-16T14:58:18+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,304.0,357.0,0.0,0.7,3.7,24.8,46.1,1016.1,2.0,3.0,70.2
+ICTMicroclimate-09,2024-10-16T15:07:33+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,297.0,359.0,0.0,2.3,5.6,25.7,42.4,1011.9,1.0,1.0,88.8
+ICTMicroclimate-06,2024-10-16T15:08:53+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,27.0,359.0,0.0,2.0,7.3,25.6,43.0,1013.9,2.0,2.0,81.1
+ICTMicroclimate-03,2024-10-16T15:10:21+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,358.0,349.0,0.4,0.5,1.0,25.7,42.8,1007.8,3.0,5.0,71.4
+ICTMicroclimate-02,2024-10-16T15:16:50+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,99.0,179.0,0.0,1.6,3.6,24.3,46.9,1008.7,2.0,4.0,70.0
+ICTMicroclimate-01,2024-10-16T15:11:12+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,97.0,,,0.6,,25.0,45.900002,1012.700012,2.0,5.0,59.799999
+ICTMicroclimate-09,2024-10-16T15:22:36+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,302.0,359.0,0.0,1.7,7.4,24.5,45.1,1011.7,1.0,1.0,74.9
+ICTMicroclimate-06,2024-10-15T20:51:27+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,85.0,179.0,0.0,0.9,4.7,20.0,56.3,1015.3,2.0,3.0,57.3
+ICTMicroclimate-07,2024-10-16T15:25:39+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,28.0,359.0,0.0,0.8,7.6,25.1,44.1,1015.3,3.0,3.0,67.5
+ICTMicroclimate-11,2024-10-15T18:10:36+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,103.0,355.0,0.0,0.9,4.3,22.8,53.1,1009.7,2.0,5.0,56.0
+ICTMicroclimate-01,2024-10-16T15:26:15+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,75.0,,,0.9,,25.200001,43.200001,1012.599976,2.0,5.0,60.400002
+ICTMicroclimate-03,2024-10-15T18:07:33+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,158.0,212.0,0.0,0.5,1.2,23.3,54.7,1008.7,4.0,7.0,70.9
+ICTMicroclimate-02,2024-10-16T15:31:53+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,354.0,347.0,1.3,1.4,1.7,24.8,45.3,1008.5,3.0,5.0,71.9
+ICTMicroclimate-10,2024-10-16T15:33:41+11:00,1 Treasury Place,"-37.8128595, 144.9745395",3.0,350.0,354.0,3.3,3.5,6.3,23.9,46.8,1008.7,2.0,5.0,92.8
+ICTMicroclimate-09,2024-10-15T18:19:48+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,55.0,358.0,0.0,0.4,4.2,22.9,54.4,1013.1,5.0,9.0,59.5
+ICTMicroclimate-07,2024-10-16T15:40:40+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,311.0,356.0,0.0,2.8,6.1,25.2,43.7,1015.1,1.0,1.0,69.0
+ICTMicroclimate-04,2024-10-16T15:43:23+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,0.0,356.0,0.0,0.0,2.6,25.7,44.3,1015.7,2.0,3.0,73.9
+ICTMicroclimate-09,2024-10-16T15:52:40+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,92.0,359.0,0.0,0.6,4.3,24.8,44.5,1011.3,1.0,1.0,65.3
+ICTMicroclimate-06,2024-10-16T15:53:58+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,25.0,359.0,0.0,2.2,7.6,24.9,44.1,1013.1,2.0,2.0,68.1
+ICTMicroclimate-01,2024-10-15T18:25:31+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,126.0,,,0.9,,22.700001,53.799999,1013.799988,2.0,5.0,61.0
+ICTMicroclimate-03,2024-10-16T15:55:28+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,45.0,314.0,0.0,0.8,1.5,24.6,45.6,1007.2,2.0,4.0,70.7
+ICTMicroclimate-03,2024-10-15T18:37:42+11:00,CH1 rooftop,"-37.8140348, 144.96728",187.0,209.0,187.0,0.5,1.0,0.5,22.3,56.0,1008.9,8.0,13.0,70.6
+ICTMicroclimate-06,2024-10-16T16:09:00+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,49.0,359.0,0.0,4.5,7.9,25.0,44.2,1012.9,2.0,2.0,96.8
+ICTMicroclimate-07,2024-10-16T16:10:45+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,56.0,357.0,0.0,1.0,5.0,25.0,43.9,1014.7,1.0,1.0,68.8
+ICTMicroclimate-11,2024-10-16T16:12:04+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,3.0,358.0,0.0,1.2,6.3,24.8,43.9,1007.9,1.0,1.0,52.0
+ICTMicroclimate-08,2024-10-15T18:41:55+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,176.0,288.0,0.0,2.5,4.8,22.6,52.2,1014.5,2.0,2.0,73.0
+ICTMicroclimate-04,2024-10-16T16:13:27+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,339.0,356.0,0.0,0.3,3.4,25.4,44.5,1015.5,2.0,3.0,73.3
+ICTMicroclimate-02,2024-10-16T16:16:59+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,346.0,355.0,0.0,1.0,2.7,24.5,46.5,1008.1,2.0,4.0,69.3
+ICTMicroclimate-10,2024-10-16T16:18:43+11:00,1 Treasury Place,"-37.8128595, 144.9745395",5.0,359.0,354.0,0.6,1.8,1.3,23.6,46.6,1008.4,1.0,3.0,87.9
+ICTMicroclimate-11,2024-10-16T16:27:04+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,335.0,359.0,0.0,1.4,6.3,24.2,44.9,1007.9,0.0,1.0,57.9
+ICTMicroclimate-03,2024-10-16T16:25:31+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,13.0,30.0,0.5,1.0,1.1,24.5,45.5,1007.1,2.0,4.0,71.5
+ICTMicroclimate-04,2024-10-16T16:28:30+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,284.0,355.0,0.0,0.6,3.0,25.2,44.4,1015.5,2.0,3.0,68.0
+ICTMicroclimate-02,2024-10-16T16:32:02+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,356.0,355.0,0.4,1.7,1.6,24.6,46.4,1008.1,2.0,4.0,70.1
+ICTMicroclimate-09,2024-10-16T16:37:46+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,87.0,358.0,0.0,0.7,2.6,25.1,43.3,1011.1,1.0,1.0,79.0
+ICTMicroclimate-06,2024-10-16T16:39:04+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,9.0,359.0,0.0,2.9,5.2,25.4,42.3,1012.9,2.0,2.0,70.3
+ICTMicroclimate-01,2024-10-16T16:41:14+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,95.0,,,0.7,,24.299999,44.599998,1012.0,1.0,4.0,57.099998
+ICTMicroclimate-08,2024-10-16T16:44:53+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,320.0,359.0,0.0,1.2,5.3,25.4,42.6,1012.5,8.0,8.0,65.5
+ICTMicroclimate-02,2024-10-16T16:47:03+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,346.0,355.0,0.5,2.4,6.0,24.6,46.0,1008.0,2.0,4.0,72.3
+ICTMicroclimate-09,2024-10-15T21:05:10+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,5.0,359.0,0.0,0.3,1.9,19.9,56.8,1013.9,5.0,9.0,57.2
+ICTMicroclimate-03,2024-10-15T21:07:57+11:00,CH1 rooftop,"-37.8140348, 144.96728",144.0,167.0,197.0,1.0,1.2,2.6,19.2,62.7,1009.8,6.0,8.0,76.0
+ICTMicroclimate-11,2024-10-15T18:55:39+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,164.0,314.0,0.0,1.3,5.2,21.8,52.6,1009.9,2.0,5.0,73.3
+aws5-0999,2024-10-16T16:51:43+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,39.0,35.0,0.3,0.0,0.3,24.1,48.9,1010.1,,,
+ICTMicroclimate-09,2024-10-16T16:52:48+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,85.0,359.0,0.0,0.8,4.0,25.3,43.0,1011.1,1.0,1.0,62.7
+ICTMicroclimate-11,2024-10-15T19:40:42+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,159.0,314.0,0.0,1.7,4.7,20.6,54.9,1010.1,2.0,5.0,50.3
+ICTMicroclimate-06,2024-10-16T16:54:06+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,352.0,359.0,0.0,1.6,6.7,25.4,41.8,1012.9,2.0,2.0,70.8
+ICTMicroclimate-01,2024-10-16T16:56:15+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,57.0,,,0.4,,24.5,44.099998,1011.900024,1.0,4.0,52.700001
+ICTMicroclimate-04,2024-10-15T19:10:39+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,338.0,355.0,0.0,0.4,2.6,22.2,54.0,1017.3,4.0,4.0,63.0
+ICTMicroclimate-08,2024-10-16T17:15:28+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,100.0,352.0,0.0,1.5,4.3,25.7,42.0,1012.5,8.0,8.0,75.8
+ICTMicroclimate-06,2024-10-16T17:09:08+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,9.0,359.0,0.0,1.6,6.5,25.6,42.0,1012.9,2.0,2.0,77.7
+ICTMicroclimate-03,2024-10-16T17:10:37+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,2.0,288.0,0.0,0.6,0.8,25.5,42.7,1007.0,2.0,5.0,71.6
+ICTMicroclimate-10,2024-10-16T17:03:46+11:00,1 Treasury Place,"-37.8128595, 144.9745395",323.0,327.0,353.0,1.1,1.8,4.3,23.8,46.1,1008.2,1.0,3.0,86.9
+ICTMicroclimate-10,2024-10-15T19:02:19+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,199.0,244.0,0.0,0.7,1.3,20.7,59.0,1010.3,4.0,7.0,88.5
+ICTMicroclimate-03,2024-10-15T19:07:42+11:00,CH1 rooftop,"-37.8140348, 144.96728",113.0,150.0,179.0,0.8,1.6,2.0,21.2,57.7,1009.0,7.0,9.0,70.5
+ICTMicroclimate-04,2024-10-15T19:25:42+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,0.0,359.0,0.0,0.0,1.9,21.7,54.5,1017.5,9.0,9.0,64.9
+aws5-0999,2024-10-16T17:22:36+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,34.0,179.0,0.2,0.0,0.9,25.3,44.4,1010.0,,,
+ICTMicroclimate-08,2024-10-16T17:29:55+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,241.0,355.0,0.0,1.2,3.1,26.2,42.0,1012.3,8.0,8.0,78.5
+ICTMicroclimate-04,2024-10-16T17:28:38+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,1.0,356.0,0.0,0.2,4.4,25.5,43.3,1015.1,2.0,3.0,68.8
+ICTMicroclimate-08,2024-10-15T21:27:17+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,156.0,354.0,0.0,0.9,3.0,19.5,57.5,1015.7,2.0,2.0,70.9
+ICTMicroclimate-10,2024-10-15T21:17:28+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,318.0,276.0,0.0,0.1,0.5,18.2,65.5,1011.3,3.0,7.0,77.6
+ICTMicroclimate-07,2024-10-16T17:40:58+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,328.0,357.0,0.0,1.6,5.1,25.4,42.5,1014.5,1.0,1.0,78.5
+ICTMicroclimate-02,2024-10-15T21:29:29+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,358.0,355.0,0.5,0.6,1.0,19.5,62.2,1011.0,3.0,5.0,68.6
+ICTMicroclimate-03,2024-10-16T17:40:41+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,339.0,326.0,0.6,1.5,0.9,25.7,42.4,1006.7,2.0,4.0,73.7
+ICTMicroclimate-03,2024-10-15T21:38:01+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,350.0,179.0,0.0,0.1,0.5,19.2,63.3,1010.2,3.0,8.0,70.1
+ICTMicroclimate-08,2024-10-15T21:42:20+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,189.0,314.0,0.0,1.1,2.5,19.5,57.9,1015.7,2.0,2.0,80.3
+ICTMicroclimate-04,2024-10-15T21:40:59+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,1.0,354.0,0.0,0.9,2.1,19.4,58.5,1018.7,9.0,9.0,71.2
+ICTMicroclimate-01,2024-10-15T21:40:36+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,120.0,,,0.7,,18.5,63.299999,1015.200012,1.0,4.0,49.299999
+ICTMicroclimate-11,2024-10-15T23:10:56+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,0.0,355.0,0.0,0.0,1.5,19.5,60.9,1011.1,3.0,6.0,50.3
+ICTMicroclimate-04,2024-10-15T23:11:12+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,39.0,314.0,0.0,0.2,1.2,19.5,60.6,1018.7,6.0,7.0,65.2
+ICTMicroclimate-07,2024-10-15T23:08:28+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,0.0,351.0,0.0,0.0,1.6,19.6,59.6,1017.9,4.0,4.0,68.3
+ICTMicroclimate-02,2024-10-15T23:14:43+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",85.0,96.0,105.0,1.0,1.5,1.5,19.7,62.9,1011.2,6.0,8.0,68.6
+ICTMicroclimate-10,2024-10-15T23:17:36+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,336.0,358.0,0.2,0.8,1.0,18.4,68.4,1011.6,4.0,6.0,63.0
+ICTMicroclimate-09,2024-10-15T23:20:28+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,278.0,359.0,0.0,0.6,2.0,19.0,60.3,1014.7,5.0,9.0,58.3
+ICTMicroclimate-08,2024-10-15T22:57:29+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,289.0,355.0,0.0,0.4,2.1,19.1,61.1,1015.9,2.0,2.0,68.9
+ICTMicroclimate-06,2024-10-15T22:51:42+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,352.0,356.0,0.0,1.0,3.9,19.1,60.8,1015.9,2.0,3.0,61.4
+ICTMicroclimate-03,2024-10-15T22:53:12+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,0.0,269.0,0.0,0.0,0.6,19.8,63.1,1010.3,4.0,8.0,70.7
+ICTMicroclimate-01,2024-10-15T22:55:38+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,0.0,,,0.0,,17.9,70.199997,1015.299988,2.0,8.0,48.400002
+ICTMicroclimate-09,2024-10-15T23:35:28+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,277.0,359.0,0.0,0.6,2.4,18.9,60.4,1014.7,5.0,9.0,57.8
+ICTMicroclimate-07,2024-10-15T23:38:33+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,341.0,353.0,0.0,0.3,1.2,19.0,63.6,1018.1,4.0,4.0,55.6
+ICTMicroclimate-10,2024-10-15T23:32:37+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,0.0,0.0,0.0,0.0,0.0,18.4,66.7,1011.6,4.0,7.0,61.3
+aws5-0999,2024-10-15T23:37:02+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,40.0,103.0,0.2,0.0,0.9,17.5,73.4,1013.3,,,
+ICTMicroclimate-02,2024-10-15T23:44:47+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",77.0,105.0,151.0,0.8,1.7,2.3,18.9,65.2,1011.3,4.0,7.0,69.2
+ICTMicroclimate-04,2024-10-15T23:41:16+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,295.0,357.0,0.0,0.7,3.0,19.0,60.3,1018.7,6.0,7.0,61.6
+ICTMicroclimate-01,2024-10-15T23:40:40+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,329.0,,,0.1,,17.9,68.699997,1015.400024,2.0,5.0,47.099998
+ICTMicroclimate-09,2024-10-15T23:50:31+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,1.0,359.0,0.0,0.3,2.2,18.6,61.2,1014.7,5.0,9.0,57.5
+ICTMicroclimate-10,2024-10-15T23:47:37+11:00,1 Treasury Place,"-37.8128595, 144.9745395",49.0,78.0,106.0,0.4,0.5,0.9,18.1,67.7,1011.6,4.0,8.0,73.7
+ICTMicroclimate-04,2024-10-16T17:43:40+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,351.0,358.0,0.0,0.1,2.1,25.6,43.2,1015.1,2.0,3.0,66.5
+ICTMicroclimate-09,2024-10-16T17:52:56+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,111.0,358.0,0.0,0.7,2.9,26.3,41.3,1010.7,1.0,1.0,60.7
+ICTMicroclimate-11,2024-10-15T23:55:58+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,355.0,359.0,0.0,0.7,3.2,18.6,61.0,1011.5,1.0,2.0,69.1
+ICTMicroclimate-10,2024-10-16T00:02:38+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,330.0,351.0,0.3,1.0,1.7,17.7,69.9,1011.8,4.0,8.0,62.0
+ICTMicroclimate-07,2024-10-16T00:08:37+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,318.0,355.0,0.0,1.3,2.1,18.9,60.9,1018.3,4.0,4.0,54.2
+ICTMicroclimate-02,2024-10-16T00:14:51+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",18.0,98.0,154.0,0.1,1.0,1.5,18.5,67.3,1011.6,3.0,7.0,69.1
+ICTMicroclimate-11,2024-10-16T00:11:00+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,343.0,359.0,0.0,2.0,3.7,18.0,62.5,1011.5,2.0,2.0,53.4
+ICTMicroclimate-04,2024-10-16T00:11:20+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,298.0,355.0,0.0,0.9,2.0,18.7,61.8,1019.1,6.0,7.0,60.5
+ICTMicroclimate-06,2024-10-16T00:21:54+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,342.0,357.0,0.0,0.7,3.5,18.5,62.3,1016.3,2.0,3.0,73.3
+aws5-0999,2024-10-16T00:22:03+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,51.0,179.0,0.2,0.0,0.8,16.7,78.0,1013.7,,,
+ICTMicroclimate-08,2024-10-15T21:57:21+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,158.0,341.0,0.0,0.6,2.1,19.3,59.4,1015.9,2.0,2.0,66.3
+ICTMicroclimate-11,2024-10-15T21:55:50+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,127.0,348.0,0.0,0.3,1.1,18.9,59.1,1011.3,1.0,1.0,49.5
+ICTMicroclimate-04,2024-10-15T21:56:02+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,328.0,355.0,0.0,0.4,2.2,19.4,58.8,1018.7,9.0,9.0,66.7
+ICTMicroclimate-10,2024-10-15T22:17:32+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,257.0,287.0,0.0,0.2,0.6,18.2,66.9,1011.6,4.0,9.0,65.5
+ICTMicroclimate-03,2024-10-15T22:23:07+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,70.0,137.0,0.0,0.2,0.7,19.7,62.9,1010.5,6.0,8.0,70.7
+ICTMicroclimate-02,2024-10-15T21:59:33+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,349.0,359.0,0.3,0.6,1.2,19.5,62.6,1011.3,2.0,4.0,69.3
+ICTMicroclimate-09,2024-10-15T21:50:15+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,6.0,359.0,0.0,0.2,1.6,19.5,57.8,1014.5,5.0,9.0,57.2
+ICTMicroclimate-07,2024-10-15T22:08:21+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,246.0,342.0,0.0,0.4,2.1,19.4,58.1,1018.3,4.0,4.0,58.0
+ICTMicroclimate-02,2024-10-15T22:29:38+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,347.0,358.0,0.0,0.5,0.8,20.2,62.4,1011.4,4.0,6.0,68.9
+ICTMicroclimate-09,2024-10-15T22:50:23+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,260.0,357.0,0.0,0.7,3.1,19.2,59.8,1014.5,5.0,9.0,62.6
+ICTMicroclimate-10,2024-10-15T22:47:34+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,42.0,222.0,0.0,0.1,0.2,18.4,67.9,1011.6,4.0,11.0,62.1
+ICTMicroclimate-08,2024-10-15T22:42:26+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,128.0,351.0,0.0,1.0,2.0,19.2,60.6,1015.7,2.0,2.0,70.7
+ICTMicroclimate-11,2024-10-15T22:40:54+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,322.0,356.0,0.0,0.9,2.1,19.7,58.5,1011.3,2.0,7.0,50.3
+ICTMicroclimate-03,2024-10-15T22:38:09+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,318.0,354.0,0.0,0.7,1.2,19.8,62.9,1010.4,7.0,11.0,70.4
+ICTMicroclimate-04,2024-10-16T00:26:21+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,286.0,357.0,0.0,1.1,3.0,18.1,62.6,1019.3,6.0,7.0,58.9
+ICTMicroclimate-03,2024-10-16T00:23:23+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,318.0,347.0,0.0,0.8,2.0,17.9,69.5,1010.8,4.0,7.0,71.6
+ICTMicroclimate-01,2024-10-16T00:25:42+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,40.0,,,0.2,,18.200001,68.099998,1015.700012,2.0,5.0,48.5
+ICTMicroclimate-06,2024-10-16T00:36:56+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,12.0,357.0,0.0,1.0,2.1,18.3,62.6,1016.5,2.0,3.0,54.6
+ICTMicroclimate-03,2024-10-16T00:38:25+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,333.0,355.0,0.4,0.4,0.9,17.5,70.4,1011.0,4.0,8.0,70.1
+ICTMicroclimate-02,2024-10-16T00:44:55+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,104.0,140.0,0.0,1.2,2.0,17.7,71.1,1011.8,4.0,7.0,68.5
+ICTMicroclimate-01,2024-10-16T00:40:42+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,0.0,,,0.0,,17.9,66.599998,1015.799988,2.0,5.0,47.599998
+ICTMicroclimate-03,2024-10-16T00:53:33+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,331.0,351.0,0.4,0.7,1.8,17.7,70.9,1010.9,1.0,3.0,70.5
+ICTMicroclimate-02,2024-10-16T01:14:59+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",90.0,111.0,137.0,1.0,1.5,1.9,17.9,71.7,1011.7,5.0,9.0,68.8
+ICTMicroclimate-11,2024-10-16T01:11:04+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,351.0,357.0,0.0,1.3,2.2,17.6,65.0,1011.7,1.0,3.0,52.0
+ICTMicroclimate-03,2024-10-16T01:08:29+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,326.0,351.0,0.0,0.3,1.0,17.7,71.5,1010.8,2.0,4.0,70.0
+ICTMicroclimate-01,2024-10-16T00:55:43+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,0.0,,,0.0,,17.5,68.800003,1015.799988,2.0,5.0,47.0
+ICTMicroclimate-09,2024-10-16T01:05:42+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,354.0,359.0,0.0,0.4,1.9,17.4,66.2,1015.1,5.0,9.0,57.1
+ICTMicroclimate-07,2024-10-16T00:53:46+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,0.0,356.0,0.0,0.0,3.0,18.1,63.1,1018.5,4.0,4.0,53.9
+ICTMicroclimate-10,2024-10-16T01:02:43+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,343.0,357.0,0.0,0.3,0.6,16.9,73.5,1012.0,2.0,8.0,60.1
+ICTMicroclimate-09,2024-10-16T01:20:44+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,6.0,358.0,0.0,0.2,2.0,17.3,66.2,1015.1,5.0,9.0,56.4
+ICTMicroclimate-07,2024-10-16T01:23:46+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,8.0,349.0,0.0,0.1,0.7,17.9,64.9,1018.5,4.0,4.0,53.4
+ICTMicroclimate-03,2024-10-16T01:23:31+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,337.0,352.0,0.3,0.4,0.6,17.7,71.6,1010.8,3.0,5.0,70.1
+ICTMicroclimate-06,2024-10-16T01:37:04+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,0.0,314.0,0.0,0.0,1.4,17.8,65.6,1016.5,1.0,2.0,50.6
+ICTMicroclimate-02,2024-10-17T02:03:16+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",304.0,345.0,348.0,1.2,1.3,1.8,19.7,66.9,1007.6,5.0,8.0,71.9
+aws5-0999,2024-10-16T20:06:42+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,8.0,67.0,0.1,0.0,0.2,22.3,55.8,1010.4,,,
+ICTMicroclimate-11,2024-10-16T19:57:19+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,346.0,359.0,0.0,0.6,4.4,23.5,46.8,1008.1,1.0,4.0,49.1
+ICTMicroclimate-04,2024-10-16T19:58:58+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,0.0,354.0,0.0,0.0,1.3,24.0,46.8,1015.5,2.0,3.0,66.9
+ICTMicroclimate-06,2024-10-16T19:54:30+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,58.0,359.0,0.0,0.9,4.1,23.9,46.4,1012.9,2.0,2.0,57.2
+ICTMicroclimate-07,2024-10-16T19:56:15+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,55.0,356.0,0.0,1.0,2.7,24.1,45.8,1014.7,1.0,1.0,70.8
+ICTMicroclimate-02,2024-10-16T20:02:29+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,354.0,359.0,0.4,0.8,0.8,24.0,48.7,1008.2,13.0,15.0,69.5
+ICTMicroclimate-06,2024-10-16T20:24:35+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,51.0,356.0,0.0,1.5,4.5,23.7,47.6,1013.1,2.0,2.0,62.9
+ICTMicroclimate-08,2024-10-16T20:30:18+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,156.0,355.0,0.0,0.9,2.2,23.6,48.6,1012.9,4.0,6.0,71.7
+ICTMicroclimate-11,2024-10-16T20:27:20+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,5.0,359.0,0.0,0.4,3.2,23.3,48.1,1008.3,1.0,3.0,50.3
+ICTMicroclimate-04,2024-10-16T20:29:02+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,0.0,351.0,0.0,0.4,0.7,23.7,48.7,1015.7,2.0,3.0,63.5
+ICTMicroclimate-02,2024-10-16T20:32:32+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,355.0,350.0,0.1,0.5,1.3,23.6,50.0,1008.3,8.0,11.0,69.9
+aws5-0999,2024-10-16T20:37:32+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,0.0,71.0,0.0,0.0,0.3,22.0,57.2,1010.6,,,
+ICTMicroclimate-07,2024-10-16T20:41:20+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,352.0,356.0,0.0,0.8,1.9,23.6,48.1,1015.1,1.0,1.0,58.6
+ICTMicroclimate-01,2024-10-16T20:41:23+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,98.0,,,0.4,,22.5,51.799999,1012.5,0.0,3.0,49.099998
+ICTMicroclimate-04,2024-10-16T20:44:04+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,0.0,349.0,0.0,0.0,0.6,23.5,49.1,1015.9,2.0,3.0,70.9
+ICTMicroclimate-10,2024-10-16T20:49:02+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,335.0,358.0,0.8,2.0,2.3,22.2,53.3,1008.9,2.0,4.0,63.9
+ICTMicroclimate-09,2024-10-16T20:53:20+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,55.0,356.0,0.0,0.6,3.1,23.2,49.1,1011.9,1.0,1.0,60.0
+ICTMicroclimate-11,2024-10-16T20:57:23+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,358.0,357.0,0.0,1.3,3.3,23.0,49.6,1008.7,3.0,6.0,69.2
+ICTMicroclimate-08,2024-10-16T21:00:22+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,353.0,358.0,0.0,0.1,3.6,23.7,48.1,1013.1,4.0,6.0,68.5
+ICTMicroclimate-02,2024-10-16T21:02:37+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,323.0,354.0,0.0,0.7,1.3,23.5,51.2,1008.6,7.0,9.0,69.5
+ICTMicroclimate-10,2024-10-16T21:04:03+11:00,1 Treasury Place,"-37.8128595, 144.9745395",2.0,333.0,349.0,0.4,1.0,2.3,22.0,54.4,1008.9,4.0,6.0,65.9
+ICTMicroclimate-09,2024-10-16T21:08:21+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,343.0,357.0,0.0,0.6,2.0,23.1,50.1,1011.9,1.0,1.0,58.1
+ICTMicroclimate-01,2024-10-16T21:11:24+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,78.0,,,0.2,,22.0,56.400002,1012.599976,0.0,3.0,53.299999
+ICTMicroclimate-11,2024-10-16T21:27:25+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,337.0,359.0,0.0,1.7,3.0,22.5,51.4,1008.9,4.0,4.0,67.0
+ICTMicroclimate-03,2024-10-16T21:26:11+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,350.0,341.0,0.0,0.5,1.2,22.7,53.9,1007.9,6.0,9.0,70.3
+ICTMicroclimate-01,2024-10-16T21:26:25+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,113.0,,,0.3,,21.700001,57.400002,1012.900024,0.0,3.0,52.5
+ICTMicroclimate-06,2024-10-16T21:39:44+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,9.0,356.0,0.0,0.7,3.3,22.5,52.4,1014.1,2.0,2.0,66.4
+ICTMicroclimate-03,2024-10-16T21:41:13+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,0.0,327.0,0.0,0.0,0.5,22.7,54.3,1008.4,7.0,10.0,70.4
+ICTMicroclimate-02,2024-10-16T21:47:43+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",71.0,127.0,170.0,0.4,0.9,1.0,22.8,54.2,1009.3,6.0,8.0,69.3
+ICTMicroclimate-11,2024-10-16T21:42:26+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,342.0,359.0,0.0,0.5,3.4,22.3,52.0,1009.3,2.0,2.0,50.3
+ICTMicroclimate-10,2024-10-16T21:49:06+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,352.0,355.0,0.0,0.4,0.9,21.3,57.3,1009.6,6.0,9.0,65.2
+ICTMicroclimate-02,2024-10-16T22:02:46+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,0.0,349.0,0.0,0.0,1.0,22.7,54.9,1009.3,7.0,9.0,70.2
+ICTMicroclimate-09,2024-10-16T22:08:29+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,1.0,359.0,0.0,0.2,2.0,22.6,52.3,1012.5,2.0,3.0,59.8
+aws5-0999,2024-10-16T22:07:33+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,0.0,0.0,0.0,0.0,0.0,20.7,64.4,1011.4,,,
+ICTMicroclimate-10,2024-10-16T22:19:08+11:00,1 Treasury Place,"-37.8128595, 144.9745395",2.0,335.0,350.0,0.2,0.5,1.1,21.0,59.5,1009.7,5.0,7.0,62.3
+aws5-0999,2024-10-16T22:22:09+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,0.0,0.0,0.0,0.0,0.0,20.3,66.1,1011.4,,,
+ICTMicroclimate-07,2024-10-16T22:11:32+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,329.0,351.0,0.0,0.3,2.0,22.4,52.6,1016.1,1.0,1.0,58.1
+ICTMicroclimate-11,2024-10-16T22:12:28+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,2.0,359.0,0.0,0.3,1.9,22.0,53.1,1009.3,6.0,10.0,52.0
+ICTMicroclimate-09,2024-10-16T22:23:31+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,309.0,359.0,0.0,0.7,2.1,22.3,53.1,1012.5,2.0,3.0,60.9
+ICTMicroclimate-11,2024-10-16T22:27:29+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,323.0,357.0,0.0,0.8,2.2,21.8,53.8,1009.3,4.0,4.0,51.3
+ICTMicroclimate-04,2024-10-16T22:29:18+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,0.0,353.0,0.0,0.0,1.5,22.4,53.5,1016.5,2.0,3.0,59.5
+ICTMicroclimate-02,2024-10-16T22:32:49+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,346.0,355.0,0.0,0.6,1.8,22.2,56.6,1009.1,6.0,8.0,69.5
+ICTMicroclimate-10,2024-10-16T22:34:08+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,2.0,359.0,0.0,0.3,0.7,20.8,60.0,1009.4,4.0,7.0,58.7
+ICTMicroclimate-11,2024-10-16T22:42:30+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,349.0,356.0,0.0,0.3,1.3,21.6,54.7,1008.9,5.0,5.0,50.3
+ICTMicroclimate-03,2024-10-16T22:41:21+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,32.0,349.0,0.0,0.4,1.0,21.8,57.7,1008.0,5.0,7.0,70.4
+ICTMicroclimate-07,2024-10-16T22:56:38+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,0.0,341.0,0.0,0.0,1.2,21.5,56.3,1015.5,1.0,1.0,62.5
+ICTMicroclimate-11,2024-10-16T22:57:31+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,2.0,356.0,0.0,0.1,2.9,21.2,56.1,1008.7,4.0,7.0,50.3
+ICTMicroclimate-06,2024-10-16T23:09:57+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,42.0,341.0,0.0,0.7,3.1,21.2,58.3,1013.7,6.0,6.0,54.0
+ICTMicroclimate-11,2024-10-16T23:12:31+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,349.0,357.0,0.0,0.9,2.5,21.1,56.1,1008.7,4.0,9.0,50.3
+aws5-0999,2024-10-16T23:06:59+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,0.0,0.0,0.0,0.0,0.0,19.2,70.9,1010.9,,,
+ICTMicroclimate-09,2024-10-16T23:23:40+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,31.0,359.0,0.0,0.2,1.7,21.6,57.0,1011.9,2.0,3.0,56.2
+ICTMicroclimate-06,2024-10-16T23:24:58+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,21.0,359.0,0.0,0.4,1.7,20.8,59.3,1013.3,6.0,6.0,64.9
+ICTMicroclimate-02,2024-10-16T23:32:59+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,349.0,355.0,0.8,1.0,1.9,22.0,57.9,1008.6,6.0,8.0,70.0
+ICTMicroclimate-10,2024-10-16T23:34:12+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,345.0,358.0,0.5,1.0,1.3,19.8,64.2,1009.0,5.0,8.0,66.1
+ICTMicroclimate-04,2024-10-16T23:44:27+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,0.0,345.0,0.0,0.5,1.2,21.3,58.7,1016.1,2.0,3.0,59.8
+ICTMicroclimate-07,2024-10-16T23:41:44+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,58.0,353.0,0.0,0.3,1.2,20.8,58.6,1015.3,1.0,1.0,55.1
+ICTMicroclimate-06,2024-10-16T23:40:00+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,48.0,359.0,0.0,0.6,1.9,20.7,59.0,1013.3,6.0,6.0,74.9
+ICTMicroclimate-08,2024-10-16T23:45:47+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,111.0,349.0,0.0,0.9,2.2,20.9,58.7,1013.1,4.0,6.0,67.2
+ICTMicroclimate-02,2024-10-16T23:48:00+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,349.0,356.0,0.5,0.6,1.2,21.2,61.7,1008.6,8.0,11.0,69.4
+ICTMicroclimate-07,2024-10-16T23:56:46+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,35.0,352.0,0.0,0.2,1.3,20.6,58.9,1015.3,1.0,1.0,58.1
+ICTMicroclimate-03,2024-10-16T23:56:32+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,346.0,346.0,0.0,0.7,1.5,20.8,62.1,1007.7,8.0,10.0,70.0
+ICTMicroclimate-06,2024-10-16T23:55:02+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,45.0,354.0,0.0,1.4,3.9,20.6,59.4,1013.3,6.0,6.0,68.7
+aws5-0999,2024-10-16T23:51:50+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,0.0,0.0,0.0,0.0,0.0,18.0,78.0,1010.6,,,
+ICTMicroclimate-09,2024-10-17T00:08:45+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,298.0,359.0,0.0,0.7,2.3,21.2,59.3,1011.7,2.0,3.0,57.0
+ICTMicroclimate-10,2024-10-17T00:04:15+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,337.0,358.0,0.4,1.1,2.0,19.5,67.1,1008.9,4.0,6.0,65.1
+ICTMicroclimate-04,2024-10-16T23:59:29+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,0.0,341.0,0.0,0.2,1.1,21.1,59.7,1015.9,2.0,3.0,61.6
+ICTMicroclimate-06,2024-10-17T00:10:04+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,90.0,353.0,0.0,1.1,3.0,20.4,60.4,1013.3,6.0,6.0,57.4
+ICTMicroclimate-03,2024-10-17T00:11:33+11:00,CH1 rooftop,"-37.8140348, 144.96728",335.0,355.0,335.0,0.0,0.2,1.3,20.7,64.9,1007.7,4.0,6.0,71.6
+ICTMicroclimate-04,2024-10-17T00:14:31+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,0.0,353.0,0.0,0.0,1.2,21.1,60.3,1015.9,2.0,3.0,56.4
+ICTMicroclimate-01,2024-10-17T00:11:30+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,94.0,,,0.5,,19.299999,68.5,1012.599976,5.0,11.0,47.900002
+ICTMicroclimate-10,2024-10-17T00:19:16+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,352.0,355.0,0.5,1.0,0.9,19.4,68.0,1009.0,4.0,8.0,60.6
+ICTMicroclimate-09,2024-10-17T00:23:47+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,14.0,358.0,0.0,0.3,1.9,21.2,59.9,1011.7,2.0,3.0,56.4
+ICTMicroclimate-08,2024-10-17T00:30:49+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,156.0,247.0,0.0,0.9,3.2,20.2,62.2,1012.7,4.0,6.0,61.8
+ICTMicroclimate-02,2024-10-17T00:33:06+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,351.0,351.0,0.3,1.5,2.9,20.3,66.1,1008.2,5.0,7.0,82.2
+ICTMicroclimate-08,2024-10-17T00:45:51+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,168.0,314.0,0.0,0.8,1.3,20.1,62.9,1012.9,4.0,6.0,67.0
+ICTMicroclimate-06,2024-10-17T00:40:08+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,63.0,117.0,0.0,0.9,2.2,19.9,63.2,1013.1,6.0,6.0,57.5
+ICTMicroclimate-07,2024-10-15T18:52:55+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,115.0,341.0,0.0,0.6,3.0,22.6,50.3,1016.7,2.0,4.0,62.8
+ICTMicroclimate-03,2024-10-15T18:52:40+11:00,CH1 rooftop,"-37.8140348, 144.96728",115.0,188.0,242.0,0.8,1.9,3.1,22.0,56.3,1009.1,5.0,10.0,78.9
+aws5-0999,2024-10-15T18:51:50+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",288.0,345.0,288.0,0.2,0.4,0.4,21.8,60.7,1011.6,,,
+ICTMicroclimate-08,2024-10-15T18:56:55+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,167.0,307.0,0.0,1.6,5.6,22.1,52.7,1014.5,2.0,2.0,68.3
+ICTMicroclimate-02,2024-10-15T18:59:09+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",251.0,349.0,349.0,0.4,1.0,1.6,22.4,54.7,1009.9,14.0,16.0,71.5
+ICTMicroclimate-04,2024-10-15T18:55:37+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,3.0,358.0,0.0,0.2,2.9,22.6,52.6,1017.3,4.0,4.0,79.0
+ICTMicroclimate-01,2024-10-15T18:55:31+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,129.0,,,1.4,,22.0,53.599998,1014.0,0.0,3.0,67.900002
+ICTMicroclimate-08,2024-10-15T19:11:56+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,179.0,347.0,0.0,2.9,4.4,21.9,52.8,1014.5,2.0,2.0,76.3
+ICTMicroclimate-07,2024-10-15T19:07:57+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,130.0,358.0,0.0,0.7,3.0,22.4,50.8,1016.7,2.0,4.0,67.4
+ICTMicroclimate-11,2024-10-15T19:10:40+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,164.0,341.0,0.0,1.4,4.1,21.4,53.4,1009.9,1.0,7.0,54.2
+ICTMicroclimate-09,2024-10-15T19:19:55+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,47.0,359.0,0.0,0.6,4.4,21.6,53.6,1013.1,5.0,9.0,60.9
+ICTMicroclimate-02,2024-10-15T19:14:10+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,1.0,354.0,0.3,0.3,1.0,22.0,55.9,1010.0,5.0,10.0,68.8
+ICTMicroclimate-07,2024-10-15T19:23:04+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,127.0,357.0,0.0,0.8,2.3,21.8,52.1,1016.7,2.0,4.0,71.8
+ICTMicroclimate-01,2024-10-15T19:25:31+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,141.0,,,1.3,,21.0,56.799999,1014.200012,0.0,3.0,61.099998
+ICTMicroclimate-10,2024-10-15T19:32:21+11:00,1 Treasury Place,"-37.8128595, 144.9745395",110.0,144.0,206.0,0.2,1.7,2.9,19.8,60.8,1010.4,3.0,8.0,91.4
+ICTMicroclimate-04,2024-10-15T19:40:43+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,359.0,354.0,0.0,0.6,1.8,21.4,55.2,1017.5,9.0,9.0,71.5
+ICTMicroclimate-06,2024-10-15T19:51:18+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,115.0,292.0,0.0,2.3,4.0,20.9,54.2,1014.9,2.0,3.0,66.6
+ICTMicroclimate-02,2024-10-15T19:29:13+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,322.0,351.0,0.0,0.6,1.7,21.5,56.8,1010.1,12.0,15.0,69.3
+ICTMicroclimate-11,2024-10-15T19:25:41+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,155.0,341.0,0.0,1.6,4.0,21.0,54.2,1010.1,1.0,3.0,62.4
+ICTMicroclimate-08,2024-10-15T19:42:03+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,138.0,348.0,0.0,1.0,3.7,21.2,54.1,1014.7,2.0,2.0,69.0
+ICTMicroclimate-02,2024-10-15T19:44:15+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",225.0,3.0,325.0,1.1,0.8,1.6,21.2,57.7,1010.1,6.0,9.0,70.7
+ICTMicroclimate-07,2024-10-15T19:53:03+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,127.0,353.0,0.0,0.6,2.6,21.2,53.0,1016.7,2.0,4.0,58.8
+ICTMicroclimate-11,2024-10-15T19:55:42+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,150.0,349.0,0.0,0.8,5.0,20.2,55.9,1010.1,2.0,2.0,52.0
+ICTMicroclimate-02,2024-10-15T19:59:17+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,1.0,354.0,0.4,1.1,1.6,20.8,58.7,1010.1,4.0,7.0,72.5
+ICTMicroclimate-02,2024-10-15T20:14:19+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,6.0,355.0,0.4,0.9,2.0,20.7,59.2,1010.2,6.0,9.0,71.1
+ICTMicroclimate-11,2024-10-15T20:10:43+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,119.0,353.0,0.0,1.0,2.7,20.0,56.5,1010.1,2.0,4.0,53.2
+ICTMicroclimate-11,2024-10-15T20:25:44+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,140.0,350.0,0.0,1.6,4.2,19.6,56.9,1010.3,1.0,6.0,49.9
+ICTMicroclimate-10,2024-10-15T20:32:24+11:00,1 Treasury Place,"-37.8128595, 144.9745395",103.0,99.0,139.0,1.0,1.2,1.7,18.7,64.0,1010.8,3.0,5.0,83.8
+ICTMicroclimate-02,2024-10-15T20:44:23+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,353.0,357.0,0.8,1.4,1.9,20.0,60.7,1010.5,3.0,8.0,70.3
+ICTMicroclimate-10,2024-10-15T20:47:25+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,67.0,185.0,0.0,0.3,1.3,18.5,64.7,1010.9,3.0,8.0,80.1
+ICTMicroclimate-08,2024-10-15T20:57:10+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,0.0,351.0,0.0,0.0,2.8,20.0,56.6,1015.3,2.0,2.0,68.1
+ICTMicroclimate-07,2024-10-15T20:53:10+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,111.0,190.0,0.0,0.5,2.2,20.2,54.9,1017.3,4.0,4.0,60.5
+ICTMicroclimate-07,2024-10-15T21:08:12+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,53.0,341.0,0.0,0.4,1.6,20.0,55.6,1017.5,4.0,4.0,57.8
+ICTMicroclimate-08,2024-10-15T21:12:14+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,90.0,351.0,0.0,0.4,2.7,19.7,57.0,1015.5,2.0,2.0,71.5
+ICTMicroclimate-11,2024-10-15T21:10:47+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,103.0,352.0,0.0,0.5,2.9,19.1,58.2,1010.9,1.0,5.0,50.6
+ICTMicroclimate-06,2024-10-15T21:21:30+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,116.0,179.0,0.0,1.8,4.2,19.4,57.6,1015.7,2.0,3.0,71.1
+ICTMicroclimate-03,2024-10-15T21:23:00+11:00,CH1 rooftop,"-37.8140348, 144.96728",55.0,145.0,210.0,0.1,0.8,1.7,19.0,63.2,1010.0,8.0,11.0,70.7
+ICTMicroclimate-01,2024-10-15T21:25:36+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,95.0,,,0.7,,18.700001,63.400002,1015.099976,1.0,4.0,56.200001
+ICTMicroclimate-09,2024-10-15T21:35:13+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,340.0,358.0,0.0,0.3,1.5,19.6,57.4,1014.3,5.0,9.0,59.9
+ICTMicroclimate-07,2024-10-15T21:38:17+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,63.0,359.0,0.0,0.3,1.5,19.6,56.9,1017.7,4.0,4.0,56.5
+ICTMicroclimate-10,2024-10-15T21:32:29+11:00,1 Treasury Place,"-37.8128595, 144.9745395",138.0,176.0,226.0,0.2,0.4,0.8,18.0,65.9,1011.5,2.0,5.0,63.2
+ICTMicroclimate-02,2024-10-15T21:44:31+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,353.0,355.0,0.0,0.7,1.4,19.7,62.3,1011.2,4.0,6.0,72.7
+ICTMicroclimate-11,2024-10-15T21:40:50+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,28.0,314.0,0.0,0.1,2.0,19.0,59.0,1011.3,2.0,3.0,51.3
+ICTMicroclimate-10,2024-10-15T21:47:30+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,190.0,160.0,0.0,0.3,0.4,18.0,66.2,1011.6,3.0,8.0,60.7
+ICTMicroclimate-07,2024-10-15T21:53:19+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,94.0,354.0,0.0,0.5,1.2,19.5,57.2,1017.9,4.0,4.0,59.2
+ICTMicroclimate-01,2024-10-15T21:55:37+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,114.0,,,0.3,,18.5,64.5,1015.400024,1.0,4.0,48.799999
+ICTMicroclimate-10,2024-10-15T22:02:31+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,294.0,347.0,0.0,0.2,0.4,18.2,66.2,1011.7,2.0,6.0,63.1
+aws5-0999,2024-10-15T22:05:43+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,0.0,341.0,0.0,0.0,0.4,18.5,69.4,1013.4,,,
+ICTMicroclimate-08,2024-10-15T22:12:22+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,138.0,355.0,0.0,1.7,2.8,19.6,58.5,1015.9,2.0,2.0,70.4
+ICTMicroclimate-11,2024-10-15T22:10:52+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,82.0,352.0,0.0,0.5,2.0,19.4,58.5,1011.5,3.0,4.0,50.3
+ICTMicroclimate-04,2024-10-15T22:11:03+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,0.0,355.0,0.0,0.0,1.4,19.6,59.0,1018.7,9.0,9.0,74.7
+ICTMicroclimate-09,2024-10-15T22:20:19+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,358.0,359.0,0.0,0.4,2.6,19.7,58.2,1014.7,5.0,9.0,57.1
+ICTMicroclimate-06,2024-10-15T22:21:38+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,292.0,358.0,0.0,0.7,2.2,19.4,58.7,1016.1,2.0,3.0,64.7
+ICTMicroclimate-06,2024-10-15T22:36:40+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,89.0,356.0,0.0,0.8,1.7,19.3,59.7,1015.9,2.0,3.0,54.4
+ICTMicroclimate-10,2024-10-15T22:32:33+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,312.0,0.0,0.0,0.3,0.0,18.7,66.3,1011.7,4.0,6.0,73.4
+ICTMicroclimate-08,2024-10-15T22:27:24+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,281.0,354.0,0.0,0.6,1.9,19.9,57.8,1015.9,2.0,2.0,66.4
+ICTMicroclimate-11,2024-10-15T22:25:53+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,355.0,355.0,0.0,0.8,1.6,19.6,59.1,1011.3,3.0,6.0,50.6
+ICTMicroclimate-01,2024-10-15T22:25:38+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,119.0,,,1.2,,18.299999,66.300003,1015.400024,2.0,8.0,48.599998
+ICTMicroclimate-07,2024-10-15T22:38:25+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,0.0,314.0,0.0,0.0,1.2,19.2,59.5,1017.9,4.0,4.0,59.5
+ICTMicroclimate-01,2024-10-15T22:40:38+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,114.0,,,0.5,,18.4,66.800003,1015.299988,2.0,8.0,51.400002
+ICTMicroclimate-02,2024-10-15T22:44:40+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,1.0,359.0,0.5,0.9,1.8,20.2,62.3,1011.1,5.0,9.0,69.1
+ICTMicroclimate-10,2024-10-15T23:02:34+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,94.0,124.0,0.0,0.7,1.0,18.5,67.7,1011.5,4.0,7.0,60.3
+ICTMicroclimate-04,2024-10-15T22:56:10+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,0.0,314.0,0.0,0.0,1.2,19.5,60.2,1018.7,6.0,7.0,55.8
+ICTMicroclimate-09,2024-10-15T23:05:26+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,292.0,357.0,0.0,0.4,2.1,19.1,59.6,1014.5,5.0,9.0,59.7
+ICTMicroclimate-06,2024-10-15T23:06:44+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,1.0,359.0,0.0,0.3,3.4,19.5,60.4,1015.9,2.0,3.0,57.2
+ICTMicroclimate-02,2024-10-15T23:29:46+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",90.0,110.0,136.0,1.9,2.3,3.1,19.4,64.4,1011.2,6.0,9.0,74.9
+ICTMicroclimate-04,2024-10-15T23:26:14+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,332.0,353.0,0.0,0.2,1.0,19.3,59.9,1018.9,6.0,7.0,59.3
+ICTMicroclimate-03,2024-10-15T23:23:15+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,342.0,354.0,1.2,0.7,2.2,19.2,63.6,1010.6,5.0,8.0,69.6
+ICTMicroclimate-06,2024-10-15T23:36:49+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,0.0,355.0,0.0,0.0,1.4,19.2,61.7,1015.9,2.0,3.0,55.2
+ICTMicroclimate-08,2024-10-15T23:42:33+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,324.0,359.0,0.0,1.2,4.0,19.1,59.1,1015.9,2.0,2.0,66.4
+ICTMicroclimate-03,2024-10-15T23:38:17+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,332.0,356.0,0.6,1.1,1.6,18.9,64.4,1010.5,5.0,9.0,70.6
+ICTMicroclimate-03,2024-10-15T23:53:19+11:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,13.0,345.0,0.0,0.2,0.8,18.7,66.0,1010.4,5.0,8.0,69.9
+aws5-0999,2024-10-15T23:51:41+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,111.0,179.0,0.2,0.0,0.6,17.4,73.4,1013.5,,,
+ICTMicroclimate-07,2024-10-15T23:53:34+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,0.0,355.0,0.0,0.0,1.3,19.2,62.5,1018.1,4.0,4.0,55.3
+ICTMicroclimate-01,2024-10-15T23:55:41+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,0.0,,,0.0,,18.5,65.199997,1015.400024,2.0,5.0,47.200001
+ICTMicroclimate-08,2024-10-15T23:57:33+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,352.0,357.0,0.0,0.7,3.3,18.8,61.4,1016.1,2.0,2.0,60.9
+ICTMicroclimate-04,2024-10-15T23:56:17+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,309.0,355.0,0.0,0.9,1.8,18.8,61.4,1018.9,6.0,7.0,62.4
+ICTMicroclimate-02,2024-10-15T23:59:49+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",136.0,140.0,136.0,0.6,1.1,0.6,19.0,66.1,1011.4,6.0,9.0,69.0
+ICTMicroclimate-08,2024-10-16T00:12:41+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,351.0,356.0,0.0,1.0,2.9,19.1,60.4,1016.1,2.0,2.0,67.2
+ICTMicroclimate-09,2024-10-16T00:05:33+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,16.0,359.0,0.0,0.8,2.5,18.5,62.0,1014.9,5.0,9.0,60.4
+ICTMicroclimate-07,2024-10-16T00:23:38+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,323.0,358.0,0.0,2.6,4.3,18.2,62.4,1018.3,4.0,4.0,84.3
+ICTMicroclimate-08,2024-10-16T00:27:38+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,348.0,356.0,0.0,0.7,2.9,18.6,61.0,1016.3,2.0,2.0,65.6
+ICTMicroclimate-07,2024-10-16T00:38:40+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,321.0,356.0,0.0,1.6,3.1,18.2,62.5,1018.5,4.0,4.0,71.2
+ICTMicroclimate-08,2024-10-16T00:42:40+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,312.0,359.0,0.0,1.3,4.5,18.1,62.4,1016.5,2.0,2.0,76.6
+ICTMicroclimate-09,2024-10-16T00:50:39+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,306.0,358.0,0.0,0.5,2.3,17.5,66.1,1015.1,5.0,9.0,56.4
+ICTMicroclimate-10,2024-10-16T00:47:42+11:00,1 Treasury Place,"-37.8128595, 144.9745395",270.0,306.0,314.0,0.2,0.7,1.0,16.9,72.7,1012.2,3.0,5.0,60.0
+ICTMicroclimate-11,2024-10-16T00:56:03+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,355.0,359.0,0.0,0.2,3.6,17.7,64.6,1011.7,2.0,6.0,47.7
+aws5-0999,2024-10-16T00:52:28+11:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,50.0,179.0,0.2,0.0,0.4,16.2,80.8,1013.9,,,
+ICTMicroclimate-04,2024-10-16T01:26:29+11:00,Batman Park,"-37.8221828, 144.9562225",0.0,0.0,341.0,0.0,0.0,0.9,17.6,66.0,1019.3,6.0,7.0,52.8
+ICTMicroclimate-02,2024-10-16T01:15:00+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",102.0,106.0,125.0,1.0,1.3,3.1,17.9,71.0,1011.7,3.0,6.0,71.6
+ICTMicroclimate-01,2024-10-16T01:10:43+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,0.0,,,0.0,,17.4,69.5,1015.700012,2.0,5.0,48.700001
+ICTMicroclimate-06,2024-10-16T01:22:02+11:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,22.0,355.0,0.0,0.3,1.6,17.9,65.2,1016.5,1.0,2.0,50.5
+ICTMicroclimate-10,2024-10-16T01:17:44+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,340.0,0.0,0.0,0.2,0.0,16.9,74.2,1012.1,3.0,5.0,53.5
+ICTMicroclimate-08,2024-10-16T01:27:46+11:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,0.0,351.0,0.0,0.0,1.6,17.8,64.9,1016.3,2.0,2.0,73.1
+ICTMicroclimate-11,2024-10-16T01:26:05+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,0.0,359.0,0.0,0.0,1.8,17.8,64.5,1011.9,1.0,5.0,48.6
+ICTMicroclimate-01,2024-10-16T01:25:44+11:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,10.0,,,0.1,,17.4,70.699997,1015.799988,2.0,5.0,48.900002
+ICTMicroclimate-02,2024-10-16T01:30:01+11:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,31.0,314.0,0.0,0.2,1.1,18.7,68.3,1011.7,3.0,5.0,68.8
+ICTMicroclimate-09,2024-10-16T01:35:46+11:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,355.0,355.0,0.0,0.3,1.5,17.2,66.8,1015.1,5.0,9.0,57.6
+ICTMicroclimate-07,2024-10-16T01:38:48+11:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,0.0,314.0,0.0,0.0,1.1,17.8,65.3,1018.5,4.0,4.0,52.7
+ICTMicroclimate-11,2024-10-16T01:41:06+11:00,1 Treasury Place,"-37.812888, 144.9750857",0.0,340.0,354.0,0.0,0.3,1.2,17.5,66.2,1011.7,1.0,1.0,49.1
+ICTMicroclimate-10,2024-10-16T01:47:46+11:00,1 Treasury Place,"-37.8128595, 144.9745395",0.0,181.0,193.0,0.0,0.2,0.6,16.7,75.4,1012.1,4.0,8.0,60.9
+ICTMicroclimate-02,2024-06-20T12:29:51+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,356.0,359.0,0.2,0.5,1.0,11.4,62.2,1010.8,57.0,70.0,70.4
+ICTMicroclimate-06,2024-06-20T12:36:54+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,349.0,359.0,0.0,1.1,3.6,12.9,48.7,1015.3,13.0,13.0,63.8
+ICTMicroclimate-07,2024-06-20T12:38:39+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,342.0,358.0,0.0,0.2,2.8,13.0,49.7,1017.3,25.0,26.0,59.9
+aws5-0999,2024-06-20T12:45:09+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,14.0,108.0,0.2,0.0,0.7,11.8,61.1,1013.0,,,
+ICTMicroclimate-09,2024-06-20T12:50:38+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,3.0,358.0,0.0,0.4,2.1,12.8,51.3,1013.9,12.0,12.0,58.7
+ICTMicroclimate-03,2024-06-20T13:08:28+10:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,335.0,0.0,0.0,0.2,0.0,12.9,53.4,1009.5,15.0,17.0,70.2
+ICTMicroclimate-07,2024-06-20T13:08:43+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,25.0,359.0,0.0,0.1,2.3,13.0,49.5,1017.1,25.0,26.0,62.0
+ICTMicroclimate-02,2024-06-20T13:14:57+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,342.0,356.0,0.0,0.8,1.3,12.1,56.0,1010.4,17.0,19.0,70.6
+ICTMicroclimate-01,2024-06-20T13:15:29+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,102.0,,,0.7,,11.5,56.099998,1014.700012,6.0,9.0,52.599998
+ICTMicroclimate-03,2024-06-20T13:23:29+10:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,2.0,90.0,0.0,0.6,0.9,12.8,53.6,1009.5,10.0,14.0,70.5
+ICTMicroclimate-07,2024-06-20T13:23:44+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,162.0,358.0,0.0,0.5,2.4,13.0,49.1,1016.9,25.0,26.0,60.5
+ICTMicroclimate-08,2024-06-20T13:27:49+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,162.0,288.0,0.0,0.8,2.8,12.6,50.4,1014.9,15.0,16.0,70.3
+ICTMicroclimate-01,2024-06-20T13:30:29+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,120.0,,,0.7,,11.6,55.200001,1014.5,6.0,9.0,54.900002
+ICTMicroclimate-09,2024-06-20T13:35:44+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,338.0,359.0,0.0,0.2,2.0,13.3,50.0,1013.5,12.0,12.0,69.9
+ICTMicroclimate-06,2024-06-20T13:37:02+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,17.0,356.0,0.0,0.5,2.7,13.1,48.6,1014.9,13.0,13.0,80.5
+ICTMicroclimate-03,2024-06-20T13:38:32+10:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,326.0,314.0,0.0,0.2,0.7,12.8,52.1,1009.3,22.0,24.0,71.3
+ICTMicroclimate-07,2024-06-20T13:38:47+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,308.0,358.0,0.0,0.6,2.5,13.9,45.5,1016.7,25.0,26.0,63.1
+ICTMicroclimate-08,2024-06-20T13:42:46+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,157.0,314.0,0.0,1.1,2.2,12.7,50.0,1014.7,15.0,16.0,68.1
+ICTMicroclimate-02,2024-06-20T13:45:01+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,0.0,341.0,0.0,0.0,0.6,12.8,54.6,1010.2,22.0,24.0,71.3
+ICTMicroclimate-01,2024-06-20T13:45:30+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,110.0,,,0.7,,11.6,57.099998,1014.400024,6.0,9.0,52.099998
+ICTMicroclimate-09,2024-06-20T13:50:46+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,64.0,359.0,0.0,0.7,2.8,13.5,47.5,1013.3,12.0,12.0,68.7
+ICTMicroclimate-03,2024-06-20T13:53:34+10:00,CH1 rooftop,"-37.8140348, 144.96728",166.0,179.0,211.0,1.2,1.7,2.4,12.3,53.2,1009.1,8.0,10.0,77.6
+ICTMicroclimate-07,2024-06-20T14:08:51+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,173.0,294.0,0.0,1.1,3.0,13.7,48.9,1016.3,25.0,26.0,61.0
+ICTMicroclimate-08,2024-06-20T14:12:52+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,195.0,315.0,0.0,0.7,2.3,13.9,47.2,1014.3,15.0,16.0,67.1
+ICTMicroclimate-03,2024-06-20T14:23:36+10:00,CH1 rooftop,"-37.8140348, 144.96728",174.0,178.0,183.0,2.1,1.7,2.4,12.4,58.0,1008.9,16.0,19.0,70.5
+ICTMicroclimate-07,2024-06-20T14:23:54+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,188.0,359.0,0.0,1.0,2.8,13.2,53.2,1016.5,25.0,26.0,66.1
+ICTMicroclimate-02,2024-06-20T14:30:07+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,12.0,350.0,0.0,0.3,0.8,13.2,57.8,1009.9,23.0,29.0,71.1
+ICTMicroclimate-01,2024-06-20T14:30:30+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,35.0,,,0.1,,12.8,54.0,1014.099976,4.0,7.0,50.200001
+ICTMicroclimate-09,2024-06-20T14:35:53+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,231.0,354.0,0.0,1.0,3.9,11.9,59.0,1013.5,12.0,12.0,64.5
+ICTMicroclimate-03,2024-06-20T14:38:40+10:00,CH1 rooftop,"-37.8140348, 144.96728",167.0,171.0,167.0,1.7,1.9,1.7,11.6,61.0,1009.1,15.0,19.0,71.4
+ICTMicroclimate-07,2024-06-20T14:38:55+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,275.0,356.0,0.0,0.4,3.0,12.9,55.3,1016.5,25.0,26.0,68.5
+ICTMicroclimate-08,2024-06-20T14:42:57+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",124.0,182.0,222.0,0.6,2.5,3.9,12.1,57.5,1014.7,15.0,16.0,76.7
+ICTMicroclimate-01,2024-06-20T14:45:31+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,25.0,,,0.2,,12.8,55.900002,1014.200012,4.0,7.0,51.5
+ICTMicroclimate-06,2024-06-20T14:52:13+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,208.0,357.0,0.0,1.2,3.1,11.8,59.7,1014.9,6.0,6.0,60.4
+ICTMicroclimate-08,2024-06-20T14:57:56+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",136.0,180.0,219.0,0.5,2.4,4.2,11.8,59.4,1014.9,15.0,16.0,81.5
+ICTMicroclimate-02,2024-06-20T15:00:09+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,8.0,343.0,0.0,0.4,0.9,12.4,62.8,1010.1,30.0,34.0,70.6
+aws5-0999,2024-06-20T15:00:38+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",5.0,93.0,141.0,0.9,0.1,1.6,11.3,67.1,1012.6,,,
+ICTMicroclimate-03,2024-06-20T15:08:41+10:00,CH1 rooftop,"-37.8140348, 144.96728",160.0,176.0,179.0,1.4,1.9,2.3,11.3,65.6,1009.3,16.0,18.0,70.5
+ICTMicroclimate-07,2024-06-20T15:08:59+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,318.0,358.0,0.0,0.3,2.7,12.1,59.7,1016.9,14.0,16.0,63.7
+ICTMicroclimate-08,2024-06-20T15:13:04+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",108.0,186.0,231.0,0.3,1.2,3.6,11.8,57.7,1014.9,15.0,16.0,70.9
+aws5-0999,2024-06-20T15:15:47+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,16.0,352.0,0.1,0.0,0.7,11.1,69.8,1012.7,,,
+ICTMicroclimate-07,2024-06-20T15:24:01+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,238.0,356.0,0.0,0.5,1.7,12.0,61.7,1017.1,14.0,16.0,67.2
+ICTMicroclimate-02,2024-06-20T15:30:13+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,28.0,357.0,0.0,0.3,1.0,12.3,64.5,1010.3,22.0,26.0,70.8
+aws5-0999,2024-06-20T15:30:45+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,0.0,355.0,0.0,0.0,0.5,10.8,69.1,1012.7,,,
+ICTMicroclimate-09,2024-06-20T15:51:03+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,3.0,357.0,0.0,0.2,2.6,11.5,62.7,1013.9,12.0,12.0,66.7
+ICTMicroclimate-06,2024-06-20T15:52:20+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,193.0,353.0,0.0,0.6,4.2,11.4,62.6,1015.1,6.0,6.0,67.8
+ICTMicroclimate-03,2024-06-20T15:53:48+10:00,CH1 rooftop,"-37.8140348, 144.96728",126.0,171.0,204.0,0.8,1.3,1.8,11.1,69.5,1009.5,24.0,26.0,70.5
+ICTMicroclimate-01,2024-06-20T16:00:34+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,48.0,,,0.1,,11.1,69.199997,1014.5,9.0,12.0,50.599998
+ICTMicroclimate-09,2024-06-20T16:06:04+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,356.0,359.0,0.0,0.4,2.4,11.6,63.6,1013.9,12.0,12.0,63.1
+ICTMicroclimate-08,2024-06-20T16:13:10+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,178.0,314.0,0.0,1.5,3.4,11.8,60.3,1015.1,15.0,16.0,67.5
+ICTMicroclimate-09,2024-06-20T16:21:07+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,327.0,359.0,0.0,0.5,2.7,11.6,63.7,1013.9,12.0,12.0,63.7
+ICTMicroclimate-03,2024-06-20T16:23:51+10:00,CH1 rooftop,"-37.8140348, 144.96728",179.0,189.0,215.0,0.6,1.0,1.3,11.3,68.6,1009.5,21.0,23.0,69.9
+ICTMicroclimate-07,2024-06-20T16:24:11+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,5.0,357.0,0.0,0.1,3.6,11.5,64.7,1017.1,14.0,16.0,63.6
+ICTMicroclimate-01,2024-06-20T16:31:00+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,0.0,,,0.0,,10.9,71.400002,1014.599976,9.0,12.0,50.0
+ICTMicroclimate-02,2024-06-20T16:45:22+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,289.0,359.0,0.0,0.5,1.3,12.1,66.7,1010.3,16.0,21.0,71.5
+aws5-0999,2024-06-20T16:46:02+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,79.0,353.0,0.5,0.0,0.9,10.4,73.5,1012.9,,,
+ICTMicroclimate-03,2024-06-20T16:53:56+10:00,CH1 rooftop,"-37.8140348, 144.96728",165.0,182.0,201.0,0.9,1.4,1.9,11.1,71.0,1009.5,21.0,24.0,70.9
+ICTMicroclimate-08,2024-06-20T16:58:17+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,318.0,354.0,0.0,0.6,1.8,11.7,64.5,1015.1,15.0,16.0,66.0
+aws5-0999,2024-06-20T17:00:48+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,51.0,341.0,0.3,0.0,0.3,10.3,76.4,1013.0,,,
+aws5-0999,2024-06-20T17:15:58+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",83.0,22.0,157.0,0.1,0.3,0.6,10.1,79.9,1013.0,,,
+ICTMicroclimate-06,2024-06-20T17:22:33+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,309.0,359.0,0.0,0.7,8.4,11.0,69.4,1015.3,12.0,12.0,70.2
+ICTMicroclimate-08,2024-06-20T17:28:37+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,345.0,355.0,0.0,0.3,2.1,11.7,66.2,1015.3,15.0,16.0,70.2
+ICTMicroclimate-02,2024-06-20T17:30:29+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,15.0,108.0,0.0,0.1,0.6,11.9,72.8,1010.7,19.0,22.0,70.6
+ICTMicroclimate-09,2024-06-20T17:36:16+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,352.0,359.0,0.0,0.2,1.9,11.1,68.4,1014.3,15.0,15.0,59.6
+ICTMicroclimate-03,2024-06-20T17:39:02+10:00,CH1 rooftop,"-37.8140348, 144.96728",168.0,181.0,188.0,0.3,1.0,1.6,11.3,74.1,1009.9,15.0,17.0,69.9
+ICTMicroclimate-07,2024-06-20T17:39:21+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,345.0,359.0,0.0,0.5,2.9,11.1,70.1,1017.5,14.0,16.0,60.6
+ICTMicroclimate-09,2024-06-20T17:51:18+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,269.0,358.0,0.0,0.9,3.4,11.4,67.7,1014.5,15.0,15.0,61.7
+ICTMicroclimate-07,2024-06-20T17:54:21+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,155.0,356.0,0.0,0.5,4.3,11.3,68.6,1017.7,14.0,16.0,71.6
+ICTMicroclimate-02,2024-06-20T18:00:33+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",123.0,8.0,123.0,0.5,0.9,0.5,12.1,68.7,1011.0,27.0,32.0,69.9
+aws5-0999,2024-06-20T18:00:35+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,50.0,119.0,0.2,0.0,0.3,10.1,82.9,1013.4,,,
+ICTMicroclimate-09,2024-06-20T18:06:20+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,346.0,359.0,0.0,0.3,1.9,11.6,66.0,1014.7,15.0,15.0,59.7
+ICTMicroclimate-08,2024-06-20T18:13:24+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,160.0,344.0,0.0,1.1,4.0,11.8,61.3,1015.9,15.0,16.0,70.5
+ICTMicroclimate-08,2024-06-20T18:13:25+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,352.0,356.0,0.0,0.2,2.0,11.8,66.0,1015.5,15.0,16.0,71.2
+aws5-0999,2024-06-20T18:15:18+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,0.0,0.0,0.0,0.0,0.0,10.3,81.6,1013.6,,,
+ICTMicroclimate-07,2024-06-20T18:24:29+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,73.0,351.0,0.0,0.3,3.1,11.5,62.6,1018.1,14.0,16.0,63.4
+ICTMicroclimate-09,2024-06-20T18:36:23+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,304.0,357.0,0.0,0.5,2.2,11.3,64.1,1014.9,15.0,15.0,59.7
+ICTMicroclimate-07,2024-06-20T18:39:27+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,179.0,354.0,0.0,0.6,2.1,11.4,63.0,1018.1,14.0,16.0,75.7
+ICTMicroclimate-08,2024-06-20T18:43:31+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,128.0,327.0,0.0,1.3,2.9,11.6,61.2,1016.1,15.0,16.0,63.6
+ICTMicroclimate-01,2024-06-20T18:45:40+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,357.0,,,0.1,,10.6,71.599998,1015.700012,9.0,12.0,51.099998
+aws5-0999,2024-06-20T18:46:12+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,70.0,112.0,0.3,0.0,0.7,10.4,73.1,1013.8,,,
+ICTMicroclimate-03,2024-06-20T18:54:13+10:00,CH1 rooftop,"-37.8140348, 144.96728",132.0,174.0,179.0,0.7,1.1,1.3,11.1,69.0,1010.7,19.0,21.0,70.1
+ICTMicroclimate-01,2024-06-20T19:00:39+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,120.0,,,0.5,,10.4,71.5,1015.799988,9.0,12.0,49.400002
+ICTMicroclimate-09,2024-06-20T19:06:29+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,277.0,358.0,0.0,0.6,2.2,11.2,64.4,1015.3,15.0,15.0,61.6
+ICTMicroclimate-07,2024-06-20T19:24:34+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,174.0,359.0,0.0,0.3,2.6,11.3,63.0,1018.5,14.0,16.0,66.0
+ICTMicroclimate-08,2024-06-20T19:28:44+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,190.0,314.0,0.0,1.0,2.7,11.7,60.3,1016.5,15.0,16.0,66.7
+aws5-0999,2024-06-20T19:30:49+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,0.0,45.0,0.0,0.0,0.1,10.4,73.4,1014.3,,,
+ICTMicroclimate-03,2024-06-20T19:39:17+10:00,CH1 rooftop,"-37.8140348, 144.96728",179.0,198.0,218.0,0.9,1.6,2.3,10.9,67.1,1010.9,23.0,25.0,71.1
+ICTMicroclimate-07,2024-06-20T19:39:36+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,0.0,359.0,0.0,0.0,2.5,11.2,62.6,1018.5,14.0,16.0,65.0
+ICTMicroclimate-01,2024-06-20T19:52:42+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,0.0,,,0.0,,10.3,71.900002,1016.099976,9.0,12.0,50.599998
+ICTMicroclimate-06,2024-06-20T19:53:18+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,0.0,358.0,0.0,0.0,1.9,11.2,62.7,1016.7,13.0,15.0,58.0
+ICTMicroclimate-06,2024-06-20T19:53:18+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,355.0,356.0,0.0,0.1,1.6,11.3,63.3,1016.5,13.0,15.0,73.4
+ICTMicroclimate-08,2024-06-20T19:58:36+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,146.0,341.0,0.0,0.9,2.9,11.7,58.6,1016.7,15.0,16.0,97.1
+aws5-0999,2024-06-20T20:00:29+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,0.0,337.0,0.0,0.0,0.6,10.2,74.3,1014.5,,,
+ICTMicroclimate-01,2024-06-20T20:00:42+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,27.0,,,0.1,,10.3,69.599998,1016.299988,9.0,12.0,50.099998
+ICTMicroclimate-02,2024-06-20T20:00:50+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,17.0,341.0,0.0,0.3,0.8,11.7,63.6,1012.0,23.0,25.0,70.4
+ICTMicroclimate-06,2024-06-20T20:07:55+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,72.0,353.0,0.0,0.4,2.4,11.1,63.0,1016.7,13.0,15.0,55.7
+ICTMicroclimate-03,2024-06-20T20:09:22+10:00,CH1 rooftop,"-37.8140348, 144.96728",157.0,190.0,212.0,0.7,1.8,3.3,11.1,65.7,1011.1,23.0,27.0,69.8
+ICTMicroclimate-07,2024-06-20T20:09:39+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,166.0,341.0,0.0,0.5,2.3,11.1,62.5,1018.7,14.0,16.0,64.1
+ICTMicroclimate-01,2024-06-20T20:16:10+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,0.0,,,0.0,,10.3,68.699997,1016.200012,17.0,26.0,52.700001
+ICTMicroclimate-03,2024-06-20T20:24:24+10:00,CH1 rooftop,"-37.8140348, 144.96728",179.0,194.0,216.0,0.9,1.2,2.2,10.9,66.4,1011.2,25.0,27.0,71.7
+ICTMicroclimate-07,2024-06-20T20:24:41+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,115.0,357.0,0.0,0.3,2.2,11.2,61.3,1018.7,14.0,16.0,66.2
+ICTMicroclimate-01,2024-06-20T20:30:42+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,134.0,,,1.2,,10.3,69.699997,1016.299988,17.0,26.0,50.0
+ICTMicroclimate-09,2024-06-20T20:36:40+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,309.0,355.0,0.0,0.6,3.2,11.2,61.4,1015.7,27.0,32.0,58.4
+ICTMicroclimate-07,2024-06-20T20:39:43+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,0.0,341.0,0.0,0.0,1.7,11.0,62.8,1018.9,14.0,16.0,73.4
+ICTMicroclimate-02,2024-06-20T20:46:01+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,2.0,357.0,0.0,0.8,1.9,11.3,68.3,1012.2,19.0,21.0,70.8
+ICTMicroclimate-09,2024-06-20T20:51:42+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,349.0,359.0,0.0,0.4,2.7,11.0,63.3,1015.7,27.0,32.0,59.3
+ICTMicroclimate-07,2024-06-20T20:54:45+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,168.0,345.0,0.0,0.7,1.7,10.9,64.2,1018.9,14.0,16.0,64.5
+aws5-0999,2024-06-20T21:00:09+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,0.0,280.0,0.0,0.0,0.3,10.3,73.0,1014.5,,,
+ICTMicroclimate-06,2024-06-20T21:08:13+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,33.0,356.0,0.0,0.2,1.7,10.7,65.5,1017.1,13.0,15.0,57.7
+aws5-0999,2024-06-20T21:15:04+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,349.0,325.0,0.1,0.1,1.2,10.1,74.0,1014.7,,,
+ICTMicroclimate-07,2024-06-20T21:24:50+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,156.0,341.0,0.0,0.6,2.2,10.7,66.0,1018.9,14.0,16.0,58.4
+ICTMicroclimate-08,2024-06-20T21:28:47+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,177.0,353.0,0.0,0.8,3.2,10.6,65.7,1016.9,15.0,16.0,72.0
+aws5-0999,2024-06-20T21:30:28+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,0.0,349.0,0.0,0.0,0.4,10.1,74.7,1014.5,,,
+ICTMicroclimate-02,2024-06-20T21:31:01+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,349.0,348.0,0.3,0.4,1.3,10.9,71.3,1012.2,24.0,28.0,70.6
+ICTMicroclimate-09,2024-06-20T21:36:47+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,322.0,359.0,0.0,0.5,1.9,10.7,65.3,1015.7,27.0,32.0,60.1
+ICTMicroclimate-06,2024-06-20T21:38:07+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,38.0,358.0,0.0,0.2,3.9,10.5,66.7,1016.9,13.0,15.0,57.4
+ICTMicroclimate-01,2024-06-20T21:45:45+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,0.0,,,0.0,,9.5,76.5,1016.5,17.0,26.0,50.700001
+ICTMicroclimate-09,2024-06-20T21:51:50+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,355.0,359.0,0.0,0.2,2.2,10.5,66.2,1015.7,27.0,32.0,58.7
+ICTMicroclimate-08,2024-06-20T21:58:54+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,178.0,314.0,0.0,0.4,2.0,10.2,67.1,1016.9,15.0,16.0,66.1
+ICTMicroclimate-01,2024-06-20T22:00:45+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,0.0,,,0.0,,9.2,77.800003,1016.299988,17.0,26.0,50.799999
+ICTMicroclimate-02,2024-06-20T22:01:04+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,1.0,357.0,0.0,0.7,1.6,10.6,73.2,1012.1,22.0,25.0,70.5
+ICTMicroclimate-09,2024-06-20T22:06:54+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,343.0,357.0,0.0,0.2,1.5,10.2,67.2,1015.7,27.0,32.0,57.4
+ICTMicroclimate-06,2024-06-20T22:08:13+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,0.0,346.0,0.0,0.0,3.4,10.1,68.3,1016.9,13.0,15.0,67.9
+aws5-0999,2024-06-20T22:15:33+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,0.0,0.0,0.0,0.0,0.0,8.7,81.7,1014.5,,,
+ICTMicroclimate-03,2024-06-20T22:24:40+10:00,CH1 rooftop,"-37.8140348, 144.96728",151.0,179.0,195.0,1.3,1.6,3.0,9.6,76.4,1011.2,30.0,32.0,78.7
+ICTMicroclimate-07,2024-06-20T22:24:56+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,143.0,359.0,0.0,0.4,1.7,9.6,69.8,1018.9,14.0,16.0,60.3
+ICTMicroclimate-03,2024-06-20T22:39:42+10:00,CH1 rooftop,"-37.8140348, 144.96728",129.0,155.0,183.0,0.7,2.0,4.1,9.6,73.9,1011.3,25.0,28.0,71.3
+ICTMicroclimate-08,2024-06-20T22:43:57+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,173.0,269.0,0.0,0.5,0.9,9.4,70.1,1017.1,15.0,16.0,68.8
+aws5-0999,2024-06-20T22:45:41+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,59.0,179.0,0.1,0.0,0.2,7.8,84.5,1014.7,,,
+ICTMicroclimate-07,2024-06-20T22:55:01+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,170.0,336.0,0.0,0.3,2.8,8.9,72.2,1019.3,14.0,16.0,65.6
+ICTMicroclimate-02,2024-06-20T23:01:13+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",18.0,15.0,318.0,0.1,0.5,0.7,10.3,70.9,1012.5,30.0,33.0,70.2
+ICTMicroclimate-03,2024-06-20T23:09:46+10:00,CH1 rooftop,"-37.8140348, 144.96728",116.0,144.0,179.0,1.8,2.7,4.1,9.5,74.3,1011.5,24.0,27.0,72.3
+ICTMicroclimate-08,2024-06-20T23:14:03+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,342.0,352.0,0.0,0.2,1.7,9.1,70.0,1017.3,15.0,16.0,61.2
+ICTMicroclimate-03,2024-06-20T23:24:46+10:00,CH1 rooftop,"-37.8140348, 144.96728",142.0,147.0,179.0,2.1,2.6,3.0,9.5,73.0,1011.7,17.0,20.0,80.1
+ICTMicroclimate-01,2024-06-20T23:30:48+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,81.0,,,0.4,,8.0,82.300003,1017.0,17.0,26.0,51.099998
+aws5-0999,2024-06-20T23:31:20+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,99.0,190.0,0.1,0.0,0.4,7.3,86.4,1015.1,,,
+ICTMicroclimate-07,2024-06-20T23:40:07+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,0.0,314.0,0.0,0.0,1.7,8.0,74.0,1019.5,21.0,22.0,72.2
+ICTMicroclimate-07,2024-06-20T23:55:09+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,0.0,351.0,0.0,0.0,1.1,7.8,75.2,1019.7,21.0,22.0,60.6
+ICTMicroclimate-03,2024-06-21T00:09:54+10:00,CH1 rooftop,"-37.8140348, 144.96728",140.0,171.0,179.0,1.2,1.6,4.1,9.5,70.9,1011.8,17.0,19.0,72.3
+ICTMicroclimate-01,2024-06-21T00:15:52+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,1.0,,,0.1,,7.2,84.699997,1017.099976,17.0,26.0,48.299999
+ICTMicroclimate-03,2024-06-21T00:25:04+10:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,182.0,207.0,0.0,0.5,1.0,9.3,70.6,1011.9,14.0,16.0,69.6
+ICTMicroclimate-07,2024-06-21T00:25:16+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,0.0,327.0,0.0,0.0,2.1,7.3,76.4,1019.7,23.0,25.0,73.0
+ICTMicroclimate-06,2024-06-21T00:38:30+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,0.0,351.0,0.0,0.0,0.6,6.7,79.5,1017.9,13.0,15.0,59.0
+ICTMicroclimate-09,2024-06-21T00:52:13+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,351.0,359.0,0.0,0.4,1.4,9.1,68.8,1016.5,27.0,32.0,58.1
+ICTMicroclimate-03,2024-06-21T00:54:59+10:00,CH1 rooftop,"-37.8140348, 144.96728",162.0,186.0,245.0,0.4,1.0,1.8,9.5,69.2,1011.8,14.0,16.0,69.3
+ICTMicroclimate-07,2024-06-21T00:55:21+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,0.0,314.0,0.0,0.0,0.8,6.8,78.2,1019.7,23.0,25.0,57.6
+aws5-0999,2024-06-21T01:01:48+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,0.0,0.0,0.0,0.0,0.0,4.7,99.0,1015.3,,,
+ICTMicroclimate-09,2024-06-21T01:07:16+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,331.0,358.0,0.0,0.3,1.7,8.8,71.0,1016.7,27.0,32.0,57.2
+ICTMicroclimate-06,2024-06-21T01:23:36+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,0.0,359.0,0.0,0.0,1.0,6.1,81.3,1017.9,21.0,25.0,56.1
+ICTMicroclimate-03,2024-06-21T01:25:04+10:00,CH1 rooftop,"-37.8140348, 144.96728",179.0,192.0,221.0,0.6,1.1,1.4,9.5,69.6,1012.1,11.0,15.0,69.6
+ICTMicroclimate-08,2024-06-21T01:29:20+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,67.0,351.0,0.0,0.2,1.2,8.6,72.2,1017.9,15.0,16.0,63.4
+ICTMicroclimate-02,2024-06-21T01:31:32+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",18.0,359.0,18.0,0.4,0.1,0.4,10.3,67.7,1012.9,11.0,16.0,69.0
+ICTMicroclimate-06,2024-06-21T01:38:38+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,0.0,348.0,0.0,0.0,0.7,6.2,81.0,1018.1,21.0,25.0,60.9
+ICTMicroclimate-03,2024-06-21T01:40:05+10:00,CH1 rooftop,"-37.8140348, 144.96728",141.0,160.0,198.0,0.4,1.1,1.8,9.6,70.8,1012.1,17.0,19.0,69.6
+ICTMicroclimate-01,2024-06-21T01:45:53+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,112.0,,,0.4,,5.5,94.300003,1017.299988,17.0,26.0,49.200001
+ICTMicroclimate-02,2024-06-21T01:46:35+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,51.0,350.0,0.0,0.3,0.3,10.3,69.0,1012.9,14.0,17.0,68.7
+ICTMicroclimate-09,2024-06-21T01:52:22+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,302.0,358.0,0.0,0.4,1.9,8.4,73.4,1016.9,27.0,32.0,57.7
+ICTMicroclimate-06,2024-06-21T01:53:40+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,0.0,341.0,0.0,0.0,0.6,6.1,81.1,1018.1,21.0,25.0,57.5
+ICTMicroclimate-07,2024-06-21T01:55:24+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,0.0,341.0,0.0,0.0,1.0,6.7,78.9,1020.1,23.0,25.0,55.2
+ICTMicroclimate-08,2024-06-21T01:59:24+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,0.0,352.0,0.0,0.0,0.8,8.2,75.0,1017.9,15.0,16.0,59.7
+ICTMicroclimate-07,2024-06-21T02:10:27+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,0.0,325.0,0.0,0.0,1.4,6.8,78.5,1020.1,23.0,25.0,55.4
+ICTMicroclimate-08,2024-06-21T02:29:30+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,183.0,353.0,0.0,0.6,2.1,8.4,74.5,1018.3,15.0,16.0,73.1
+ICTMicroclimate-02,2024-06-21T02:31:43+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,75.0,204.0,0.2,0.6,1.0,9.9,73.1,1013.4,24.0,27.0,68.8
+ICTMicroclimate-03,2024-06-21T02:40:16+10:00,CH1 rooftop,"-37.8140348, 144.96728",179.0,160.0,179.0,0.6,0.7,0.6,9.1,77.4,1012.6,28.0,33.0,68.2
+ICTMicroclimate-07,2024-06-21T02:40:33+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,177.0,341.0,0.0,0.5,0.9,7.2,77.3,1020.5,23.0,25.0,55.7
+ICTMicroclimate-08,2024-06-21T02:44:30+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,176.0,355.0,0.0,0.8,2.0,8.7,72.9,1018.5,15.0,16.0,64.4
+aws5-0999,2024-06-21T02:48:45+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,0.0,10.0,0.0,0.0,0.1,4.2,99.0,1016.3,,,
+ICTMicroclimate-09,2024-06-21T02:52:29+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,326.0,359.0,0.0,0.3,1.8,8.2,75.1,1017.5,27.0,32.0,57.4
+ICTMicroclimate-03,2024-06-21T02:55:18+10:00,CH1 rooftop,"-37.8140348, 144.96728",238.0,203.0,238.0,0.8,0.6,0.8,9.1,79.0,1012.6,25.0,27.0,68.5
+ICTMicroclimate-01,2024-06-21T03:00:58+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,18.0,,,0.1,,6.3,93.599998,1017.900024,17.0,26.0,47.200001
+ICTMicroclimate-09,2024-06-21T03:07:31+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,2.0,359.0,0.0,0.3,1.2,8.4,75.0,1017.5,27.0,32.0,57.4
+ICTMicroclimate-08,2024-06-21T03:14:35+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,0.0,314.0,0.0,0.0,1.0,8.5,75.0,1018.7,15.0,16.0,59.7
+ICTMicroclimate-09,2024-06-21T03:22:33+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,3.0,359.0,0.0,0.1,1.5,8.4,74.9,1017.7,27.0,32.0,57.0
+ICTMicroclimate-06,2024-06-21T03:23:52+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,73.0,341.0,0.0,0.5,0.8,6.9,80.6,1018.9,21.0,25.0,52.7
+ICTMicroclimate-03,2024-06-21T03:25:19+10:00,CH1 rooftop,"-37.8140348, 144.96728",90.0,196.0,269.0,0.1,0.4,0.7,9.3,79.1,1012.9,22.0,24.0,68.5
+ICTMicroclimate-08,2024-06-21T03:44:38+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,163.0,197.0,0.0,0.7,1.8,7.3,80.2,1018.7,15.0,16.0,66.9
+ICTMicroclimate-06,2024-06-21T03:53:56+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,62.0,349.0,0.0,0.4,0.9,6.3,82.5,1018.7,21.0,25.0,50.7
+ICTMicroclimate-03,2024-06-21T03:55:23+10:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,335.0,352.0,0.1,0.4,0.7,9.0,80.7,1012.8,30.0,32.0,68.6
+ICTMicroclimate-08,2024-06-21T03:59:39+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,155.0,314.0,0.0,0.9,1.4,7.3,80.4,1018.7,15.0,16.0,63.9
+ICTMicroclimate-08,2024-06-21T04:14:41+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,0.0,269.0,0.0,0.0,1.4,6.8,82.3,1018.7,15.0,16.0,59.3
+ICTMicroclimate-01,2024-06-21T04:15:58+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,67.0,,,0.1,,5.5,98.199997,1018.0,17.0,26.0,48.299999
+ICTMicroclimate-02,2024-06-21T04:16:55+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",92.0,126.0,164.0,0.4,0.9,1.3,9.5,79.1,1013.6,36.0,43.0,68.5
+ICTMicroclimate-09,2024-06-21T04:37:47+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,316.0,358.0,0.0,0.2,1.8,7.2,79.7,1017.7,35.0,42.0,58.9
+ICTMicroclimate-03,2024-06-21T04:40:29+10:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,330.0,351.0,0.1,0.4,0.8,8.0,86.5,1012.9,31.0,34.0,68.6
+ICTMicroclimate-08,2024-06-21T04:44:46+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,156.0,341.0,0.0,0.3,1.9,6.1,84.8,1018.9,15.0,16.0,64.2
+aws5-0999,2024-06-21T04:47:43+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,0.0,356.0,0.0,0.0,0.3,3.3,98.8,1016.5,,,
+ICTMicroclimate-09,2024-06-21T04:52:46+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,312.0,359.0,0.0,0.4,2.7,7.1,80.0,1017.7,35.0,42.0,59.9
+ICTMicroclimate-06,2024-06-21T04:54:04+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,64.0,359.0,0.0,0.3,0.8,5.2,86.0,1018.9,21.0,25.0,57.1
+ICTMicroclimate-03,2024-06-21T04:55:31+10:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,348.0,354.0,0.4,0.5,0.8,8.0,87.3,1013.0,29.0,33.0,68.0
+ICTMicroclimate-01,2024-06-21T05:00:59+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,67.0,,,0.1,,4.7,96.800003,1018.200012,31.0,38.0,53.200001
+ICTMicroclimate-06,2024-06-21T05:09:07+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,0.0,352.0,0.0,0.0,0.6,5.0,87.0,1019.1,21.0,25.0,77.3
+ICTMicroclimate-08,2024-06-21T05:14:52+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,177.0,349.0,0.0,0.8,1.4,6.3,85.1,1019.1,15.0,16.0,63.4
+ICTMicroclimate-01,2024-06-21T05:31:02+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,0.0,,,0.0,,4.0,97.300003,1018.299988,31.0,38.0,50.0
+ICTMicroclimate-03,2024-06-21T05:40:36+10:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,340.0,351.0,0.0,0.2,0.5,7.6,90.3,1013.3,34.0,38.0,68.6
+aws5-0999,2024-06-21T05:48:39+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,0.0,45.0,0.0,0.0,0.1,2.7,99.0,1016.9,,,
+ICTMicroclimate-09,2024-06-21T05:52:54+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,336.0,359.0,0.0,0.3,3.5,6.9,82.1,1018.3,35.0,42.0,61.1
+ICTMicroclimate-07,2024-06-21T05:55:58+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,131.0,279.0,0.0,0.8,2.3,4.8,87.9,1021.5,23.0,25.0,63.3
+ICTMicroclimate-01,2024-06-21T06:01:02+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,90.0,,,0.4,,4.0,97.400002,1018.900024,31.0,38.0,53.5
+aws5-0999,2024-06-21T06:03:14+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,0.0,0.0,0.0,0.0,0.0,2.7,99.0,1017.1,,,
+ICTMicroclimate-03,2024-06-21T06:10:42+10:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,0.0,0.0,0.0,0.0,0.0,7.6,90.6,1013.7,30.0,32.0,69.2
+ICTMicroclimate-01,2024-06-21T06:16:04+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,85.0,,,0.3,,3.7,97.800003,1019.099976,31.0,38.0,50.599998
+ICTMicroclimate-08,2024-06-21T06:30:00+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,179.0,314.0,0.0,0.8,2.0,5.0,86.7,1020.1,32.0,32.0,74.5
+ICTMicroclimate-01,2024-06-21T06:31:05+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,77.0,,,0.1,,3.5,97.699997,1019.299988,31.0,38.0,52.700001
+ICTMicroclimate-09,2024-06-21T06:37:59+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,281.0,356.0,0.0,0.7,2.0,7.2,83.5,1019.1,35.0,42.0,63.2
+ICTMicroclimate-06,2024-06-21T06:39:18+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,91.0,191.0,0.0,0.6,1.6,4.6,86.7,1020.3,21.0,25.0,72.6
+ICTMicroclimate-03,2024-06-21T06:40:45+10:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,302.0,314.0,0.0,0.2,0.5,7.6,89.8,1014.3,33.0,38.0,69.9
+ICTMicroclimate-08,2024-06-21T06:45:06+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,153.0,263.0,0.0,0.8,2.2,5.1,86.1,1020.5,32.0,32.0,82.0
+ICTMicroclimate-09,2024-06-21T06:53:01+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,323.0,357.0,0.0,1.0,2.3,7.4,83.7,1019.3,35.0,42.0,61.5
+ICTMicroclimate-03,2024-06-21T06:55:47+10:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,0.0,179.0,0.0,0.0,0.3,7.8,89.2,1014.5,31.0,36.0,70.6
+ICTMicroclimate-08,2024-06-21T07:00:04+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,148.0,314.0,0.0,1.2,3.0,5.1,85.4,1020.7,32.0,32.0,65.7
+ICTMicroclimate-02,2024-06-21T07:02:16+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,11.0,356.0,0.2,0.7,1.6,7.5,87.7,1015.5,36.0,41.0,69.1
+aws5-0999,2024-06-21T07:17:06+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,0.0,341.0,0.0,0.0,0.5,2.9,98.5,1018.4,,,
+ICTMicroclimate-09,2024-06-21T07:53:10+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,276.0,359.0,0.0,0.7,2.0,7.8,82.6,1020.1,35.0,42.0,66.6
+ICTMicroclimate-06,2024-06-21T07:54:28+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,7.0,359.0,0.0,0.9,3.3,4.8,84.5,1021.5,21.0,25.0,61.5
+ICTMicroclimate-03,2024-06-21T07:55:55+10:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,0.0,353.0,0.4,0.4,0.9,6.8,88.7,1015.5,45.0,56.0,71.4
+ICTMicroclimate-01,2024-06-21T08:01:08+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,102.0,,,0.6,,4.1,97.099998,1020.700012,31.0,38.0,51.5
+ICTMicroclimate-02,2024-06-21T08:02:24+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,10.0,346.0,0.4,0.4,0.7,6.8,90.8,1016.4,43.0,53.0,71.2
+aws5-0999,2024-06-21T08:02:39+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,7.0,179.0,0.1,0.0,0.5,2.9,98.5,1019.0,,,
+ICTMicroclimate-01,2024-06-21T08:16:08+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,67.0,,,0.2,,4.2,97.300003,1021.0,31.0,38.0,55.900002
+ICTMicroclimate-09,2024-06-21T08:23:14+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,288.0,359.0,0.0,0.6,2.0,7.6,81.6,1020.5,35.0,42.0,76.4
+ICTMicroclimate-06,2024-06-21T08:24:32+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,41.0,359.0,0.0,1.1,3.8,5.2,84.1,1021.9,21.0,25.0,72.8
+ICTMicroclimate-03,2024-06-21T08:26:01+10:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,4.0,269.0,0.0,0.2,0.4,7.1,88.0,1015.9,38.0,46.0,70.5
+ICTMicroclimate-07,2024-06-21T08:26:18+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,0.0,359.0,0.0,0.0,3.6,5.1,83.7,1023.9,23.0,25.0,75.6
+aws5-0999,2024-06-21T08:32:00+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",134.0,0.0,134.0,0.0,0.2,0.3,3.0,98.4,1019.5,,,
+ICTMicroclimate-02,2024-06-21T08:32:29+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",100.0,105.0,100.0,1.3,0.7,1.3,7.7,87.9,1016.8,35.0,46.0,71.8
+ICTMicroclimate-06,2024-06-21T08:39:34+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,36.0,357.0,0.0,1.3,8.1,5.5,83.3,1021.9,21.0,25.0,73.6
+ICTMicroclimate-03,2024-06-21T08:41:01+10:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,355.0,335.0,0.0,0.4,0.7,7.8,87.0,1016.1,40.0,48.0,70.1
+ICTMicroclimate-07,2024-06-21T08:41:18+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,113.0,358.0,0.0,0.6,3.9,5.3,83.1,1023.9,23.0,25.0,71.3
+ICTMicroclimate-03,2024-06-21T08:56:04+10:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,342.0,326.0,0.0,0.2,0.5,8.5,85.5,1016.0,34.0,41.0,70.8
+ICTMicroclimate-02,2024-06-21T09:02:33+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",79.0,114.0,141.0,0.9,1.8,1.9,9.3,88.0,1017.1,45.0,55.0,72.3
+ICTMicroclimate-03,2024-06-21T09:11:05+10:00,CH1 rooftop,"-37.8140348, 144.96728",131.0,171.0,179.0,0.8,1.2,1.8,9.1,88.7,1016.3,31.0,33.0,71.1
+ICTMicroclimate-07,2024-06-21T09:11:23+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,0.0,354.0,0.0,0.0,3.3,6.4,80.6,1024.3,23.0,25.0,70.5
+ICTMicroclimate-03,2024-06-21T09:26:08+10:00,CH1 rooftop,"-37.8140348, 144.96728",137.0,168.0,179.0,0.9,1.7,2.6,9.3,92.9,1016.4,29.0,31.0,70.9
+ICTMicroclimate-08,2024-06-21T09:30:26+10:00,Swanston St - Tram Stop 13 adjacent Federation Sq & Flinders St Station,"-37.8184515, 144.9678474",0.0,126.0,314.0,0.0,0.3,3.1,7.1,79.4,1022.3,44.0,54.0,70.0
+ICTMicroclimate-07,2024-06-21T09:41:27+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,116.0,355.0,0.0,0.3,3.1,7.1,78.9,1024.7,23.0,25.0,69.1
+ICTMicroclimate-01,2024-06-21T09:46:09+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,104.0,,,0.3,,6.1,93.199997,1022.0,31.0,38.0,51.799999
+ICTMicroclimate-06,2024-06-21T10:09:46+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,71.0,133.0,0.0,1.0,2.3,7.9,78.0,1022.9,21.0,25.0,81.2
+ICTMicroclimate-01,2024-06-21T10:16:10+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,90.0,,,0.4,,7.5,90.099998,1022.299988,39.0,55.0,50.0
+ICTMicroclimate-01,2024-06-21T10:31:10+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,84.0,,,0.3,,7.5,89.300003,1022.200012,39.0,55.0,50.5
+ICTMicroclimate-06,2024-06-21T10:39:50+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,8.0,359.0,0.0,1.3,4.1,8.5,77.3,1022.9,21.0,25.0,82.8
+ICTMicroclimate-07,2024-06-21T10:41:35+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,18.0,359.0,0.0,0.2,3.1,8.3,78.5,1024.9,23.0,25.0,58.9
+ICTMicroclimate-02,2024-06-21T10:47:48+10:00,101 Collins St L11 Rooftop,"-37.814604, 144.9702991",0.0,11.0,359.0,0.3,0.6,1.3,9.6,82.0,1018.2,47.0,58.0,70.1
+aws5-0999,2024-06-21T10:48:02+10:00,Royal Park Asset ID: COM2707,"-37.7956167, 144.9519007",0.0,67.0,45.0,0.3,0.0,0.1,9.5,91.0,1020.5,,,
+ICTMicroclimate-06,2024-06-21T10:54:53+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,45.0,359.0,0.0,0.3,3.3,8.7,78.0,1022.9,21.0,25.0,62.4
+ICTMicroclimate-03,2024-06-21T10:56:20+10:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,345.0,351.0,0.0,0.6,1.0,10.4,78.5,1017.1,40.0,48.0,72.0
+ICTMicroclimate-07,2024-06-21T10:56:37+10:00,Tram Stop 7C - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8222341, 144.9829409",0.0,48.0,350.0,0.0,0.3,2.1,8.9,77.4,1024.9,23.0,25.0,71.9
+ICTMicroclimate-01,2024-06-21T11:01:12+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,120.0,,,1.1,,8.1,88.800003,1022.299988,39.0,55.0,55.700001
+ICTMicroclimate-09,2024-06-21T11:08:36+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,36.0,358.0,0.0,0.3,1.8,11.1,73.7,1021.5,35.0,42.0,64.3
+ICTMicroclimate-03,2024-06-21T11:11:21+10:00,CH1 rooftop,"-37.8140348, 144.96728",0.0,182.0,224.0,0.0,0.2,0.6,10.6,78.7,1017.2,37.0,45.0,70.3
+ICTMicroclimate-01,2024-06-21T11:16:12+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,84.0,,,0.4,,8.3,89.199997,1022.299988,39.0,55.0,51.400002
+ICTMicroclimate-09,2024-06-21T11:23:38+10:00,SkyFarm (Jeff's Shed). Rooftop - Melbourne Conference & Exhibition Centre (MCEC),"-37.8223306, 144.9521696",0.0,280.0,359.0,0.0,1.2,2.9,11.6,74.4,1021.5,35.0,42.0,63.1
+ICTMicroclimate-06,2024-06-21T11:24:56+10:00,Tram Stop 7B - Melbourne Tennis Centre Precinct - Rod Laver Arena,"-37.8194993, 144.9787211",0.0,42.0,357.0,0.0,0.2,2.7,10.3,74.0,1022.7,21.0,25.0,60.1
+ICTMicroclimate-01,2024-06-21T11:31:12+10:00,Birrarung Marr Park - Pole 1131,"-37.8185931, 144.9716404",,101.0,,,0.5,,8.6,88.199997,1022.200012,39.0,55.0,51.799999
