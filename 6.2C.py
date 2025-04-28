@@ -219,7 +219,7 @@ print(f'Mutual Information Score: {mis}')
 from sklearn.cluster import AgglomerativeClustering
 
 # Create a sample of the dataset
-CURE_SAMPLE_SIZE = 35000 # Full dataset requires 358GiB of memory, so take a sample
+CURE_SAMPLE_SIZE = 50000 # Full tree requires 358GiB of memory, so take a sample
 CURE_SEED = 1818
 df_pca_no_label_sample = df_pca_no_label.sample(n=CURE_SAMPLE_SIZE, random_state=CURE_SEED)
 
@@ -229,19 +229,18 @@ for i in range(2, 11):
     # Apply CURE clustering to the dataset using the specified metric
     ac = AgglomerativeClustering(n_clusters=i, metric='euclidean', compute_full_tree=True, linkage='ward', distance_threshold=None)
     ac.fit(df_pca_no_label_sample)
-    # Get the number of clusters and noise points
+    # Get the number of clusters
     labels = ac.labels_
     n_clusters = len(set(labels)) - (1 if -1 in labels else 0)
-    n_noise = list(labels).count(-1)
     # Calculate silhouette score
     silhouette = silhouette_score(df_pca_no_label_sample, labels, metric='euclidean', sample_size=SIL_SAMPLE_SIZE, random_state=SEED)
     
-    cure_results.append({'n_clusters': n_clusters, 'n_noise': n_noise, 'silhouette': silhouette})
+    cure_results.append({'n_clusters': n_clusters, 'silhouette': silhouette})
 
 # Create a DataFrame for the results
 cure_results_df = pd.DataFrame(cure_results)
 
 # Determine the optimal number of clusters for CURE clustering
 optimal_cure = cure_results_df.loc[cure_results_df['silhouette'].idxmax()]
-print("Optimal parameters for CURE clustering:")
+print(f"Optimal parameters for CURE clustering with sample size of {CURE_SAMPLE_SIZE}:")
 print(optimal_cure)
