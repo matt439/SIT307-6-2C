@@ -68,20 +68,24 @@ print(df_scaled.info())
 print(df_scaled.describe())
 print(df_scaled.isnull().sum())
 
+# Take a sample of the dataset for PCA and clustering
+SAMPLE_SIZE = 1000 # set the sample size for PCA and clustering
+SEED = 439 # set a random seed for reproducibility
+df_scaled_sample = df_scaled.sample(n=SAMPLE_SIZE, random_state=SEED)
+
 from sklearn.decomposition import PCA
 import numpy as np
 PCA_COMPONENTS = 5 # set the number of components for PCA
-SEED = 439 # set a random seed for reproducibility
 # Perform PCA to reduce the dimensionality of the dataset to 5 components
 pca = PCA(n_components=PCA_COMPONENTS)
-df_scaled_no_sen_loc = df_scaled.drop(columns=['SensorLocation'])
-df_pca_no_label = pca.fit_transform(df_scaled_no_sen_loc)
+df_scaled_sample_no_sen_loc = df_scaled_sample.drop(columns=['SensorLocation'])
+df_pca_sample_no_label = pca.fit_transform(df_scaled_sample_no_sen_loc)
 # Convert the PCA result back to a DataFrame
-df_pca_no_label = pd.DataFrame(df_pca_no_label, columns=[f'PC{i+1}' for i in range(PCA_COMPONENTS)])
-df_pca = df_pca_no_label.copy()
-df_pca['SensorLocation'] = df['SensorLocation'].values # add the 'SensorLocation' column back to the DataFrame
-print(df_pca.head())
-print(df_pca.info())
+df_pca_sample_no_label = pd.DataFrame(df_pca_sample_no_label, columns=[f'PC{i+1}' for i in range(PCA_COMPONENTS)])
+df_pca_sample = df_pca_sample_no_label.copy()
+df_pca_sample['SensorLocation'] = df_scaled_sample['SensorLocation'].values # add the 'SensorLocation' column back to the DataFrame
+print(df_pca_sample.head())
+print(df_pca_sample.info())
 
 # Plot the cumulative variance explained by the principal components
 explained_variance = pca.explained_variance_ratio_
@@ -108,13 +112,13 @@ from yellowbrick.cluster import KElbowVisualizer
 
 model = KMeans(random_state=SEED, n_init=1, init='k-means++')
 visualizer = KElbowVisualizer(model, k=(1,11), metric='distortion', timings=False) # distortion = Euclidean distance
-visualizer.fit(df_pca_no_label) # Fit the data to the visualizer
+visualizer.fit(df_pca_sample_no_label) # Fit the data to the visualizer
 visualizer.show()
 # The optimal number of clusters is 6, as the elbow point is at k=6.
 
 # Fit the KMeans model with 6 clusters
 kmeans = KMeans(n_clusters=6, random_state=SEED, n_init=1, init='k-means++')
-kmeans.fit(df_pca_no_label)
+kmeans.fit(df_pca_sample_no_label)
 
 from sklearn import metrics
 def purity_score(y_true, y_pred):
@@ -124,14 +128,11 @@ def purity_score(y_true, y_pred):
 from sklearn.metrics import normalized_mutual_info_score
 from sklearn.metrics import silhouette_score
 
-SIL_SAMPLE_SIZE = 10000 # set the sample size for silhouette score calculation
-
 # Evaluate the clustering results using inertia, silhouette score, purity score, and mutual information score
 avg_inertia = kmeans.inertia_
-silhouette_kmeans = silhouette_score(df_pca_no_label, kmeans.labels_, metric='euclidean',
-                                     sample_size=SIL_SAMPLE_SIZE, random_state=SEED)
-purity = purity_score(df['SensorLocation'], kmeans.labels_)
-mis = normalized_mutual_info_score(df['SensorLocation'], kmeans.labels_)
+silhouette_kmeans = silhouette_score(df_pca_sample_no_label, kmeans.labels_, metric='euclidean')
+purity = purity_score(df_scaled_sample['SensorLocation'], kmeans.labels_)
+mis = normalized_mutual_info_score(df_scaled_sample['SensorLocation'], kmeans.labels_)
 
 # Print the evaluation results
 print(f'Inertia: {avg_inertia}')
@@ -148,40 +149,32 @@ euclidean_results = []
 mahalanobis_results = []
 manhattan_results = []
 
-cov_matrix = np.cov(df_pca_no_label.T)  # covariance matrix for Mahalanobis distance
-cov_matrix_inv = np.linalg.inv(cov_matrix)  # Inverse of the covariance matrix
+cov_matrix = np.cov(df_pca_sample_no_label.T)  # covariance matrix for Mahalanobis distance
+cov_matrix_reg = cov_matrix + np.eye(cov_matrix.shape[0]) * 1e-6  # regularization to avoid singular matrix
+cov_matrix_inv = np.linalg.inv(cov_matrix_reg)  # Inverse of the covariance matrix
 
-def calculate_DBSCAN_performance(eps, min_samples, df, metric, metric_params=None,
-                                 sil_metric=None, sil_sample_size=None, random_state=None):
+def calculate_DBSCAN_performance(eps, min_samples, df, metric, metric_params=None, sil_metric=None):
     # apply DBSCAN to the dataset using the specified metric
-    dbscan = DBSCAN(eps=eps, min_samples=min_samples, metric=metric,
-                    metric_params=metric_params, n_jobs=-1).fit(df)
+    dbscan = DBSCAN(eps=eps, min_samples=min_samples, metric=metric, metric_params=metric_params, n_jobs=-1).fit(df)
     # get the number of clusters and noise points
     labels = dbscan.labels_
     n_clusters = len(set(labels)) - (1 if -1 in labels else 0)
     n_noise = list(labels).count(-1)
     # calculate silhouette score
     if n_clusters > 1:
-        silhouette_dbscan = silhouette_score(df, labels, metric=sil_metric, sample_size=sil_sample_size,
-                                      random_state=random_state)
+        silhouette_dbscan = silhouette_score(df, labels, metric=sil_metric)
     else:
         silhouette_dbscan = -1
     return n_clusters, n_noise, silhouette_dbscan
 
-for i in range(1, 52, 10): # eps values from 0.0001 to 0.0051 with a step of 0.0010
-    for j in range(3, 9): # min_samples values from 3 to 8
-        eps = i / 10000
+for i in range(1, 22, 2): # eps values from 0.1 to 2.1 with step 0.2
+    for j in range(3, 11): # min_samples values from 3 to 10
+        eps = i / 10
         # calculate DBSCAN performance for each metric
-        euclidean_result = calculate_DBSCAN_performance(eps, j, df_pca_no_label, 'euclidean',
-                                                            sil_metric='euclidean', sil_sample_size=SIL_SAMPLE_SIZE,
-                                                            random_state=SEED)
-        mahalanobis_result = calculate_DBSCAN_performance(eps, j, df_pca_no_label, 'mahalanobis',
-                                                            metric_params={'V':cov_matrix_inv},
-                                                            sil_metric='euclidean', sil_sample_size=SIL_SAMPLE_SIZE,
-                                                            random_state=SEED)
-        manhattan_result = calculate_DBSCAN_performance(eps, j, df_pca_no_label, 'cityblock',
-                                                            sil_metric='euclidean', sil_sample_size=SIL_SAMPLE_SIZE,
-                                                            random_state=SEED)
+        euclidean_result = calculate_DBSCAN_performance(eps, j, df_pca_sample_no_label, 'euclidean', sil_metric='euclidean')
+        mahalanobis_result = calculate_DBSCAN_performance(eps, j, df_pca_sample_no_label, 'mahalanobis',
+                                                            metric_params={'V':cov_matrix_inv}, sil_metric='euclidean')
+        manhattan_result = calculate_DBSCAN_performance(eps, j, df_pca_sample_no_label, 'cityblock', sil_metric='euclidean')
         
         euclidean_results.append({'eps': eps, 'min_samples': j, 'n_clusters': euclidean_result[0],
                                   'n_noise': euclidean_result[1], 'silhouette': euclidean_result[2]})
@@ -206,17 +199,29 @@ print(optimal_mahalanobis)
 print("Optimal parameters for Manhattan distance:")
 print(optimal_manhattan)
 
+# Plot the silhouette score for different eps and min_samples values for each metric as 3D plot
+from mpl_toolkits.mplot3d import Axes3D
+fig = plt.figure(figsize=(15, 10))
+ax = fig.add_subplot(111, projection='3d')
+ax.scatter(euclidean_results_df['eps'], euclidean_results_df['min_samples'], euclidean_results_df['silhouette'],
+              c='b', marker='o', label='Euclidean')
+ax.scatter(mahalanobis_results_df['eps'], mahalanobis_results_df['min_samples'], mahalanobis_results_df['silhouette'],
+                c='r', marker='^', label='Mahalanobis')
+ax.scatter(manhattan_results_df['eps'], manhattan_results_df['min_samples'], manhattan_results_df['silhouette'],
+                c='g', marker='s', label='Manhattan')
+ax.set_xlabel('Epsilon')
+ax.set_ylabel('Min Samples')
+ax.set_zlabel('Silhouette Score')
+ax.set_title('Silhouette Score for Different Epsilon and Min Samples Values')
+ax.legend()
+plt.show()
+
 # Perform DBSCAN clustering with the optimal parameters for Euclidean distance
 dbscan_euclidean = DBSCAN(eps=optimal_euclidean['eps'], min_samples=int(optimal_euclidean['min_samples']),
-                           metric='euclidean', n_jobs=-1).fit(df_pca_no_label)
+                           metric='euclidean', n_jobs=-1).fit(df_pca_sample_no_label)
 
 # CURE Algorithm
 from sklearn.cluster import AgglomerativeClustering
-
-# Create a sample of the dataset
-CURE_SAMPLE_SIZE = 50000 # Full tree requires 358GiB of memory, so take a sample
-CURE_SEED = 1818
-df_pca_no_label_sample_cure = df_pca_no_label.sample(n=CURE_SAMPLE_SIZE, random_state=CURE_SEED)
 
 cure_results = []
 
@@ -224,14 +229,12 @@ for i in range(2, 11):
     # Apply CURE clustering to the dataset using the specified metric
     ac = AgglomerativeClustering(n_clusters=i, metric='euclidean',
                                  compute_full_tree=True, linkage='ward', distance_threshold=None)
-    ac.fit(df_pca_no_label_sample_cure)
+    ac.fit(df_pca_sample_no_label)
     # Get the number of clusters
     labels = ac.labels_
     n_clusters = len(set(labels)) - (1 if -1 in labels else 0)
     # Calculate silhouette score
-    silhouette_cure = silhouette_score(df_pca_no_label_sample_cure, labels,
-                                       metric='euclidean', sample_size=SIL_SAMPLE_SIZE, random_state=SEED)
-    
+    silhouette_cure = silhouette_score(df_pca_sample_no_label, labels, metric='euclidean')
     cure_results.append({'n_clusters': n_clusters, 'silhouette': silhouette_cure})
 
 # Create a DataFrame for the results
@@ -249,7 +252,7 @@ plt.show()
 
 # Determine the optimal number of clusters for CURE clustering
 optimal_cure = cure_results_df.loc[cure_results_df['silhouette'].idxmax()]
-print(f"Optimal parameters for CURE clustering with sample size of {CURE_SAMPLE_SIZE}:")
+print(f"Optimal parameters for CURE clustering with sample size of {SAMPLE_SIZE}:")
 print(optimal_cure)
 
 # Q3
@@ -260,13 +263,8 @@ from tslearn.preprocessing import TimeSeriesScalerMeanVariance
 from tslearn.utils import to_time_series_dataset
 from tslearn.metrics import cdist_dtw
 
-# Create a sample of the dataset
-DTW_SAMPLE_SIZE = 1000 # Much larger and the program crashes after ~30 minutes
-DTW_SEED = 1818
-df_pca_no_label_sample_dtw = df_pca_no_label.sample(n=DTW_SAMPLE_SIZE, random_state=DTW_SEED)
-
 # Convert the dataset to a time series dataset
-df_time_series = to_time_series_dataset(df_pca_no_label_sample_dtw.values)
+df_time_series = to_time_series_dataset(df_pca_sample_no_label.values)
 # Scale the time series data
 df_time_series = TimeSeriesScalerMeanVariance().fit_transform(df_time_series)
 
@@ -312,7 +310,7 @@ dtw_distance_matrix = cdist_dtw(df_time_series, n_jobs=-1)
 silhouette_dtw = silhouette_score(dtw_distance_matrix, dtw_labels, metric='precomputed') # No need to sample, as sampling is done in the DTW clustering step
 
 # Print the DTW clustering results
-print(f"CLustering results for DTW clustering with sample size of {DTW_SAMPLE_SIZE}:")
+print(f"CLustering results for DTW clustering with sample size of {SAMPLE_SIZE}:")
 print(f"Number of clusters: {n_clusters}")
 print(f"Silhouette score: {silhouette_dtw}")
 
@@ -325,7 +323,7 @@ kshape_distortions = []
 
 for k in KSHAPE_CLUSTER_COUNT_RANGE:
     # Fit the KShape-based KMeans model
-    kshape_model = KShape(n_clusters=k, n_init=1, random_state=DTW_SEED, init='random')
+    kshape_model = KShape(n_clusters=k, n_init=1, random_state=SEED, init='random')
     kshape_model.fit(df_time_series) # Use the same sample as DTW for KShape clustering
     
     # Compute the distortion (sum of KShape distances to cluster centers)
@@ -340,18 +338,18 @@ plt.title('Elbow Method for KShape Clustering')
 plt.xlabel('Number of Clusters (k)')
 plt.ylabel('Distortion (Sum of KShape Distances)')
 plt.xticks(KSHAPE_CLUSTER_COUNT_RANGE)
-plt.axvline(x=5, color='g', linestyle='--')
+plt.axvline(x=4, color='g', linestyle='--')
 plt.grid()
 plt.show()
-# Elbow at 5 clusters
+# Elbow at 4 clusters
 
 # Perform KShape clustering with ideal number of clusters
-kshape_model = KShape(n_clusters=5, n_init=1, random_state=DTW_SEED, init='random')
+kshape_model = KShape(n_clusters=4, n_init=1, random_state=SEED, init='random')
 kshape_model.fit(df_time_series)
 silhouette_kshape = silhouette_score(df_time_series[:, :, 0], kshape_model.labels_, metric="euclidean")
 
 # Print the KShape clustering results
-print(f"Clustering results for KShape clustering with sample size of {DTW_SAMPLE_SIZE}:")
+print(f"Clustering results for KShape clustering with sample size of {SAMPLE_SIZE}:")
 print(f"Number of clusters: {kshape_model.n_clusters}")
 print(f"Silhouette score: {silhouette_kshape}")
 
@@ -377,14 +375,14 @@ from sklearn.manifold import TSNE
 
 # Perform t-SNE to reduce the dimensionality of the full dataset to 2D
 tsne = TSNE(n_components=2, random_state=SEED, n_jobs=-1)
-df_tsne = tsne.fit_transform(df_pca_no_label)
+df_tsne = tsne.fit_transform(df_pca_sample_no_label)
 # Convert the t-SNE result back to a DataFrame
 df_tsne = pd.DataFrame(df_tsne, columns=['TSNE1', 'TSNE2'])
-df_tsne['SensorLocation'] = df['SensorLocation'].values # add the 'SensorLocation' column back to the DataFrame
+df_tsne['SensorLocation'] = df_scaled_sample['SensorLocation'].values # add the 'SensorLocation' column back to the DataFrame
 
-# KMeans clustering
+# KMeans clustering (6 clusters)
 plt.figure(figsize=(10, 6))
-plt.scatter(df_tsne['TSNE1'], df_tsne['TSNE2'], c=kmeans.labels_, cmap='viridis', s=10)
+plt.scatter(df_tsne['TSNE1'], df_tsne['TSNE2'], c=kmeans.labels_, cmap='tab10', s=10)
 plt.title('KMeans Clustering')
 plt.xlabel('TSNE1')
 plt.ylabel('TSNE2')
@@ -392,9 +390,9 @@ plt.colorbar(label='Cluster Label')
 plt.grid()
 plt.show()
 
-# DBSCAN clustering
+# DBSCAN clustering (2 clusters)
 plt.figure(figsize=(10, 6))
-plt.scatter(df_tsne['TSNE1'], df_tsne['TSNE2'], c=dbscan_euclidean.labels_, cmap='viridis', s=10)
+plt.scatter(df_tsne['TSNE1'], df_tsne['TSNE2'], c=dbscan_euclidean.labels_, cmap='tab10', s=10)
 plt.title('DBSCAN Clustering')
 plt.xlabel('TSNE1')
 plt.ylabel('TSNE2')
@@ -402,31 +400,19 @@ plt.colorbar(label='Cluster Label')
 plt.grid()
 plt.show()
 
-# Perform t-SNE to reduce the dimensionality of the CURE-sampled dataset to 2D
-df_tsne_cure = tsne.fit_transform(df_pca_no_label_sample_cure)
-# Convert the t-SNE result back to a DataFrame
-df_tsne_cure = pd.DataFrame(df_tsne_cure, columns=['TSNE1', 'TSNE2'])
-df_tsne_cure['SensorLocation'] = df['SensorLocation'].values # add the 'SensorLocation' column back to the DataFrame
-
-# CURE clustering
+# CURE clustering (4 clusters)
 plt.figure(figsize=(10, 6))
-plt.scatter(df_tsne_cure['TSNE1'], df_tsne_cure['TSNE2'], c=ac.labels_, cmap='viridis', s=10)
+plt.scatter(df_tsne['TSNE1'], df_tsne['TSNE2'], c=ac.labels_, cmap='tab10', s=10)
 plt.title('CURE Clustering')
 plt.xlabel('TSNE1')
 plt.ylabel('TSNE2')
-plt.colorbar(label='Cluster Label')
+plt.colorbar(label='Cluster Label',)
 plt.grid()
 plt.show()
 
-# Perform t-SNE to reduce the dimensionality of the DTW-sampled dataset to 2D
-df_tsne_dtw = tsne.fit_transform(df_pca_no_label_sample_dtw)
-# Convert the t-SNE result back to a DataFrame
-df_tsne_dtw = pd.DataFrame(df_tsne_dtw, columns=['TSNE1', 'TSNE2'])
-df_tsne_dtw['SensorLocation'] = df['SensorLocation'].values # add the 'SensorLocation' column back to the DataFrame
-
-# DTW clustering
+# DTW clustering (5 clusters)
 plt.figure(figsize=(10, 6))
-plt.scatter(df_tsne_dtw['TSNE1'], df_tsne_dtw['TSNE2'], c=dtw_labels, cmap='viridis', s=10)
+plt.scatter(df_tsne['TSNE1'], df_tsne['TSNE2'], c=dtw_labels, cmap='tab10', s=10)
 plt.title('DTW Clustering')
 plt.xlabel('TSNE1')
 plt.ylabel('TSNE2')
@@ -434,9 +420,9 @@ plt.colorbar(label='Cluster Label')
 plt.grid()
 plt.show()
 
-# KShape clustering
+# KShape clustering (4 clusters)
 plt.figure(figsize=(10, 6))
-plt.scatter(df_tsne_dtw['TSNE1'], df_tsne_dtw['TSNE2'], c=kshape_model.labels_, cmap='viridis', s=10)
+plt.scatter(df_tsne['TSNE1'], df_tsne['TSNE2'], c=kshape_model.labels_, cmap='tab10', s=10)
 plt.title('KShape Clustering')
 plt.xlabel('TSNE1')
 plt.ylabel('TSNE2')
