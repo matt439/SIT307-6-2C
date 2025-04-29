@@ -2,7 +2,7 @@
 import pandas as pd
 
 # Load the dataset
-df = pd.read_csv('C:/VSProjects/SIT307_6_2C/microclimate-sensors-data.csv')
+df = pd.read_csv('C:/VSProjects/SIT307-6-2C/microclimate-sensors-data.csv')
 print(df.head())
 print(df.info())
 print(df.describe())
@@ -87,16 +87,16 @@ print(df_pca.info())
 explained_variance = pca.explained_variance_ratio_
 cumulative_variance = np.cumsum(explained_variance)
 
-# determine how many components are needed to retain 90% of the total variance.
-plt.figure(figsize=(10, 6))
-plt.plot(range(1, len(cumulative_variance) + 1), cumulative_variance, marker='o')
-plt.title('Cumulative Explained Variance by Principal Components')
-plt.xlabel('Number of Components')
-plt.ylabel('Cumulative Explained Variance')
-plt.axhline(y=0.9, color='r', linestyle='--')
-plt.axvline(x=5, color='g', linestyle='--')
-plt.xticks(range(1, len(cumulative_variance) + 1))
-plt.grid()
+# # determine how many components are needed to retain 90% of the total variance.
+# plt.figure(figsize=(10, 6))
+# plt.plot(range(1, len(cumulative_variance) + 1), cumulative_variance, marker='o')
+# plt.title('Cumulative Explained Variance by Principal Components')
+# plt.xlabel('Number of Components')
+# plt.ylabel('Cumulative Explained Variance')
+# plt.axhline(y=0.9, color='r', linestyle='--')
+# plt.axvline(x=5, color='g', linestyle='--')
+# plt.xticks(range(1, len(cumulative_variance) + 1))
+# plt.grid()
 # plt.show()
 # 5 components are needed to retain 90% of the total variance.
 
@@ -108,7 +108,7 @@ from yellowbrick.cluster import KElbowVisualizer
 
 model = KMeans(random_state=SEED, n_init=1, init='k-means++')
 visualizer = KElbowVisualizer(model, k=(1,11), metric='distortion', timings=False) # distortion = Euclidean distance
-visualizer.fit(df_pca_no_label) # Fit the data to the visualizer
+# visualizer.fit(df_pca_no_label) # Fit the data to the visualizer
 # visualizer.show()
 # The optimal number of clusters is 5, as the elbow point is at k=5.
 
@@ -128,13 +128,13 @@ SIL_SAMPLE_SIZE = 10000 # set the sample size for silhouette score calculation
 
 # Evaluate the clustering results using inertia, silhouette score, purity score, and mutual information score
 avg_inertia = kmeans.inertia_
-silhouette = silhouette_score(df_pca_no_label, kmeans.labels_, metric='euclidean', sample_size=SIL_SAMPLE_SIZE, random_state=SEED)
+silhouette_kmeans = silhouette_score(df_pca_no_label, kmeans.labels_, metric='euclidean', sample_size=SIL_SAMPLE_SIZE, random_state=SEED)
 purity = purity_score(df['SensorLocation'], kmeans.labels_)
 mis = normalized_mutual_info_score(df['SensorLocation'], kmeans.labels_)
 
 # Print the evaluation results
 print(f'Inertia: {avg_inertia}')
-print(f'Silhouette Score: {silhouette}')
+print(f'Silhouette Score: {silhouette_kmeans}')
 print(f'Purity Score: {purity}')
 print(f'Mutual Information Score: {mis}')
 
@@ -215,32 +215,156 @@ print(f'Mutual Information Score: {mis}')
 # # print("Optimal parameters for Cosine distance:")
 # # print(optimal_cosine)
 
-# CURE Algorithm
-from sklearn.cluster import AgglomerativeClustering
+# # CURE Algorithm
+# from sklearn.cluster import AgglomerativeClustering
+
+# # Create a sample of the dataset
+# CURE_SAMPLE_SIZE = 50000 # Full tree requires 358GiB of memory, so take a sample
+# CURE_SEED = 1818
+# df_pca_no_label_sample_cure = df_pca_no_label.sample(n=CURE_SAMPLE_SIZE, random_state=CURE_SEED)
+
+# cure_results = []
+
+# for i in range(2, 11):
+#     # Apply CURE clustering to the dataset using the specified metric
+#     ac = AgglomerativeClustering(n_clusters=i, metric='euclidean', compute_full_tree=True, linkage='ward', distance_threshold=None)
+#     ac.fit(df_pca_no_label_sample_cure)
+#     # Get the number of clusters
+#     labels = ac.labels_
+#     n_clusters = len(set(labels)) - (1 if -1 in labels else 0)
+#     # Calculate silhouette score
+#     silhouette_cure = silhouette_score(df_pca_no_label_sample_cure, labels, metric='euclidean', sample_size=SIL_SAMPLE_SIZE, random_state=SEED)
+    
+#     cure_results.append({'n_clusters': n_clusters, 'silhouette': silhouette_cure})
+
+# # Create a DataFrame for the results
+# cure_results_df = pd.DataFrame(cure_results)
+
+# # Plot the silhouette score for different numbers of clusters
+# plt.figure(figsize=(10, 6))
+# plt.plot(cure_results_df['n_clusters'], cure_results_df['silhouette'], marker='o')
+# plt.title('Silhouette Score for Different Numbers of Clusters (CURE)')
+# plt.xlabel('Number of Clusters')
+# plt.ylabel('Silhouette Score')
+# plt.xticks(cure_results_df['n_clusters'])
+# plt.grid()
+# plt.show()
+
+# # Determine the optimal number of clusters for CURE clustering
+# optimal_cure = cure_results_df.loc[cure_results_df['silhouette'].idxmax()]
+# print(f"Optimal parameters for CURE clustering with sample size of {CURE_SAMPLE_SIZE}:")
+# print(optimal_cure)
+
+# Q3
+
+# Dynamic time warping (DTW)
+from tslearn.clustering import TimeSeriesKMeans
+from tslearn.preprocessing import TimeSeriesScalerMeanVariance
+from tslearn.utils import to_time_series_dataset
+from tslearn.metrics import cdist_dtw
 
 # Create a sample of the dataset
-CURE_SAMPLE_SIZE = 50000 # Full tree requires 358GiB of memory, so take a sample
-CURE_SEED = 1818
-df_pca_no_label_sample = df_pca_no_label.sample(n=CURE_SAMPLE_SIZE, random_state=CURE_SEED)
+DTW_SAMPLE_SIZE = 1000 # Much larger and the program crashes after ~30 minutes
+DTW_SEED = 1818
+df_pca_no_label_sample_dtw = df_pca_no_label.sample(n=DTW_SAMPLE_SIZE, random_state=DTW_SEED)
 
-cure_results = []
+# Convert the dataset to a time series dataset
+df_time_series = to_time_series_dataset(df_pca_no_label_sample_dtw.values)
+# Scale the time series data
+df_time_series = TimeSeriesScalerMeanVariance().fit_transform(df_time_series)
 
-for i in range(2, 11):
-    # Apply CURE clustering to the dataset using the specified metric
-    ac = AgglomerativeClustering(n_clusters=i, metric='euclidean', compute_full_tree=True, linkage='ward', distance_threshold=None)
-    ac.fit(df_pca_no_label_sample)
-    # Get the number of clusters
-    labels = ac.labels_
-    n_clusters = len(set(labels)) - (1 if -1 in labels else 0)
-    # Calculate silhouette score
-    silhouette = silhouette_score(df_pca_no_label_sample, labels, metric='euclidean', sample_size=SIL_SAMPLE_SIZE, random_state=SEED)
+# Range of cluster numbers to test
+DTW_CLUSTER_COUNT_RANGE = range(1, 11)
+dtw_distortions = []
+
+for k in DTW_CLUSTER_COUNT_RANGE:
+    # Fit the DTW-based KMeans model
+    dtw_model = TimeSeriesKMeans(n_clusters=k, metric="dtw", n_init=1, random_state=SEED, n_jobs=-1, init='k-means++')
+    dtw_model.fit(df_time_series)
     
-    cure_results.append({'n_clusters': n_clusters, 'silhouette': silhouette})
+    # Compute the distortion (sum of DTW distances to cluster centers)
+    distances = cdist_dtw(df_time_series, dtw_model.cluster_centers_)
+    distortion = sum([min(dist) for dist in distances])
+    dtw_distortions.append(distortion)
 
-# Create a DataFrame for the results
-cure_results_df = pd.DataFrame(cure_results)
+# Plot the elbow curve
+plt.figure(figsize=(8, 5))
+plt.plot(DTW_CLUSTER_COUNT_RANGE, dtw_distortions, marker='o')
+plt.title('Elbow Method for DTW Clustering')
+plt.xlabel('Number of Clusters (k)')
+plt.ylabel('Distortion (Sum of DTW Distances)')
+plt.xticks(DTW_CLUSTER_COUNT_RANGE)
+plt.axvline(x=4, color='g', linestyle='--')
+plt.grid()
+plt.show()
 
-# Determine the optimal number of clusters for CURE clustering
-optimal_cure = cure_results_df.loc[cure_results_df['silhouette'].idxmax()]
-print(f"Optimal parameters for CURE clustering with sample size of {CURE_SAMPLE_SIZE}:")
-print(optimal_cure)
+# The optimal number of clusters is 4, as the elbow point is at k=4.
+# # Fit the DTW-based KMeans model with the optimal number of clusters
+dtw_model = TimeSeriesKMeans(n_clusters=4, metric="dtw", n_init=1, random_state=SEED, n_jobs=-1, init='k-means++')
+dtw_model.fit(df_time_series)
+# Get the cluster labels for each time series
+dtw_labels = dtw_model.labels_
+# Get the cluster centers for each time series
+dtw_centers = dtw_model.cluster_centers_
+# Get the number of clusters
+n_clusters = len(set(dtw_labels)) - (1 if -1 in dtw_labels else 0)
+# Calculate silhouette score
+dtw_distance_matrix = cdist_dtw(df_time_series, n_jobs=-1)
+silhouette_dtw = silhouette_score(dtw_distance_matrix, dtw_labels, metric='precomputed') # No need to sample, as sampling is done in the DTW clustering step
+
+# Print the DTW clustering results
+print(f"CLustering results for DTW clustering with sample size of {DTW_SAMPLE_SIZE}:")
+print(f"Number of clusters: {n_clusters}")
+print(f"Silhouette score: {silhouette_dtw}")
+
+# KShape
+# from tslearn.preprocessing import TimeSeriesScalerMeanVariance
+# from tslearn.utils import to_time_series_dataset
+from tslearn.metrics import cdist_dtw
+from tslearn.clustering import KShape
+
+# KSHAPE_SAMPLE_SIZE = 1000
+# KSHAPE_SEED = 578
+
+# df_pca_no_label_sample_kshape = df_pca_no_label.sample(n=KSHAPE_SAMPLE_SIZE, random_state=KSHAPE_SEED)
+# # Convert the dataset to a time series dataset
+# df_time_series_kshape = to_time_series_dataset(df_pca_no_label_sample_kshape.values)
+# # Scale the time series data
+# df_time_series_kshape = TimeSeriesScalerMeanVariance().fit_transform(df_time_series_kshape)
+
+# Use the same sample as DTW for KShape clustering
+
+KSHAPE_CLUSTER_COUNT_RANGE = range(1, 11)
+kshape_distortions = []
+
+for k in KSHAPE_CLUSTER_COUNT_RANGE:
+    # Fit the KShape-based KMeans model
+    kshape_model = KShape(n_clusters=k, n_init=1, random_state=DTW_SEED, init='random')
+    kshape_model.fit(df_time_series)
+    
+    # Compute the distortion (sum of KShape distances to cluster centers)
+    distances = cdist_dtw(df_time_series, kshape_model.cluster_centers_)
+    distortion = sum([min(dist) for dist in distances])
+    kshape_distortions.append(distortion)
+
+# Plot the elbow curve
+plt.figure(figsize=(8, 5))
+plt.plot(KSHAPE_CLUSTER_COUNT_RANGE, kshape_distortions, marker='o')
+plt.title('Elbow Method for KShape Clustering')
+plt.xlabel('Number of Clusters (k)')
+plt.ylabel('Distortion (Sum of KShape Distances)')
+plt.xticks(KSHAPE_CLUSTER_COUNT_RANGE)
+plt.axvline(x=3, color='g', linestyle='--')
+plt.grid()
+plt.show()
+# Elbow at 3 clusters
+
+# Perform KShape clustering with ideal number of clusters
+kshape_model = KShape(n_clusters=3, n_init=1, random_state=KSHAPE_SEED, init='random')
+kshape_model.fit(df_time_series)
+silhouette_kshape = silhouette_score(df_time_series[:, :, 0], kshape_model.labels_, metric="euclidean")
+
+# Print the KShape clustering results
+print(f"Clustering results for KShape clustering with sample size of {DTW_SAMPLE_SIZE}:")
+print(f"Number of clusters: {kshape_model.n_clusters}")
+print(f"Silhouette score: {silhouette_kshape}")
